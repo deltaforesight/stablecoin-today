@@ -9,5 +9,15 @@
   "copyright": "© 2026 DeltaForesight",
   "description": "Stablecoin Today is a short daily briefing on stablecoin news: issuers, regulation, payments, DeFi, and the market moves that matter, followed by the day's other top crypto headlines. Produced by DeltaForesight, a Tokyo-based firm focused on crypto assets and stablecoins. Episodes are generated with AI from published news reports and are not investment advice.",
   "disclaimer": "This episode was produced with AI from published news reports. It is not investment advice.",
-  "categories": [["News", "Business News"], ["Business", "Investing"]]
+  "categories": [
+    [
+      "News",
+      "Business News"
+    ],
+    [
+      "Business",
+      "Investing"
+    ]
+  ],
+  "podcast_guid": "a6c65155-7e07-5bd1-8ba3-13fb1eba625e"
 }

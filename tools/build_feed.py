@@ -37,11 +37,14 @@ for cat, sub in show['categories']:
     out.append(f'<itunes:category text="{x(cat)}"><itunes:category text="{x(sub)}"/></itunes:category>' if sub else f'<itunes:category text="{x(cat)}"/>')
 out += ['<itunes:explicit>false</itunes:explicit>', '<itunes:type>episodic</itunes:type>',
         f'<podcast:locked>yes</podcast:locked>',
+        f'<podcast:guid>{show["podcast_guid"]}</podcast:guid>',
         f'<lastBuildDate>{format_datetime(datetime.now(timezone.utc))}</lastBuildDate>']
 for e in eps:
     pub = datetime.fromisoformat(e['pub'])
     out += ['<item>',
             f'<title>{x(e["title"])}</title>',
+            f'<link>{x(e.get("link", show["link"]))}</link>',
+            f'<itunes:image href="{x(show["image"])}"/>',
             f'<description>{x(notes_html(e))}</description>',
             f'<content:encoded><![CDATA[{notes_html(e)}]]></content:encoded>',
             f'<itunes:summary>{x(e["summary"])}</itunes:summary>',
