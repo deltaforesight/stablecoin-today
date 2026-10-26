@@ -1,8 +1,8 @@
 {
   "title": "Stablecoin Today: Daily Stablecoin News",
-  "link": "https://deltaforesight.github.io/stablecoin-today/",
-  "feed_url": "https://deltaforesight.github.io/stablecoin-today/feed.xml",
-  "image": "https://deltaforesight.github.io/stablecoin-today/cover.jpg",
+  "link": "https://podcast.deltaforesight.com/",
+  "feed_url": "https://podcast.deltaforesight.com/feed.xml",
+  "image": "https://podcast.deltaforesight.com/cover.jpg",
   "language": "en-us",
   "author": "DeltaForesight",
   "email": "podcast@deltaforesight.com",
@@ -19,5 +19,5 @@
       "Investing"
     ]
   ],
-  "podcast_guid": "a6c65155-7e07-5bd1-8ba3-13fb1eba625e"
+  "podcast_guid": "32684a61-6534-58ff-9710-2733cb9426b9"
 }
