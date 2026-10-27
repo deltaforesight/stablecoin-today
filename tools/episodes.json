@@ -1,23 +1,402 @@
-[{
-  "guid": "stablecoin-today-2026-10-25",
-  "title": "Oct 25, 2026: Bots behind Tether's record day, Reflect's one-click stablecoins, Aave curated markets",
-  "pub": "2026-10-26T08:00:00+09:00",
-  "summary": "Crystal Intelligence finds 98% of a record day of Tether transfers came from bots; Reflect lets businesses issue branded stablecoins on Solana; Aave opens its first externally curated lending market. Plus the Bank of Israel on sanctions, South Korea's crypto tax delay, bitcoin below 80,000 dollars, and the X100 and Keystone incidents.",
-  "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-10-25/stablecoin-today_2026-10-25.mp3",
-  "bytes": 2636108,
-  "seconds": 219.584000,
-  "notes": [
-    {"title": "98% of Tether's 3.69 trillion dollar transfer day on Oct 17 was bot round-tripping (Crystal Intelligence)", "sources": [["NADA NEWS", "https://www.nadanews.com/387767/"]]},
-    {"title": "Reflect launches Create to issue branded stablecoins on Solana", "sources": [["bitbank", "https://bitbank.cc/knowledge/breaking/article/glkh7tf5rnfk"]]},
-    {"title": "Aave V4 opens first externally curated lending market, run by Sentora", "sources": [["bitbank", "https://bitbank.cc/knowledge/breaking/article/186iofl_lth8"]]},
-    {"title": "Bank of Israel rejects crypto as a way around sanctions", "sources": [["NADA NEWS", "https://www.nadanews.com/387786/"], ["Cointelegraph", "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions"]]},
-    {"title": "South Korea reportedly delays its 2027 crypto tax again", "sources": [["NADA NEWS", "https://www.nadanews.com/387837/"]]},
-    {"title": "Google requires local licenses for crypto ads in the UAE", "sources": [["bitbank", "https://bitbank.cc/knowledge/breaking/article/lnkmk-dg9"]]},
-    {"title": "Bitcoin briefly falls below 80,000 dollars; about 400 million dollars in long liquidations", "sources": [["The Block", "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608"], ["CoinDesk", "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations"]]},
-    {"title": "Block launches its first consumer bitcoin ad campaign, Bitcoin Does", "sources": [["bitbank", "https://bitbank.cc/knowledge/breaking/article/ruq75_d8qgqk"]]},
-    {"title": "X100 loses about 4.85 million dollars in a flash-loan governance attack", "sources": [["Crypto Times", "https://www.cryptotimes.io/2026/10/24/x100-hack-attackers-hijack-governance-drain-4-85m-as-x-token-crashes-96/"]]},
-    {"title": "Keystone discloses a customer data breach", "sources": [["NADA NEWS", "https://www.nadanews.com/387829/"]]},
-    {"title": "Crypto-targeted home invasion in Mont-de-Marsan, France", "sources": [["bitbank", "https://bitbank.cc/knowledge/breaking/article/obqgfhgvif"]]},
-    {"title": "Colombia arrests eight over crypto drug-money laundering", "sources": [["bitbank", "https://bitbank.cc/knowledge/breaking/article/hzj8t3t_b89d"]]}
-  ]
-}]
+[
+  {
+    "guid": "stablecoin-today-2026-10-25",
+    "title": "Oct 25, 2026: Bots behind Tether's record day, Reflect's one-click stablecoins, Aave curated markets",
+    "pub": "2026-10-26T08:00:00+09:00",
+    "summary": "Crystal Intelligence finds 98% of a record day of Tether transfers came from bots; Reflect lets businesses issue branded stablecoins on Solana; Aave opens its first externally curated lending market. Plus the Bank of Israel on sanctions, South Korea's crypto tax delay, bitcoin below 80,000 dollars, and the X100 and Keystone incidents.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-10-25/stablecoin-today_2026-10-25.mp3",
+    "bytes": 2636108,
+    "seconds": 219.584,
+    "notes": [
+      {
+        "title": "98% of Tether's 3.69 trillion dollar transfer day on Oct 17 was bot round-tripping (Crystal Intelligence)",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/387767/"
+          ]
+        ]
+      },
+      {
+        "title": "Reflect launches Create to issue branded stablecoins on Solana",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/glkh7tf5rnfk"
+          ]
+        ]
+      },
+      {
+        "title": "Aave V4 opens first externally curated lending market, run by Sentora",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/186iofl_lth8"
+          ]
+        ]
+      },
+      {
+        "title": "Bank of Israel rejects crypto as a way around sanctions",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/387786/"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions"
+          ]
+        ]
+      },
+      {
+        "title": "South Korea reportedly delays its 2027 crypto tax again",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/387837/"
+          ]
+        ]
+      },
+      {
+        "title": "Google requires local licenses for crypto ads in the UAE",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/lnkmk-dg9"
+          ]
+        ]
+      },
+      {
+        "title": "Bitcoin briefly falls below 80,000 dollars; about 400 million dollars in long liquidations",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations"
+          ]
+        ]
+      },
+      {
+        "title": "Block launches its first consumer bitcoin ad campaign, Bitcoin Does",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/ruq75_d8qgqk"
+          ]
+        ]
+      },
+      {
+        "title": "X100 loses about 4.85 million dollars in a flash-loan governance attack",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/24/x100-hack-attackers-hijack-governance-drain-4-85m-as-x-token-crashes-96/"
+          ]
+        ]
+      },
+      {
+        "title": "Keystone discloses a customer data breach",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/387829/"
+          ]
+        ]
+      },
+      {
+        "title": "Crypto-targeted home invasion in Mont-de-Marsan, France",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/obqgfhgvif"
+          ]
+        ]
+      },
+      {
+        "title": "Colombia arrests eight over crypto drug-money laundering",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/hzj8t3t_b89d"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "stablecoin-today-2026-10-26",
+    "title": "Oct 26, 2026: Canada's no-interest stablecoin rules, Anchorpoint's retail delay, Circle Match",
+    "pub": "2026-10-27T08:00:00+09:00",
+    "summary": "Canada opens a consultation on draft stablecoin rules that keep a ban on paying interest to holders; Standard Chartered's Anchorpoint declines to commit to a retail launch date in Hong Kong; Circle launches hourly auctions that pair USDC issuance and redemption for institutions. Plus the GMO Internet extortion demand, Sony-backed Soneium's token plan, bitcoin back below 80,000 dollars before the Fed, and the Electrum fee-bump bug.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-10-26/stablecoin-today_2026-10-26.mp3",
+    "bytes": 3630572,
+    "seconds": 302.462667,
+    "notes": [
+      {
+        "title": "Canada opens consultation on draft stablecoin rules and keeps the ban on paying interest to holders",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields"
+          ]
+        ]
+      },
+      {
+        "title": "Anchorpoint, the Standard Chartered-led Hong Kong dollar stablecoin venture, will not commit to a retail launch date",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/87xjkj187y17"
+          ]
+        ]
+      },
+      {
+        "title": "Circle launches Circle Match, hourly auctions pairing institutional USDC issuance and redemption orders",
+        "sources": [
+          [
+            "CRYPTO TIMES",
+            "https://crypto-times.jp/news-circle-match-usdc-auction/"
+          ]
+        ]
+      },
+      {
+        "title": "GMO Internet breach: a person claiming responsibility demands 1 million dollars; group shares fall as much as 11%",
+        "sources": [
+          [
+            "CRYPTO TIMES",
+            "https://crypto-times.jp/news-gmo-stock-drop-breach/"
+          ],
+          [
+            "CRYPTO TIMES",
+            "https://crypto-times.jp/news-gmo-desktop-cloud-breach/"
+          ]
+        ]
+      },
+      {
+        "title": "Soneium, the Sony joint venture's Ethereum layer two, announces plans for a SONEIUM token",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=744397"
+          ],
+          [
+            "Neweconomy",
+            "https://www.neweconomy.jp/posts/620351"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/qrykbmg3t1u"
+          ]
+        ]
+      },
+      {
+        "title": "South Korea's presidential office says a fourth crypto tax delay is under review but not decided",
+        "sources": [
+          [
+            "Neweconomy",
+            "https://www.neweconomy.jp/posts/620294"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=744652"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-10-26-south-korea-weighs-fourth-delay-crypto-tax-431649"
+          ]
+        ]
+      },
+      {
+        "title": "California's financial regulator asks the SEC to drop a provision removing state pre-sale review",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/387997/"
+          ]
+        ]
+      },
+      {
+        "title": "MEXC phases out service in the Netherlands, citing the lack of a MiCA license",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/b4u9na8y-7"
+          ]
+        ]
+      },
+      {
+        "title": "Bitcoin slips below 80,000 dollars again before the Fed meeting; US spot ETFs took in about 301 million dollars last week",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/387885/"
+          ]
+        ]
+      },
+      {
+        "title": "Strategy pauses bitcoin purchases after five weeks and buys back about 205 million dollars of STRC preferred shares",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-10-26-strategy-pauses-bitcoin-buys-repurchases-205-million-of-strc-preferred-shares-431699"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/1cw2hmbg22"
+          ]
+        ]
+      },
+      {
+        "title": "Strive buys 6,182 bitcoin, lifting holdings to 43,000",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-10-26-strive-closes-in-second-largest-corporate-bitcoin-treasury-511-million-purchase-431729"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/kq127wt_b01"
+          ]
+        ]
+      },
+      {
+        "title": "Aviva Investors lists a tokenized share class of its sterling liquidity fund on the XRP Ledger with Ripple",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-10-26-aviva-investors-ripple-tokenized-share-class-sterling-fund-xrp-ledger-431712"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/pbzgy45lh"
+          ]
+        ]
+      },
+      {
+        "title": "Tether says 15 mining firms, including Bitmain, MicroBT and Canaan, will support its open-source mining kit MDK",
+        "sources": [
+          [
+            "CRYPTO TIMES",
+            "https://crypto-times.jp/news-tether-mdk-mining-ai/"
+          ]
+        ]
+      },
+      {
+        "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/o1f90h_lqdi"
+          ]
+        ]
+      },
+      {
+        "title": "Lido opens validators of up to 2,048 ETH to any operator with its 0x02 CSM",
+        "sources": [
+          [
+            "CRYPTO TIMES",
+            "https://crypto-times.jp/news-lido-csm-2048-eth-validators/"
+          ]
+        ]
+      },
+      {
+        "title": "The eCash hard fork of bitcoin is set for around October 29th, with a 1-for-1 ECX airdrop",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/26/bitcoin-ecash-hard-fork-goes-live-in-3-days-with-11-ecx-airdrop/"
+          ]
+        ]
+      },
+      {
+        "title": "Electrum fixes a bug that let rogue servers steal funds when users raised a transaction fee",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments"
+          ]
+        ]
+      },
+      {
+        "title": "SlowMist finds more than 1,500 phishing sites tied to the DarkSword attack on iPhones",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=744662"
+          ],
+          [
+            "Neweconomy",
+            "https://www.neweconomy.jp/posts/620282"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/387936/"
+          ]
+        ]
+      },
+      {
+        "title": "Solana trading bot BloomTrading loses about 954,000 dollars from 49 wallets and promises full refunds",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/26/solana-trading-bot-bloomtrading-hit-by-954k-wallet-drain-platform-vows-full-refund/"
+          ]
+        ]
+      },
+      {
+        "title": "Foundation traces phishing emails to Passport wallet users to compromised Cloudflare API keys",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/26/foundation-says-compromised-cloudflare-api-keys-fueled-passport-wallet-phishing-emails/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/ngqel-m_h"
+          ]
+        ]
+      },
+      {
+        "title": "Keystone customers say the breach exposed order data the company promised to delete after 180 days",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-10-25-keystone-customers-say-breach-exposed-data-the-hardware-wallet-maker-promised-to-delete-431613"
+          ]
+        ]
+      },
+      {
+        "title": "Bithumb and Upbit flag INIT as high risk after Initia's 2.7 million dollar exploit",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/26/bithumb-and-upbit-flag-initia-init-as-high-risk-after-2-7m-exploit/"
+          ]
+        ]
+      }
+    ]
+  }
+]
