@@ -398,5 +398,1325 @@
         ]
       }
     ]
+  },
+  {
+    "guid": "stablecoin-today-2026-10-27",
+    "title": "Oct 27, 2026: Ripple wins final OCC trust bank approval, OCC urges community banks to issue stablecoins, BlackRock eyes yen stablecoin link with SBI",
+    "pub": "2026-10-28T08:00:00+09:00",
+    "summary": "Ripple wins final approval for a national trust bank to manage its RLUSD reserves, and the OCC urges community banks to issue payment stablecoins. In Japan, BlackRock, SBI and Startale explore linking tokenized money market funds with the yen stablecoin JPYSC, while JPYC's CEO says circulation is not growing one year in.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-10-27/stablecoin-today_2026-10-27.mp3",
+    "bytes": 5377004,
+    "seconds": 447.998667,
+    "notes": [
+      {
+        "title": "Ripple wins final OCC approval for national trust bank to manage RLUSD reserves",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810"
+          ],
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/620542"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank"
+          ]
+        ]
+      },
+      {
+        "title": "OCC urges community banks to become payment stablecoin issuers",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/388203"
+          ]
+        ]
+      },
+      {
+        "title": "SBI and Startale sign MOU with BlackRock on tokenized MMFs and JPYSC",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=744829"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/388191"
+          ]
+        ]
+      },
+      {
+        "title": "BNY adds XRP and RLUSD custody, plans direct RLUSD minting and redemption",
+        "sources": [
+          [
+            "The Crypto Times",
+            "https://www.cryptotimes.io/2026/10/27/bny-expands-crypto-custody-for-ripples-xrp-and-rlusd-stablecoin"
+          ]
+        ]
+      },
+      {
+        "title": "JPYC at one year: CEO says circulation is not growing",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/387990"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: RedotPay weighs confidential US IPO filing, per Bloomberg",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/dhqendbmgb"
+          ]
+        ]
+      },
+      {
+        "title": "Ripple adds 24/7 Returns on RLUSD to Ripple Treasury",
+        "sources": [
+          [
+            "The Crypto Times",
+            "https://www.cryptotimes.io/2026/10/26/ripple-unveils-new-treasury-capabilities-for-cash-management"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/bzk30i3hqp"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: GMO server breach attacker starts posting purported customer data",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/388219"
+          ],
+          [
+            "CRYPTO TIMES (JP)",
+            "https://crypto-times.jp/news-gmo-onamae-vps-breach"
+          ]
+        ]
+      },
+      {
+        "title": "LDP blockchain caucus reports on US trip; JBA presents eight proposals",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745019"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/388226"
+          ]
+        ]
+      },
+      {
+        "title": "NEC and Dfns sign MOU on digital asset custody for Japanese banks",
+        "sources": [
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/620754"
+          ]
+        ]
+      },
+      {
+        "title": "NBA signs CFTC prediction market MOU, names Kalshi and Polymarket",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-10-26-nba-cftc-memorandum-of-understanding-prediction-markets-kalshi-polymarket-431764"
+          ],
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/620709"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Binance applies for Brazil crypto license",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/9bundk5hb34"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: 26 companies now object to OKX-ICE tokenized shares",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745033"
+          ],
+          [
+            "The Crypto Times",
+            "https://www.cryptotimes.io/2026/10/27/ibm-oracle-intel-ionq-among-26-firms-opposing-okx-ice-tokenized-shares"
+          ]
+        ]
+      },
+      {
+        "title": "US spot bitcoin ETFs take in $110 million on Monday",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/sv0ci-70px0"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins"
+          ]
+        ]
+      },
+      {
+        "title": "Galaxy Digital posts $323 million Q3 profit, new $200 million buyback",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-10-27-galaxy-digital-323-million-quarterly-profit-new-200-million-share-buyback-431860"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/hngrlwocnkr"
+          ],
+          [
+            "The Crypto Times",
+            "https://www.cryptotimes.io/2026/10/27/glxy-stock-price-gains-4-as-galaxy-reports-323m-q3-profit"
+          ]
+        ]
+      },
+      {
+        "title": "Kalshi partners with S&P Dow Jones Indices",
+        "sources": [
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/620702"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=744775"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/388097"
+          ]
+        ]
+      },
+      {
+        "title": "Janus Henderson launches Nasdaq-100 tokenized fund JQQQ on Stellar",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/h2r79krhdacb"
+          ]
+        ]
+      },
+      {
+        "title": "Chainlink launches CustodySync with Anchorage Digital",
+        "sources": [
+          [
+            "The Crypto Times",
+            "https://www.cryptotimes.io/2026/10/27/chainlink-and-anchorage-launch-custodysync-for-defi-lending-access"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/4cipuu919k_d"
+          ]
+        ]
+      },
+      {
+        "title": "Zcash co-founder proposes ending ZCG block reward allocation",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/ecosystems/2026-10-27-zcash-co-founder-proposes-ending-grants-subsidy-citing-125-million-treasury-431847"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/zcash-co-founder-ending-zcg-funding-125m"
+          ]
+        ]
+      },
+      {
+        "title": "Ethereum merges fix for Glamsterdam builder deposit bug",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders"
+          ],
+          [
+            "The Crypto Times",
+            "https://www.cryptotimes.io/2026/10/27/ethereum-developers-merge-patch-for-bug-that-put-staking-deposits-at-risk"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Keystone says device authentication key was stolen",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine"
+          ]
+        ]
+      },
+      {
+        "title": "Avalanche Safe targeted in $7.45M attack, MEV bot front-runs",
+        "sources": [
+          [
+            "The Crypto Times",
+            "https://www.cryptotimes.io/2026/10/27/avalanche-safe-loses-7-45m-to-misconfigured-approvals-mev-bot-front-runs-exploit"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: BloomTrading blames third-party module flaw",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/bloom-bot-hackers-953k-faster-popcorn"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/ljtn_cxgh0a"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Foundation finds 23,000+ phishing attempts",
+        "sources": [
+          [
+            "The Crypto Times",
+            "https://www.cryptotimes.io/2026/10/26/foundation-identifies-23000-phishing-attempts-investigates-data-exposure"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "stablecoin-today-2026-10-28",
+    "title": "Oct 28, 2026: Moody's rates RLUSD investment grade, Robinhood and Coinbase add RLUSD, DTCC launches tokenization",
+    "pub": "2026-10-29T08:00:00+09:00",
+    "summary": "Moody's gives Ripple's RLUSD an investment-grade rating, while Ripple and Robinhood expand their partnership and Coinbase begins supporting RLUSD. Coinbase will also auto-convert MiCA-restricted stablecoins for European customers, and DTCC launches its securities tokenization service.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-10-28/stablecoin-today_2026-10-28.mp3",
+    "bytes": 6114284,
+    "seconds": 509.448,
+    "notes": [
+      {
+        "title": "Moody's assigns investment-grade A2 and P-1 ratings to Ripple's RLUSD",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/28/moodys-assigns-ripples-rlusd-investment-grade-rating/"
+          ]
+        ]
+      },
+      {
+        "title": "Ripple and Robinhood expand partnership to bring RLUSD to Robinhood's retail app",
+        "sources": [
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/621436"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745096"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/27/ripple-deepens-robinhood-tie-up-for-stablecoins-treasury/"
+          ]
+        ]
+      },
+      {
+        "title": "Coinbase begins supporting RLUSD across retail and institutional platforms",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/28/coinbase-lists-ripples-rlusd-stablecoin-for-retail-and-institutional-users/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/36op-qylqn_1"
+          ]
+        ]
+      },
+      {
+        "title": "Coinbase to auto-convert 14 MiCA-restricted assets for EEA retail customers on October 30",
+        "sources": [
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/621573"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/27/coinbase-to-convert-14-crypto-assets-for-eea-customers-under-mica/"
+          ]
+        ]
+      },
+      {
+        "title": "Kaiko: USDC overtakes USDT in euro stablecoin trading",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/2-dirgpxic7"
+          ]
+        ]
+      },
+      {
+        "title": "Circle and ACI Worldwide explore USDC settlement alongside Colombia's Bre-B",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/28/circle-aci-explore-usdc-settlement-in-colombias-payment-network/"
+          ]
+        ]
+      },
+      {
+        "title": "Canadian dollar stablecoin CADC gets final prospectus receipt in Ontario",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/z6wv8yf-gh"
+          ]
+        ]
+      },
+      {
+        "title": "XRP Ledger developers propose sponsored wallets with zero XRP for stablecoin payments",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/vvckc9pcg"
+          ]
+        ]
+      },
+      {
+        "title": "DCP, STANDAGE and Shoko Chukin to study DCJPY trade settlement platform",
+        "sources": [
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/621380"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745173"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/388303/"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Toyota Finance's self-offered security token bond draws over 10x demand",
+        "sources": [
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/621441"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/388347/"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745103"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: GMO attacker demanded ransom in bitcoin and ether, initially $50 million",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/388378/"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: bitbank moves up BTC deposit and withdrawal halt for eCash hard fork",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/388402/"
+          ]
+        ]
+      },
+      {
+        "title": "CFTC sues Utah to protect Kalshi's prediction markets",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/388279/"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there"
+          ]
+        ]
+      },
+      {
+        "title": "Reuters: CFTC re-examines whether Polymarket breached its 2022 settlement",
+        "sources": [
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/621419"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745040"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/28/cftc-reopens-polymarket-probe-over-possible-breach-of-us-user-ban-deal/"
+          ]
+        ]
+      },
+      {
+        "title": "Bessent says crypto will strengthen the dollar, backs SEC-CFTC work after Clarity Act stall",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/388278/"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/28/treasurys-bessent-says-us-will-win-crypto-backs-sec-cftc-plan-after-clarity-act-setback/"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top"
+          ]
+        ]
+      },
+      {
+        "title": "Itaú Unibanco becomes first Brazilian bank to formalize crypto business under new rules",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/8fko_m9o8t"
+          ]
+        ]
+      },
+      {
+        "title": "Thailand's Supreme Court rules cryptocurrency is property",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/28/thailands-supreme-court-rules-bitcoin-is-property-upholds-robbery-conviction/"
+          ]
+        ]
+      },
+      {
+        "title": "US spot bitcoin ETFs take in $176 million as BTC tops $81,000",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/l09xuwt_dvj"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9"
+          ]
+        ]
+      },
+      {
+        "title": "Euronext suspends CoinShares Zcash ETP on debut day",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/euronext-suspends-coinshares-zcash-etp-debut"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/28/euronext-suspends-coinshares-zcash-etp-on-debut-day-over-settlement-requirements/"
+          ]
+        ]
+      },
+      {
+        "title": "Datavault AI shares plunge 50% after it cannot withdraw bitcoin from Biconomy",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-10-27-datavault-ai-stock-plummets-bitcoin-deal-431962"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/28/datavault-ai-dvlt-stock-drops-50-after-bitcoin-withdrawal-issue/"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: DTCC launches securities tokenization service with 20 firms",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/28/dtcc-takes-securities-tokenization-service-live-on-canton-besu/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/abarajmrizy"
+          ]
+        ]
+      },
+      {
+        "title": "Google previews Multi-Party Compute crypto custody for financial institutions",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/388446/"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/28/google-unveils-multi-party-compute-custody-product-for-banks-entering-crypto/"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: OKXICE objections reach 33 companies including JPMorgan and Coca-Cola",
+        "sources": [
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/621412"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/28/jpmorgan-coca-cola-amd-among-33-companies-blocking-tokenized-stock-trading-on-okxice/"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan"
+          ]
+        ]
+      },
+      {
+        "title": "Crypto.com and OG.com launch US crypto perpetuals",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/markets/2026-10-27-crypto-com-og-com-launch-us-crypto-perps-up-to-5x-leverage-431902"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/28/crypto-com-launches-regulated-crypto-perpetuals-for-us-traders/"
+          ]
+        ]
+      },
+      {
+        "title": "Robinhood Q3 crypto revenue falls 55% as prediction markets bring in $173 million",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745043"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-10-27-robinhood-chain-brings-in-26-million-crypto-revenue-rises-20-q2-431935"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/10/27/robinhood-s-crypto-revenue-plunges-55-even-as-trading-platform-posts-record-sales"
+          ]
+        ]
+      },
+      {
+        "title": "Ripple expects $900 million annualized product revenue run rate",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-10-28-ripple-900-million-revenue-run-rate-rlusd-431920"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/qv4z1nzjrpl"
+          ]
+        ]
+      },
+      {
+        "title": "Mirae Asset Securities issues tokenized notes on Solana",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/y6o8j0hjvn"
+          ]
+        ]
+      },
+      {
+        "title": "VanEck lists multi-asset ETF with 2% bitcoin target",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/388288/"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745067"
+          ]
+        ]
+      },
+      {
+        "title": "Bithumb finds signs of employee data leak after internal system breach",
+        "sources": [
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/621536"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/28/bithumb-mirae-asset-and-daishin-report-security-breaches/"
+          ]
+        ]
+      },
+      {
+        "title": "Coinbase says vendor Amplitude incident exposed some customer contact data",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/coinbase-analytics-provider-customer-data"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/28/coinbase-confirms-vendor-breach-as-3-south-korean-firms-report-separate-data-leaks/"
+          ]
+        ]
+      },
+      {
+        "title": "Solflare pauses validator staking rewards after operator security incident",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745089"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/28/solflare-pauses-sol-staking-rewards-after-security-incident/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/0g0uc69fjx6v"
+          ]
+        ]
+      },
+      {
+        "title": "Predict.fun reports about 400,000 USDT stolen, promises full compensation",
+        "sources": [
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/621589"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/27/300k-suspected-exploit-hits-predict-fun-on-bnb-smart-chain/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/2ycswsu5so0u"
+          ]
+        ]
+      },
+      {
+        "title": "Flash loan drains about $1.01 million USDC from Avalanche tranche vault",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/28/avalanche-vault-hack-1-01m-usdc-drained-in-flash-loan-exploit-tied-to-valinor-and-fence/"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "guid": "stablecoin-today-2026-10-29",
+    "title": "Oct 29, 2026: Visa stablecoin settlement tops $25B run rate, JPYC tax refunds for tourists, ICE plans Hyperliquid perps in U.S.",
+    "pub": "2026-10-30T08:00:00+09:00",
+    "summary": "Visa says stablecoin settlement has passed an annualized $25 billion, ten times a year earlier. Japan's tax refund service for tourists will pay refunds in the yen stablecoin JPYC from November 1, and Tether froze more than 30 TRON addresses holding about $27 million in USDT. Also: ICE plans Hyperliquid-based perpetual futures in the U.S., and Utah files criminal charges against Kalshi.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-10-29/stablecoin-today_2026-10-29.mp3",
+    "bytes": 5877836,
+    "seconds": 489.726667,
+    "notes": [
+      {
+        "title": "Visa says stablecoin settlement tops a $25 billion annualized run rate, up tenfold",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745421"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/388635/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/n-vgsqnbg7bm"
+          ]
+        ]
+      },
+      {
+        "title": "Japan Tax Free to pay tourist tax refunds in JPYC from November 1",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745397"
+          ],
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/621976"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/im3n96tb4mc"
+          ]
+        ]
+      },
+      {
+        "title": "Tether freezes 30+ TRON addresses holding about $27 million in USDT",
+        "sources": [
+          [
+            "The Crypto Times",
+            "https://www.cryptotimes.io/2026/10/29/tether-freezes-27m-usdt-across-35-tron-wallets-in-coordinated-blacklist/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/osl05_za7guy"
+          ]
+        ]
+      },
+      {
+        "title": "Alipay denies supporting crypto after Peer's USDC beta",
+        "sources": [
+          [
+            "The Crypto Times",
+            "https://www.cryptotimes.io/2026/10/29/alipay-denies-crypto-trading-support-after-peers-usdc-beta-launch/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/c528d--cp"
+          ]
+        ]
+      },
+      {
+        "title": "SBI and Cross River parent CRB Group agree to form a Japan joint venture, eye JPYSC",
+        "sources": [
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/621900"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745316"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/9v6-to52vh-a"
+          ]
+        ]
+      },
+      {
+        "title": "Sony launches incubation program for Soneium-based entertainment projects",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/388573/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/dsr2apu5krj9"
+          ],
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/621939"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Utah files criminal charges against Kalshi and its CEO and COO",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-10-29-utah-criminal-charges-kalshi-432104"
+          ],
+          [
+            "The Crypto Times",
+            "https://www.cryptotimes.io/2026/10/29/utah-files-14-felony-counts-against-kalshis-ceo-and-coo/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/6gjddxwar"
+          ]
+        ]
+      },
+      {
+        "title": "U.S. Treasury sanctions 10 people and one entity tied to North Korean IT worker fraud",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/388625/"
+          ],
+          [
+            "The Crypto Times",
+            "https://www.cryptotimes.io/2026/10/28/us-treasury-sanctions-10-over-north-korean-it-worker-crypto-networks/"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/10/29/u-s-sanctions-russian-crypto-middlemen-tied-to-north-korean-it-worker-fraud"
+          ]
+        ]
+      },
+      {
+        "title": "Coinbase applies for a Brazilian license ahead of the October 30 deadline",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/coinbase-brazil-license-no-service-disruption-expected"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/brazil-crypto-license-filing-deadline-hurdles-uncertainty"
+          ]
+        ]
+      },
+      {
+        "title": "Bank of England consults on tokenized collateral for clearing houses",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/bank-of-england-opens-consultation-on-tokenized-collateral-for-clearing"
+          ]
+        ]
+      },
+      {
+        "title": "FCA settles with HTX over unlawful UK crypto promotions",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/htx-halt-unlawful-uk-crypto-promotions-fca"
+          ]
+        ]
+      },
+      {
+        "title": "India's Enforcement Directorate searches Mudrex and InstaDapp",
+        "sources": [
+          [
+            "The Crypto Times",
+            "https://www.cryptotimes.io/2026/10/29/indias-ed-searches-mudrex-instadapp-over-inr-4600-crore-in-alleged-crypto-fema-violations/"
+          ]
+        ]
+      },
+      {
+        "title": "Fed holds rates at 3.75%-4.00% with two dissents for a hike; bitcoin dips below $80,000",
+        "sources": [
+          [
+            "CRYPTO TIMES (JP)",
+            "https://crypto-times.jp/news-fomc-hold-bitcoin-80k/"
+          ],
+          [
+            "The Crypto Times",
+            "https://www.cryptotimes.io/2026/10/29/fomc-rate-decision-fed-holds-rates-at-3-75-4-in-10-2-vote/"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto"
+          ]
+        ]
+      },
+      {
+        "title": "U.S. spot bitcoin ETFs add $137 million, turning October positive",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/kyxch-c-yd"
+          ]
+        ]
+      },
+      {
+        "title": "ECB President Lagarde to step down on February 7, 2027",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/ecb-president-lagarde-step-down-february-2027"
+          ],
+          [
+            "The Crypto Times",
+            "https://www.cryptotimes.io/2026/10/29/christine-lagarde-to-step-down-as-ecb-president-in-february-2027-what-it-means-for-the-digital-euro/"
+          ]
+        ]
+      },
+      {
+        "title": "Solidus Labs flags $170 million+ in possible spoofing on Hyperliquid oil perps (Bloomberg)",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/4a66n_6-yxq"
+          ]
+        ]
+      },
+      {
+        "title": "ICE and Trade[XYZ] plan Hyperliquid-based perpetual futures in the U.S.",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-10-29-ice-tradexyz-hyperliquid-perpetual-futures-us-432132"
+          ],
+          [
+            "The Crypto Times",
+            "https://www.cryptotimes.io/2026/10/29/nyse-owner-ice-and-tradexyz-plan-regulated-24-7-perpetual-futures-market-on-hyperliquid/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/0qx_v--ma3-e"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Kalshi completes $1 billion raise at $40 billion valuation",
+        "sources": [
+          [
+            "The Crypto Times",
+            "https://www.cryptotimes.io/2026/10/29/kalshi-raises-1b-at-40b-valuation-as-crypto-perps-expand/"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Walmart and Eli Lilly among 5 more objectors to OKXICE, total 38",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/10/29/walmart-eli-lilly-join-growing-pushback-against-okx-ice-tokenized-stock-plans"
+          ]
+        ]
+      },
+      {
+        "title": "Curve Finance launches on Stellar",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/defi/2026-10-29-curve-finance-stellar-432121"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/nvhs5sqkn"
+          ]
+        ]
+      },
+      {
+        "title": "Polygon adds Solana to its Open Money Stack",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/defi/2026-10-29-polygon-adds-solana-payment-stack-432115"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/polygon-brings-open-money-stack-payments-services-to-solana"
+          ]
+        ]
+      },
+      {
+        "title": "Chainlink adds off-hours pricing for tokenized assets, with Aave first",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/10/28/chainlink-adds-weekend-pricing-for-tokenized-assets-with-aave-as-launch-partner"
+          ]
+        ]
+      },
+      {
+        "title": "Polymarket launches five-minute crypto markets on its U.S. platform",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform"
+          ]
+        ]
+      },
+      {
+        "title": "Pump.fun launches perpetual futures via Hyperliquid",
+        "sources": [
+          [
+            "The Crypto Times",
+            "https://www.cryptotimes.io/2026/10/28/pump-fun-launches-perps-for-crypto-stocks-commodities-with-hyperliquid-integration/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/qb9805fnyru"
+          ]
+        ]
+      },
+      {
+        "title": "Uniswap Labs releases fee conversion tool TJAR with Robinhood",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Strategy shareholders approve daily dividends on four preferreds",
+        "sources": [
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/621956"
+          ],
+          [
+            "The Crypto Times",
+            "https://www.cryptotimes.io/2026/10/28/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/lmn1phh0q1z"
+          ]
+        ]
+      },
+      {
+        "title": "Y Combinator publishes its crypto request for startups",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/388554/"
+          ],
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/621965"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/cchv5j31ly8e"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: ENSv2 goes live on Ethereum mainnet",
+        "sources": [
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/621853"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Singapore police report tampered Ledger wallets sold at retail",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745446"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/3en6pwz-2_a"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Bithumb says data of 6,444 customers leaked",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/8598ue7wn"
+          ],
+          [
+            "The Crypto Times",
+            "https://www.cryptotimes.io/2026/10/29/bithumb-admits-customer-data-was-leaked-in-breach-initially-reported-as-internal/"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Bitcoin Core discloses three AI-found bugs",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/388643/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/e1n6lvlx3t"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Teku and Besu drop trust in eMudhra certificates",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards"
+          ]
+        ]
+      },
+      {
+        "title": "Indodax pauses deposits and withdrawals",
+        "sources": [
+          [
+            "The Crypto Times",
+            "https://www.cryptotimes.io/2026/10/29/indodax-suspends-deposits-and-withdrawals-after-detecting-cyber-attack-attempts/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/zaxpcssqw"
+          ]
+        ]
+      },
+      {
+        "title": "Allium discloses unauthorized access",
+        "sources": [
+          [
+            "The Crypto Times",
+            "https://www.cryptotimes.io/2026/10/29/allium-discloses-security-breach-affecting-data-services/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/sa-zlhokq"
+          ]
+        ]
+      },
+      {
+        "title": "zkLink Nova bridge loses about $786,000",
+        "sources": [
+          [
+            "The Crypto Times",
+            "https://www.cryptotimes.io/2026/10/29/zklink-nova-bridge-exploited-for-786k-as-forged-batch-root-drains-ethereum-escrow/"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Solflare launches new validator, will cover missed rewards",
+        "sources": [
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/621946"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/10/29/solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-usd160-million-after-validator-goes-offline"
+          ]
+        ]
+      },
+      {
+        "title": "Myriad voids 10 markets after internal wallet breach",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/rb9c-ji3t"
+          ]
+        ]
+      },
+      {
+        "title": "Wagyu.xyz confirms user data leaked by extortion group",
+        "sources": [
+          [
+            "The Crypto Times",
+            "https://www.cryptotimes.io/2026/10/29/monero-xmr-swap-service-wagyu-xyz-confirms-data-exposed-after-ransom-refusal/"
+          ]
+        ]
+      }
+    ]
   }
 ]
