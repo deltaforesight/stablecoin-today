@@ -1718,5 +1718,590 @@
         ]
       }
     ]
+  },
+  {
+    "guid": "stablecoin-today-2026-10-30",
+    "title": "Oct 30, 2026: Tether and Circle freeze funds after Binance hack, Sumitomo Mitsui and SBI stablecoin alliance, SBI trust bank merger",
+    "pub": "2026-10-31T08:00:00+09:00",
+    "summary": "Tether and Circle froze billions of dollars in stablecoins after a record hack at Binance. Sumitomo Mitsui Financial Group and SBI formed a capital alliance around stablecoins, and JPYSC issuer SBI Shinsei Trust Bank will absorb SBI Clearing Trust. Also: Binance estimates its losses at $6.3 billion, and Bitcoin fell as low as $76,320.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-10-30/stablecoin-today_2026-10-30.mp3",
+    "bytes": 6249356,
+    "seconds": 520.692667,
+    "notes": [
+      {
+        "title": "Tether and Circle freeze billions in stablecoins tied to the Binance hack",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745651"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/el68_tapcyg5"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/30/binance-hack-tether-usdt-and-circle-usdc-freeze-1-8b-in-stablecoins-linked-to-suspected-wallets/"
+          ]
+        ]
+      },
+      {
+        "title": "Sumitomo Mitsui and SBI form a stablecoin capital alliance",
+        "sources": [
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/622298"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745504"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/lr2smeod0"
+          ]
+        ]
+      },
+      {
+        "title": "SBI Shinsei Trust Bank to absorb SBI Clearing Trust",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745516"
+          ],
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/622394"
+          ]
+        ]
+      },
+      {
+        "title": "SBI invests in PhotonPay as it raises $40 million",
+        "sources": [
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/622281"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/ktltg22_ox9"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Circle asks the SEC to treat compliant stablecoins as cash",
+        "sources": [
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/622450"
+          ]
+        ]
+      },
+      {
+        "title": "TISI and Japan Card Network complete in-store stablecoin payment trial",
+        "sources": [
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/622549"
+          ]
+        ]
+      },
+      {
+        "title": "India USDT and USDC premiums hit index highs",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/30/india-usdt-usdc-premiums-hit-record-high-as-binance-pauses-withdrawals/"
+          ]
+        ]
+      },
+      {
+        "title": "Binance Japan suspends crypto deposits and withdrawals; bitFlyer restricts transfers to Binance",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745638"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/388784/"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745755"
+          ]
+        ]
+      },
+      {
+        "title": "Japan's FSA publishes a study of financial rules in eight overseas regions",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745690"
+          ]
+        ]
+      },
+      {
+        "title": "Tokyo Garden Terrace Kioicho office stake to be sold as digital securities",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/388910/"
+          ]
+        ]
+      },
+      {
+        "title": "Eole to sell all of its Bitcoin and invest in AI data centers",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/388953/"
+          ]
+        ]
+      },
+      {
+        "title": "Hakuhodo DY unit starts World ID verified-human ads",
+        "sources": [
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/622347"
+          ]
+        ]
+      },
+      {
+        "title": "Galaxy Digital applies for a U.S. national trust bank charter",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/30/galaxy-digital-applies-for-us-national-trust-bank-charter/"
+          ]
+        ]
+      },
+      {
+        "title": "KuCoin suspends services in Russia and Belarus",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/kucoin-services-russia-belarus-suspended"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/eigbyta4uev"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Russia's central bank approves NAUFOR as a crypto self-regulatory body",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/29/russia-moves-to-tighten-crypto-oversight-as-naufor-gets-sro-status/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/eigbyta4uev"
+          ]
+        ]
+      },
+      {
+        "title": "French Senate passes crypto tax data exchange bill",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745582"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/etffh_cesj"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/french-senate-adopts-bill-automatic-crypto-tax-data"
+          ]
+        ]
+      },
+      {
+        "title": "SEC sues BG Wealth Sharing and DSJ Exchange over alleged $130 million scheme",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/30/us-regulator-charges-two-firms-over-alleged-130m-crypto-investment-fraud/"
+          ]
+        ]
+      },
+      {
+        "title": "Canada's 'Crypto King' Aiden Pleterski found guilty of fraud",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/30/crypto-king-aiden-pleterski-found-guilty-of-fraud-in-toronto/"
+          ]
+        ]
+      },
+      {
+        "title": "Bitcoin falls as low as $76,320 after the Binance hack",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/30/bitcoin-price-today-btc-drops-to-76443-as-6-3b-binance-hack-sparks-1-57b-liquidations/"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/30/6-3b-binance-hack-cause-130-billion-drop-in-crypto-market/"
+          ]
+        ]
+      },
+      {
+        "title": "Crypto stocks slide in early U.S. trading",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/30/crypto-stocks-slide-alongside-bitcoin-as-binance-reports-6-3b-breach/"
+          ]
+        ]
+      },
+      {
+        "title": "Institutions reported pulling crypto from exchanges",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/30/6-3b-binance-hack-sparks-institutional-outflows-standard-chartered-warns-of-more-pain/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/t0ouhnjhs"
+          ]
+        ]
+      },
+      {
+        "title": "India's CoinDCX restricts new futures positions",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity"
+          ]
+        ]
+      },
+      {
+        "title": "Attacker's token sales send FUN down more than 90%",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/avrh_rd99"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90"
+          ]
+        ]
+      },
+      {
+        "title": "Coinbase Q3 net income $719 million, revenue down 35%",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-10-30-coinbase-q3-net-income-jumps-432189"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745460"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/30/coinbase-q3-report-shows-719m-profit-but-adjusted-ebitda-falls-58/"
+          ]
+        ]
+      },
+      {
+        "title": "Strategy Q3 net income $19.5 billion; CFO to step down",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-10-29-strategy-q3-net-income-preferred-daily-dividends-432141"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/0pc2-z31eazu"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-10-30-strategy-mstr-preferred-stock-bitcoin-buying-analysts-432214"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Canton Strategic plans tokenized stock trading from Nov. 2",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745480"
+          ],
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/622614"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/j-uqsv-zj5"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Franklin Templeton launches two Bitcoin-linked dividend ETFs",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/29/franklin-templeton-launches-two-etfs-pairing-us-equities-with-bitcoin/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/ynz_3qc2zg"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745544"
+          ]
+        ]
+      },
+      {
+        "title": "Stanley Druckenmiller discloses stake in Trade[XYZ]",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745455"
+          ],
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/622548"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/10/29/stanley-druckenmiller-s-first-x-post-backs-hyperliquid-venture-after-usd23-million-indirect-investment"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Zcash Community Grants proposes redirecting about $124 million to miners",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/zcash-grants-46m-proposal-governance-backlash"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/qw_p7r-yrwn6"
+          ]
+        ]
+      },
+      {
+        "title": "Jupiter Earn cites liquidity crunch for withdrawal delays",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/30/jupiter-earn-reports-zero-binance-exposure-amid-rising-withdrawal-demand/"
+          ]
+        ]
+      },
+      {
+        "title": "XRP Ledger developers propose four fixes for restricted tokens",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/xd-ne_to6c"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens"
+          ]
+        ]
+      },
+      {
+        "title": "Backpack partners with SK Securities on Korean stocks",
+        "sources": [
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/622333"
+          ]
+        ]
+      },
+      {
+        "title": "Kraken has a one-hour trading outage",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/48v9mfhxnh"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/30/kraken-resolves-one-hour-outage-affecting-spot-and-derivatives-trading/"
+          ]
+        ]
+      },
+      {
+        "title": "Binance loses an estimated $6.3 billion in the largest crypto theft on record",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745631"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745651"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns"
+          ]
+        ]
+      },
+      {
+        "title": "Binance finds additional breach points, expects withdrawals to resume Nov. 1",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745739"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/30/binance-hack-update-more-breach-points-withdrawals-to-restart-in-45-hours/"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/binance-hack-security-ethereum-eip-7702-role"
+          ]
+        ]
+      },
+      {
+        "title": "Binance sets aside more than $6.34 billion to cover losses",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/4kwm870y3qot"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/binance-5-billion-replacement-crypto-in-custody"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/ecosystems/2026-10-30-binance-says-it-has-6-34-billion-ready-to-cover-hack-losses-432208"
+          ]
+        ]
+      },
+      {
+        "title": "TRM Labs attributes the hack to North Korea's TraderTraitor",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745651"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/30/fbi-us-secret-service-join-6-3b-crypto-heist-probe-as-binance-buys-back-stolen-coins/"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators"
+          ]
+        ]
+      },
+      {
+        "title": "Attacker holds about $2.4 billion in unfreezable BTC and ETH, TRM says",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745651"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/el-acmnyea"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury"
+          ]
+        ]
+      },
+      {
+        "title": "Aave freezes V3 and V4 markets; Arbitrum Security Council moves assets",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/30/how-aave-was-used-as-a-crypto-mixer-in-binance-hack-attacker-borrowed-44-6m-in-eth-against-60m-usdt/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/9ob7nm2dyg"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/lmgwcv1r2"
+          ]
+        ]
+      },
+      {
+        "title": "EIP-7702 abused on Ethereum; TRM points to the signing system",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/k2w1wbitp9"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745651"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/binance-hack-security-ethereum-eip-7702-role"
+          ]
+        ]
+      },
+      {
+        "title": "Polymarket hit by third-party breach, pauses then resumes trading",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745456"
+          ],
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/622477"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Trezor warns CryptoBilis buyers of a suspected implant",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745714"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/hi8jooap0p"
+          ]
+        ]
+      }
+    ]
   }
 ]
