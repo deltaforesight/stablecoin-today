@@ -2303,5 +2303,404 @@
         ]
       }
     ]
+  },
+  {
+    "guid": "stablecoin-today-2026-10-31",
+    "title": "Oct 31, 2026: Binance attacker skirts stablecoin freezes via Tron lending, Tether profit and reserves, Elliptic on USDT swaps",
+    "pub": "2026-11-01T08:00:00+09:00",
+    "summary": "The Binance attacker used lending on Tron to get around stablecoin freezes, according to Chainalysis. Tether posted $1.5 billion in third quarter net operating profit, with excess reserves nearly doubling, and Elliptic put new numbers on the attacker's USDT swaps into Ether.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-10-31/stablecoin-today_2026-10-31.mp3",
+    "bytes": 5510060,
+    "seconds": 459.092,
+    "notes": [
+      {
+        "title": "Tether's Q3 net operating profit hits $1.5 billion as excess reserves nearly double to $7.95 billion",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745813"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/bi-pq3rk_97"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/31/tether-reports-1-5b-q3-profit-as-reserve-buffer-nearly-doubles-to-8b/"
+          ]
+        ]
+      },
+      {
+        "title": "Binance attacker used lending on Tron to get around stablecoin freezes, Chainalysis says",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244"
+          ]
+        ]
+      },
+      {
+        "title": "Attacker swapped about 434 million USDT into 160,451 ETH at prices 12 to 26 percent worse than market, Elliptic says",
+        "sources": [
+          [
+            "CRYPTO TIMES",
+            "https://crypto-times.jp/news-binance-hack-laundering-pattern/"
+          ]
+        ]
+      },
+      {
+        "title": "Dispute over when issuers can freeze funds as Sen. Lummis cites the Clarity bill",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745789"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236"
+          ]
+        ]
+      },
+      {
+        "title": "Binance Japan resumes crypto deposits while withdrawals stay suspended",
+        "sources": [
+          [
+            "CRYPTO TIMES",
+            "https://crypto-times.jp/news-binance-withdrawal-resume-48h/"
+          ]
+        ]
+      },
+      {
+        "title": "President Trump says the government is looking into North Korean involvement in the Binance hack",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745774"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/388992/"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/31/trump-says-us-is-looking-into-the-6-3b-binance-hack/"
+          ]
+        ]
+      },
+      {
+        "title": "CFTC Chair Selig says the Binance hack backs up the case for its crypto market proposals",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745772"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/389038/"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/31/cftc-seeks-crypto-exchange-safeguards-after-binances-6-3b-hack/"
+          ]
+        ]
+      },
+      {
+        "title": "Digital Chamber urges Congress to pass a narrow exchange oversight and customer protection bill",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/31/digital-chamber-urges-crypto-exchange-oversight-after-binance-hack/"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745789"
+          ]
+        ]
+      },
+      {
+        "title": "ICE deletes X post on Trade[XYZ] partnership and reposts it stating regulatory approval is required",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/31/ice-pulls-x-post-on-hyperliquid-futures-partnership-is-the-deal-still-on/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/h3d1iw3mqzer"
+          ]
+        ]
+      },
+      {
+        "title": "a16z, DeFi Education Fund and Uniswap Labs ask Illinois to keep DEXs out of the broker definition",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/31/a16z-defi-education-fund-and-uniswap-challenge-illinois-crypto-tax-rules/"
+          ]
+        ]
+      },
+      {
+        "title": "Bitcoin trades near $77,000 as October heads for a 7.7 percent drop",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/6gk-0hlvu"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/31/bitcoin-price-today-btc-falls-to-77k-as-427m-in-crypto-liquidations-hit-etfs-see-643m-outflow/"
+          ],
+          [
+            "CRYPTO TIMES",
+            "https://crypto-times.jp/news-intel-plunge-semiconductor-selloff/"
+          ]
+        ]
+      },
+      {
+        "title": "US spot Bitcoin ETFs see $643 million in net outflows on October 30",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/bucy-kwcund"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/31/bitcoin-price-today-btc-falls-to-77k-as-427m-in-crypto-liquidations-hit-etfs-see-643m-outflow/"
+          ]
+        ]
+      },
+      {
+        "title": "Crypto stocks close lower with Coinbase down 10.62 percent",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745773"
+          ]
+        ]
+      },
+      {
+        "title": "Next Technology authorizes selling or borrowing against about 5,833 BTC",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/u87gerx6tjp2"
+          ]
+        ]
+      },
+      {
+        "title": "Bank of Japan to raise ETF sales to about 860 billion yen a year at book value from January 2027",
+        "sources": [
+          [
+            "CRYPTO TIMES",
+            "https://crypto-times.jp/news-boj-etf-sales-double/"
+          ]
+        ]
+      },
+      {
+        "title": "Hyperliquid earned about $105 million in September as core fees fall to 64 percent of revenue, Grayscale says",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745794"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/0uqv4bcc4"
+          ]
+        ]
+      },
+      {
+        "title": "Uber tests tokenization with HSBC and Franklin Templeton",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton"
+          ]
+        ]
+      },
+      {
+        "title": "MetaMask adds native Stellar support",
+        "sources": [
+          [
+            "CRYPTO TIMES",
+            "https://crypto-times.jp/news-metamask-stellar-support/"
+          ]
+        ]
+      },
+      {
+        "title": "Recall Foundation to wind down and burn about 358.6 million RECALL",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/31/recall-foundation-to-wind-down-plans-358-6m-recall-token-burn/"
+          ]
+        ]
+      },
+      {
+        "title": "Zcash developer Josh Swihart proposes ending the Development Fund",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/31/zcash-developer-calls-for-early-end-to-300m-development-fund-amid-funding-dispute/"
+          ]
+        ]
+      },
+      {
+        "title": "Coinbase executives adopt plans that could sell up to 13.6 million shares",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/ry9om5fb3"
+          ]
+        ]
+      },
+      {
+        "title": "Binance plans proof of reserves by November 2 and will share technical findings",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745769"
+          ],
+          [
+            "CRYPTO TIMES",
+            "https://crypto-times.jp/news-binance-withdrawal-resume-48h/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/14zt_7unhf"
+          ]
+        ]
+      },
+      {
+        "title": "Most of the Binance theft came in about 20 minutes after at least 36 hours of preparation",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745771"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/f90v18lv0u33"
+          ]
+        ]
+      },
+      {
+        "title": "Chainalysis reports never-before-seen laundering patterns as stolen Bitcoin is split among 19 addresses",
+        "sources": [
+          [
+            "CRYPTO TIMES",
+            "https://crypto-times.jp/news-binance-hack-laundering-pattern/"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve"
+          ]
+        ]
+      },
+      {
+        "title": "Chainalysis discloses unauthorized access to customer names and emails",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745824"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/388984/"
+          ]
+        ]
+      },
+      {
+        "title": "Blockaid finds Step Drainer attacks on at least 12 DeFi sites",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/31/flap-kintsu-websites-hijacked-as-stepdrainer-wallet-drainer-hits-10-more-defi-sites/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/dmmebjma0"
+          ]
+        ]
+      },
+      {
+        "title": "Aave reopens all V3 and V4 markets with nine tokens at zero LTV",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/30/aave-unfreezes-v3-and-v4-markets-after-binance-hack-keeps-9-tokens-at-zero-ltv/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/57so9kuh9n"
+          ]
+        ]
+      },
+      {
+        "title": "Wallet attributed to Ethena deposits about 128.6 million ENA at Binance; purpose unconfirmed",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/31/binance-buys-back-stolen-assets-via-otc-deals-after-6-3b-hack-as-ethena-sends-24m/"
+          ]
+        ]
+      },
+      {
+        "title": "Wallet believed to be the attacker sends about $3.32 million in tokens to the NEWT contract",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/30/binance-hacker-sends-3-32m-in-altcoins-to-unrecoverable-newt-contract/"
+          ]
+        ]
+      },
+      {
+        "title": "Coinbase and Gemini adjust defenses after the hack, FT reports",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/31/crypto-exchanges-face-a-security-reckoning-after-6-3b-binance-hack/"
+          ]
+        ]
+      },
+      {
+        "title": "Iron Fish ends network after 2019 bug is exploited to mint about 2.98 billion wIRON",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/31/iron-fish-shuts-down-network-after-2019-bug-let-attacker-mint-2-98b-wiron-on-base/"
+          ]
+        ]
+      },
+      {
+        "title": "Garcia brothers sentenced to 15 and 15.5 years for Minnesota crypto robbery",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-10-30-texas-brothers-sentenced-15-years-8-million-crypto-robbery-minnesota-432221"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/texas-brothers-sentenced-to-15-years-in-prison-for-armed-crypto-robbery-kidnapping"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/g47gln165"
+          ]
+        ]
+      }
+    ]
   }
 ]
