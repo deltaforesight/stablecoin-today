@@ -2702,5 +2702,201 @@
         ]
       }
     ]
+  },
+  {
+    "guid": "stablecoin-today-2026-11-01",
+    "title": "Nov 01, 2026: Binance reopens withdrawals, FBI blames North Korea, THORChain halts on Ethereum reorg",
+    "pub": "2026-11-02T08:00:00+09:00",
+    "summary": "No major stablecoin headlines today. Binance began reopening withdrawals in phases and says about 95% of the loss is covered, and the FBI attributed the theft to North Korea. An Ethereum reorganization forced THORChain into an emergency pause, delaying laundering of the stolen funds, according to Chainalysis.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-11-01/stablecoin-today_2026-11-01.mp3",
+    "bytes": 3310028,
+    "seconds": 275.738,
+    "notes": [
+      {
+        "title": "Three major crypto PACs spend about $170 million on the midterms, leaning Republican in the final stretch",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/m1k_tky42-q"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/policy/2026/11/01/crypto-pacs-made-big-republican-push-in-final-weeks-before-november-3-election"
+          ]
+        ]
+      },
+      {
+        "title": "Crypto company political donations reach $233 million; Crypto.com gives $35 million to MAGA Inc., Public Citizen says",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/389133"
+          ]
+        ]
+      },
+      {
+        "title": "Eurosystem publishes Appia consultation results without settling on a design",
+        "sources": [
+          [
+            "CRYPTO TIMES",
+            "https://crypto-times.jp/news-ecb-appia-tokenization-lagarde"
+          ]
+        ]
+      },
+      {
+        "title": "China's Communist Party to crack down on corruption that abuses crypto and blockchain",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/fhqvl915a"
+          ]
+        ]
+      },
+      {
+        "title": "Objections to OKXICE tokenized stock trading reach 50 companies, including Nvidia, Micron and Nike",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/b94gr75sok1"
+          ]
+        ]
+      },
+      {
+        "title": "Tokenized stock onchain trading falls 39% in October as bStocks retakes first place from Robinhood, CoinDesk Research says",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/389095"
+          ]
+        ]
+      },
+      {
+        "title": "Uber's tokenization pilot used HSBC tokenized deposits to buy a Franklin Templeton tokenized money market fund",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/389096"
+          ]
+        ]
+      },
+      {
+        "title": "Trade[XYZ]'s new Anthropic-linked ANT contract falls about 20% in its first hour on Hyperliquid",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts"
+          ]
+        ]
+      },
+      {
+        "title": "Binance reopens withdrawals in phases and says about 95% of the loss is covered",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/ovc-u66yyy"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/luuzu_sqi"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/01/binance-resumes-withdrawals-after-6-3b-hack-says-95-of-stolen-assets-now-covered/"
+          ]
+        ]
+      },
+      {
+        "title": "Binance says ten major assets have reserve ratios of at least 100%; futures insurance fund used",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/31/binance-reports-90-replenishment-updates-por-after-6-3b-hack/"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/binance-hack-90-percent-replenished"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/9n1nam2vgzhl"
+          ]
+        ]
+      },
+      {
+        "title": "FBI attributes the Binance theft to North Korea and asks the industry to block related addresses",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/389075"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/mmokar_go5"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses"
+          ]
+        ]
+      },
+      {
+        "title": "Ethereum reorg forces THORChain into an emergency pause, delaying laundering of stolen funds, Chainalysis says",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/2l3tzq33zy7j"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/01/thorchain-pause-delays-binance-hack-laundering-chainalysis-says/"
+          ]
+        ]
+      },
+      {
+        "title": "North Korean hackers move about $38 million through Relay Protocol in seven hours, Specter says",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/5iz1pfqq3a"
+          ]
+        ]
+      },
+      {
+        "title": "Binance has no cyber insurance and SAFU has no outside insurance behind it, The Insurer reports",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/389084"
+          ]
+        ]
+      },
+      {
+        "title": "Hijacked DeFi sites were all registered with Name.com, which confirms 15 domains were affected",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/defi/2026-10-31-hackers-hijack-a-dozen-defi-websites-all-registered-with-name-com-and-steal-about-138000-432251"
+          ]
+        ]
+      },
+      {
+        "title": "About 97 million CORE withdrawn without authorization from b14g; exchanges freeze about 9 million",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/01/b14g-probes-97m-core-withdrawal-as-exchanges-freeze-9m-tokens/"
+          ]
+        ]
+      },
+      {
+        "title": "Threshold pauses tBTC minting and redemptions; Aave restricts new deposits and borrowing",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/10/31/aave-restricts-tbtc-lending-after-threshold-suspends-redemptions/"
+          ]
+        ]
+      }
+    ]
   }
 ]
