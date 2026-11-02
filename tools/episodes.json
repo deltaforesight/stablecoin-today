@@ -2898,5 +2898,416 @@
         ]
       }
     ]
+  },
+  {
+    "guid": "stablecoin-today-2026-11-02",
+    "title": "Nov 02, 2026: Japan's FSA weighs stablecoin cap, JPYSC lending tops 10 billion yen, Binance outflows top 7 billion dollars",
+    "pub": "2026-11-03T08:00:00+09:00",
+    "summary": "Japan's Financial Services Agency debated the one million yen cap on stablecoins, SBI VC Trade's JPYSC lending passed ten billion yen, and Hong Kong moved tokenized settlement to 24/7 with stablecoin trials to follow. Binance saw heavy outflows after reopening withdrawals while its attackers began using CoinJoin.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-11-02/stablecoin-today_2026-11-02.mp3",
+    "bytes": 5856524,
+    "seconds": 487.962,
+    "notes": [
+      {
+        "title": "Japan FSA study group debates the one million yen stablecoin cap",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746032"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/389320/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/s00s5z1kpb"
+          ]
+        ]
+      },
+      {
+        "title": "SBI VC Trade's JPYSC lending balance tops 10 billion yen",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745959"
+          ],
+          [
+            "Neweconomy",
+            "https://www.neweconomy.jp/posts/622911"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/389215/"
+          ]
+        ]
+      },
+      {
+        "title": "HKMA enables 24/7 tokenized settlement under Project Ensemble, plans stablecoin trials",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/xpb2yldzpq"
+          ]
+        ]
+      },
+      {
+        "title": "HSBC's RedCoin reaches 50,000 users",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/02/hsbcs-redcoin-stablecoin-reaches-50000-users-after-launch/"
+          ]
+        ]
+      },
+      {
+        "title": "India's RBI and FIU reportedly scrutinize offshore crypto cards",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/02/crypto-cards-india-rbi-fiu-scrutinise-redotpay-visa-mastercard-stablecoin-spending/"
+          ]
+        ]
+      },
+      {
+        "title": "Circle expands CCTP to issuer-run tokens on Arc",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/02/circle-expands-cctp-to-support-custom-erc-20-tokens-on-arc/"
+          ]
+        ]
+      },
+      {
+        "title": "Binance Japan to resume crypto withdrawals",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745866"
+          ]
+        ]
+      },
+      {
+        "title": "Metaplanet buybacks total about 25.3 billion yen; bitcoin budget raised",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/389304/"
+          ]
+        ]
+      },
+      {
+        "title": "SBI to invest 100 million dollars in Erebor Bank",
+        "sources": [
+          [
+            "Neweconomy",
+            "https://www.neweconomy.jp/posts/623032"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/3_j2ea92u"
+          ]
+        ]
+      },
+      {
+        "title": "gumi to close Yosoku Hiroba",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/389271/"
+          ]
+        ]
+      },
+      {
+        "title": "FATF launches targeted review of crypto-heavy jurisdictions",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/fatf-targeted-crypto-compliance-jurisdiction-reviews"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/5gt5vamsb0ic"
+          ]
+        ]
+      },
+      {
+        "title": "Bank of Korea surveys banks and brokerages on crypto risks",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/bank-of-korea-probes-financial-firms-exposure-to-crypto-risks"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/fvhiiqc-0da"
+          ]
+        ]
+      },
+      {
+        "title": "Brazil's license application deadline for existing crypto firms passes",
+        "sources": [
+          [
+            "Neweconomy",
+            "https://www.neweconomy.jp/posts/623012"
+          ]
+        ]
+      },
+      {
+        "title": "Moscow Exchange details retail rules for December crypto trading",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/4t4424zbjx"
+          ]
+        ]
+      },
+      {
+        "title": "Trump says he would talk to North Korea if it is behind the Binance theft",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745881"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/389252/"
+          ]
+        ]
+      },
+      {
+        "title": "Binance net outflows after reopening withdrawals",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745866"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/okx-leads-crypto-exchanges-445m-inflows"
+          ]
+        ]
+      },
+      {
+        "title": "Ether ETFs post record October outflows; bitcoin ETFs negative for the month",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows"
+          ]
+        ]
+      },
+      {
+        "title": "Bitcoin falls 7.3% in October",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/389158/"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen"
+          ]
+        ]
+      },
+      {
+        "title": "Morgan Stanley downgrades Coinbase",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/wg6gnag9-y"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/02/morgan-stanley-downgrades-coinbase-slashes-price-target-53-on-weak-earnings-outlook"
+          ]
+        ]
+      },
+      {
+        "title": "Strategy buys 811 BTC and repurchases STRC",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-02-we-found-room-for-even-more-orange-michael-saylor-strategy-bitcoin-btc-432275"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/a9ur72zv32uy"
+          ]
+        ]
+      },
+      {
+        "title": "tZERO plans SPAC listing",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/01/tokenization-firm-tzero-plans-to-go-public-in-usd350-million-spac-deal"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/5_budxm-k-vt"
+          ]
+        ]
+      },
+      {
+        "title": "Metals.io issues copper-backed tokens",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/02/metals-io-issues-tokens-backed-by-25-tonnes-of-physical-copper-stored-in-germany"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/xl35rk_2q4lp"
+          ]
+        ]
+      },
+      {
+        "title": "Trezor raises passphrase limit to 128 characters",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/t1og9pob0w"
+          ]
+        ]
+      },
+      {
+        "title": "Binance publishes zero-knowledge reserve proof; SAFU bitcoin halved",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/02/binance-completes-zk-snark-proof-for-10-tokens-after-6-3b-hack/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/n6_fpy1v3"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear"
+          ]
+        ]
+      },
+      {
+        "title": "Binance attackers use CoinJoin for the first time: Elliptic",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/6kdjpt554"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/02/binance-hackers-use-coinjoin-for-first-time-2-85b-funds-frozen/"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets"
+          ]
+        ]
+      },
+      {
+        "title": "Attackers move 242 million dollars via Tron and swap SOL for BTC",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/k8iee_3qq"
+          ]
+        ]
+      },
+      {
+        "title": "BTCPay Server urges operators to shut down after hot wallet drains",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745885"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/02/btcpay-server-tells-users-to-shut-down-instances-after-hot-wallet-drains/"
+          ]
+        ]
+      },
+      {
+        "title": "EU entity suspected of losing over 106 million dollars: ZachXBT",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/j_ckvt0cev0"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/02/crypto-sleuth-zachxbt-flags-106m-theft-from-eu-entitys-exchange-accounts/"
+          ]
+        ]
+      },
+      {
+        "title": "Mercado Bitcoin pauses deposits and withdrawals",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/vmu5wldmz"
+          ]
+        ]
+      },
+      {
+        "title": "Solana Mobile app portal breached",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/a12x_jyng"
+          ]
+        ]
+      },
+      {
+        "title": "Cardano's Intersect urges patch for Linux flaw",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=745917"
+          ]
+        ]
+      },
+      {
+        "title": "Israel extradites Nomad bridge suspect to the US",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/b5wvx8q7o0n"
+          ]
+        ]
+      }
+    ]
   }
 ]
