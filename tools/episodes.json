@@ -3309,5 +3309,422 @@
         ]
       }
     ]
+  },
+  {
+    "guid": "stablecoin-today-2026-11-03",
+    "title": "Nov 03, 2026: Stablecoin market cap hits one-year low, Standard Chartered tokenized deposits, Tether's 150,000 bitcoin",
+    "pub": "2026-11-04T08:00:00+09:00",
+    "summary": "The stablecoin market cap fell to its lowest level in more than a year according to CryptoQuant, Standard Chartered launched tokenized deposits for corporate clients in Hong Kong, and Tether's CEO said the company holds about 150,000 bitcoin. Binance said hourly deposits now exceed withdrawals, and North Korea rejected the FBI's attribution of the Binance hack.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-11-03/stablecoin-today_2026-11-03.mp3",
+    "bytes": 4765580,
+    "seconds": 397.04,
+    "notes": [
+      {
+        "title": "Stablecoin market cap falls to lowest in over a year, CryptoQuant says",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/389405"
+          ]
+        ]
+      },
+      {
+        "title": "Standard Chartered launches tokenized deposits for corporate clients in Hong Kong",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/389377"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/016m-dqr4"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/02/standard-chartered-launches-tokenized-deposits-in-hong-kong"
+          ]
+        ]
+      },
+      {
+        "title": "Tether CEO says the company holds about 150,000 BTC",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/389414"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/ucp1usbk7q2"
+          ]
+        ]
+      },
+      {
+        "title": "Anchorpoint plans to issue its HKDAP Hong Kong dollar stablecoin on Solana",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/afeegxotc"
+          ]
+        ]
+      },
+      {
+        "title": "HashKey On-Chain partners with RD Technologies to test the RDUSD stablecoin",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/yne8r-cf0i"
+          ]
+        ]
+      },
+      {
+        "title": "OKX launches a stablecoin-funded debit card in the US",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/otpj65dnn3x"
+          ]
+        ]
+      },
+      {
+        "title": "SBI's crypto revenue falls 30.1% in the April-September half",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/389363"
+          ]
+        ]
+      },
+      {
+        "title": "SEC staff FAQ: broad token-holder governance generally is not a central party",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746068"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/03/sec-staff-updates-crypto-guidance-on-governance-and-decentralization"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/rsolkocvtmn"
+          ]
+        ]
+      },
+      {
+        "title": "New Jersey withdraws its 2023 staking order against Coinbase",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/new-jersey-coinbase-staking"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/6ny4yrefw4qv"
+          ]
+        ]
+      },
+      {
+        "title": "South Korea's FSC asks exchanges to raise cold-wallet ratios",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/m-g7ps-f3"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/03/korean-authorities-hold-emergency-crypto-meeting-after-binance-hack"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack"
+          ]
+        ]
+      },
+      {
+        "title": "Crypto.com to shut its Hong Kong consumer app on Feb. 1, 2027",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/crypto-com-hong-kong-app-shutdown-license-pending"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/ygz6l1ysm6i"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/03/crypto-com-to-shut-hong-kong-consumer-app-from-february-2027"
+          ]
+        ]
+      },
+      {
+        "title": "French lawmakers reject two crypto exit-tax proposals",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/france-postpones-2027-budget-vote-reject-crypto-exit-tax"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/rkg75chnn"
+          ]
+        ]
+      },
+      {
+        "title": "Bitcoin dips to $76,300 as IBIT sees its largest outflow since June",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote"
+          ]
+        ]
+      },
+      {
+        "title": "Binance says hourly deposits exceed withdrawals as more withdrawals reopen",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/se97rjx-01"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/03/binance-net-outflows-reach-usd5-3b-after-record-hack-though-ceo-cites-recovery"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/binances-daily-inflows-positive-18b-withdrawals"
+          ]
+        ]
+      },
+      {
+        "title": "NYSE adds four transfer agents to its planned tokenized stock platform",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/mi435_6vm6o"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/03/nyse-adds-four-firms-to-planned-tokenized-securities-trading-venue"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/02/nyse-taps-wall-street-giant-broadridge-to-bring-shareholder-voting-onto-blockchain-rails"
+          ]
+        ]
+      },
+      {
+        "title": "Securitize adds 13 US stocks on Solana, for 25 in total",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/dpfd2gn_l8"
+          ]
+        ]
+      },
+      {
+        "title": "Animoca Brands unit wins a fund management license in Abu Dhabi",
+        "sources": [
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/623296"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/hddcr5vt43"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval"
+          ]
+        ]
+      },
+      {
+        "title": "Consensys unveils Sovereign Network Interoperability",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/ecosystems/2026-11-03-consensys-cross-ledger-settlement-routing-stack-432375"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/ktyvjgwzm3b"
+          ]
+        ]
+      },
+      {
+        "title": "NEAR governance approves cutting max issuance to 1.6%",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/defi/2026-11-03-near-governance-approves-proposal-to-cut-token-issuance-432378"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/7n1e1bg-rc6y"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/near-sinks-7-proposal-cut-annual-token-issuance-passes"
+          ]
+        ]
+      },
+      {
+        "title": "Ethereum's Justin Drake moves the post-quantum target to December 2028",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/03/ethereum-advances-quantum-security-deadline-to-2028-at-devcon"
+          ]
+        ]
+      },
+      {
+        "title": "ETHGas builds advance block space reservations for institutions",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/6k673bdt84"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero"
+          ]
+        ]
+      },
+      {
+        "title": "Coinbase launches 24/7 crypto derivatives trading by AI agents",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/l24hoem4v"
+          ]
+        ]
+      },
+      {
+        "title": "Kalshi parlay users have lost over $1 billion, InGame says",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/brxyvmps7"
+          ]
+        ]
+      },
+      {
+        "title": "North Korea's Kim Yo Jong rejects FBI attribution of the Binance hack",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746060"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us"
+          ]
+        ]
+      },
+      {
+        "title": "Binance hack began with a fake job interview, CoinDesk reports",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says"
+          ]
+        ]
+      },
+      {
+        "title": "Mercado Bitcoin pledges to cover all user losses from its hack",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/nbu8s67swo2b"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746048"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333"
+          ]
+        ]
+      },
+      {
+        "title": "ZachXBT raises suspected EU entity theft estimate to $133 million",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/zachxbt-eu-crypto-theft-133m-alleged-cover-up"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/03/zachxbt-raises-suspected-european-crypto-theft-estimate-to-133m"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/w_2oc937uq"
+          ]
+        ]
+      },
+      {
+        "title": "Liquid Network restores full 1:1 bitcoin backing for LBTC",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/cu-ngjcqjzs"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit"
+          ]
+        ]
+      },
+      {
+        "title": "Solflare enters 'bunker mode'",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/03/solflare-enters-bunker-mode-amid-wave-of-crypto-attacks"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/1l64bgfcz"
+          ]
+        ]
+      },
+      {
+        "title": "trade.xyz restores GitBook docs after unauthorized changes",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/02/trade-xyz-reports-unauthorized-activity-on-gitbook-documentation"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/ia616tyuq"
+          ]
+        ]
+      }
+    ]
   }
 ]
