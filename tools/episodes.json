@@ -3726,5 +3726,439 @@
         ]
       }
     ]
+  },
+  {
+    "guid": "stablecoin-today-2026-11-04",
+    "title": "Nov 04, 2026: Circle Q3 revenue up 17%, record stablecoins on Solana, Startale Card launches",
+    "pub": "2026-11-05T08:00:00+09:00",
+    "summary": "Circle reported third-quarter revenue and reserve income of $865 million, up 17%, and cut about 5% of its workforce. Stablecoins on Solana reached a record $17.51 billion, and Japan's Startale Group launched a card that spends its USDSC dollar stablecoin. Also: Democrats won both chambers of Congress, and the CFTC allowed single-stock perpetual futures.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-11-04/stablecoin-today_2026-11-04.mp3",
+    "bytes": 5271884,
+    "seconds": 439.234,
+    "notes": [
+      {
+        "title": "Circle's Q3 revenue and reserve income rises 17% to $865 million; workforce cut by about 5%",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/fg8lhp899"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-04-circle-reports-865-million-in-q3-revenue-and-reserve-income-discloses-5-workforce-reduction-432671"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/04/circle-beats-earnings-and-revenue-estimates-on-soaring-usdc-transaction-volume"
+          ]
+        ]
+      },
+      {
+        "title": "Stablecoins on Solana hit a record $17.51 billion",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/vhpw8h7_j"
+          ]
+        ]
+      },
+      {
+        "title": "Startale Group launches Startale Card for spending its USDSC stablecoin",
+        "sources": [
+          [
+            "Neweconomy",
+            "https://www.neweconomy.jp/posts/623661"
+          ]
+        ]
+      },
+      {
+        "title": "Japanese car exporter SAT Japan accepts USDT and USDC from overseas buyers",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/4ujt-fqp9m"
+          ]
+        ]
+      },
+      {
+        "title": "Sony Bank says customer data leaked via unauthorized access at Securitize Japan",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/389714/"
+          ]
+        ]
+      },
+      {
+        "title": "Democrats win both chambers in U.S. midterms; Sherrod Brown wins in Ohio",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746369"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-03-sherrod-brown-defeats-jon-husted-432495"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/389555/"
+          ]
+        ]
+      },
+      {
+        "title": "CFTC allows single-stock perpetual futures; Cboe- and Citadel-backed group sues",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746117"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-03-cftc-approves-individual-stock-perpetual-futures-trading-in-us-for-first-time-432422"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/04/cboe-backed-group-seeks-to-overturn-cftcs-stock-perpetuals-approval/"
+          ]
+        ]
+      },
+      {
+        "title": "SEC staff view Canton Coin as a digital commodity in no-action letter",
+        "sources": [
+          [
+            "Neweconomy",
+            "https://www.neweconomy.jp/posts/623640"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-03-sec-no-action-letter-canton-coin-digital-commodity-432492"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/cantons-cc-rises-sec-no-action-letter-digital-commodity"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: South Korea's ruling party formally proposes delaying the crypto income tax",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-03-south-koreas-ruling-party-proposes-deferral-crypto-income-tax-432580"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/vq8gk9bl_-p"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again"
+          ]
+        ]
+      },
+      {
+        "title": "Justin Sun seeks about $264,000 in sanctions against World Liberty Financial",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-03-justin-sun-sanctions-world-liberty-uae-ties-wlfi-432439"
+          ],
+          [
+            "Neweconomy",
+            "https://www.neweconomy.jp/posts/623683"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/justin-sun-world-liberty-264k-sanctions-uae-disclosure"
+          ]
+        ]
+      },
+      {
+        "title": "Hong Kong passes bill adopting the OECD Crypto-Asset Reporting Framework",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/phcaszovs1e"
+          ]
+        ]
+      },
+      {
+        "title": "Bhutan's Gelephu region to set up a central bank allowed to hold digital assets",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746218"
+          ]
+        ]
+      },
+      {
+        "title": "South Korea's president calls for a government-wide cybersecurity body after the Binance hack",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack"
+          ]
+        ]
+      },
+      {
+        "title": "Bitcoin falls to a seven-week low of $75,618, then rebounds above $78,000",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep"
+          ]
+        ]
+      },
+      {
+        "title": "Block's bitcoin gross profit halves; $764 million DOJ settlement agreed in principle",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746317"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-03-block-q3-earnings-shares-rise-432585"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/04/block-faces-764m-doj-deal-as-bitcoin-profit-falls-50/"
+          ]
+        ]
+      },
+      {
+        "title": "Riot Platforms sells 10,599 BTC in Q3, cutting holdings by about 79%",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/q1o7_z_ke281"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Morgan Stanley tokenizes U.S. stocks and Treasuries via DTCC's service",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/markets/2026-11-04-morgan-stanley-among-first-banks-to-tokenize-us-equities-treasurys-through-dtccs-service-432633"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/04/morgan-stanley-among-first-to-use-dtccs-tokenization-service/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/472c54sm5sn"
+          ]
+        ]
+      },
+      {
+        "title": "Schroders tokenizes an emerging market bond strategy on Solana with Centrifuge",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/v0nvk7s8m7ja"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: objections to OKXICE tokenized stock trading reach 59 companies",
+        "sources": [
+          [
+            "Neweconomy",
+            "https://www.neweconomy.jp/posts/623636"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/04/apple-home-depot-join-57-firms-opposing-okx-ice-stock-token-plan/"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746153"
+          ]
+        ]
+      },
+      {
+        "title": "Cross River Bank to bring loan financing and transfers onto Arbitrum One",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/cchi1kbhxzpv"
+          ]
+        ]
+      },
+      {
+        "title": "BitGo launches BitGo Global Markets for institutional trading and financing",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-04-bitgo-launches-institutional-trading-and-financial-solutions-business-led-by-former-nydig-executive-432646"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/zm3_oawahr17"
+          ]
+        ]
+      },
+      {
+        "title": "Bullish picks Solana, Aptos and Ethereum for stock tokenization",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/04/bullish-expands-equity-tokenization-to-solana-aptos-and-ethereum/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/t4jmlysyd"
+          ]
+        ]
+      },
+      {
+        "title": "zERC20 launches v2 on mainnet with passkey browser accounts",
+        "sources": [
+          [
+            "Neweconomy",
+            "https://www.neweconomy.jp/posts/623606"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/389537/"
+          ]
+        ]
+      },
+      {
+        "title": "Apple bans employees from prediction market trading on confidential information",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/gorvelg9r"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/389582/"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Zcash grants committee withdraws plan to redirect 98,000 ZEC",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/04/zcash-grants-committee-drops-plan-to-redirect-98-000-zec-to-future-mining-rewards"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Binance publishes initial incident report on the $6.3 billion hack",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746134"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-03-binance-hack-incident-report-north-korea-fake-job-interview-ai-tool-432406"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/03/binance-co-ceo-takes-responsibility-for-6-3b-hack-details-security-overhaul/"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: ZachXBT names Credit Mutuel Arkea as victim of $133 million theft",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746223"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/fczb1kcvk7"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Mercado Bitcoin puts losses at $36.3 million, blocks $12.9 million",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746118"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/g3o5767xc93"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/04/mercado-bitcoin-plans-gradual-platform-reopening-after-36-3m-incident/"
+          ]
+        ]
+      },
+      {
+        "title": "BitMart reports a small hack possibly linked to the Mercado Bitcoin attackers",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/ci84c1v7h1v"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/04/bitmarts-minor-hack-may-be-linked-to-mercado-bitcoin-attack-founder-says/"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: GitBook says AI-agent attack accessed infrastructure credentials",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746183"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/b2j0m4sui"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/04/gitbook-reports-ai-assisted-cyberattack-as-crypto-and-web3-projects-face-credential-risks/"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: THORChain reopens trading; Binance attackers resume laundering",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/s9mxcn27dr"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain"
+          ]
+        ]
+      }
+    ]
   }
 ]
