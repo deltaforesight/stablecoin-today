@@ -4160,5 +4160,502 @@
         ]
       }
     ]
+  },
+  {
+    "guid": "stablecoin-today-2026-11-05",
+    "title": "Nov 05, 2026: Samsung Wallet launches USDC accounts, T3 crime unit disbanded, Polkadot dotUSD attack",
+    "pub": "2026-11-06T08:00:00+09:00",
+    "summary": "Samsung launched USDC accounts on Solana in Samsung Wallet for Galaxy users in the United States. Tron, Tether and TRM Labs disbanded their T3 Financial Crime Unit, and an attack on Polkadot's dotUSD stablecoin cost the network's treasury about $1.38 million. Also: South Korea plans to delay its crypto tax to 2029, and Democrats plan probes into the Trump family's crypto businesses.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-11-05/stablecoin-today_2026-11-05.mp3",
+    "bytes": 5729516,
+    "seconds": 477.37,
+    "notes": [
+      {
+        "title": "Samsung launches USDC accounts on Solana in Samsung Wallet for US Galaxy users",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-05-samsung-wallet-launches-usdc-accounts-solana-us-galaxy-users-434523"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/bpg0ctuglg57"
+          ]
+        ]
+      },
+      {
+        "title": "Tron, Tether and TRM Labs disband the T3 Financial Crime Unit, Bloomberg reports",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/04/tron-tether-and-trm-labs-disband-t3-financial-crime-unit/"
+          ]
+        ]
+      },
+      {
+        "title": "Attack on Polkadot's dotUSD stablecoin costs the treasury about $1.38 million",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/jo1z_lsya"
+          ]
+        ]
+      },
+      {
+        "title": "Stablecoin card spending on Solana hits a record $141 million in October",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/tkvcn3g5y"
+          ]
+        ]
+      },
+      {
+        "title": "Zaif says 380,536 customer email addresses leaked via contractor Arara",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746393"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/389752"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/vme-vpef1u4"
+          ]
+        ]
+      },
+      {
+        "title": "Norinchukin Bank group plans first digital securities with KDX, SBI Securities and Progmat",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/389759"
+          ],
+          [
+            "Neweconomy",
+            "https://www.neweconomy.jp/posts/623971"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/tfqqtucgvhd"
+          ]
+        ]
+      },
+      {
+        "title": "SBI Global Asset Management lists its tokenized JX fund on HashKey Exchange",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/si4f1p0uq1n6"
+          ]
+        ]
+      },
+      {
+        "title": "South Korea plans to delay its crypto gains tax by two years to 2029",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/u_9d6acy6yqo"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/south-korea-crypto-tax-fourth-delay-2029"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/05/south-korea-seeks-fourth-crypto-tax-delay-targets-2029/"
+          ]
+        ]
+      },
+      {
+        "title": "Democrats plan probes into the Trump family's crypto businesses",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746382"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/389756"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/lawyer-up-democrats-target-trump-big-tech-after-midterm-sweep"
+          ]
+        ]
+      },
+      {
+        "title": "House Democrats discuss a new crypto market structure bill",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746383"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/389852"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/05/democrats-weigh-broader-crypto-market-structure-bill-for-next-congress/"
+          ]
+        ]
+      },
+      {
+        "title": "France's self-custody reporting amendment falls away after budget revenue vote",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/lxljss91dgzf"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/france-rejects-budget-revenue-sidelines-crypto-amendments"
+          ]
+        ]
+      },
+      {
+        "title": "Thailand's SEC files criminal complaint against Bitget operator, to block access from Dec. 5",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/i53coanrc89l"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/thailand-block-bitget-december-unlicensed-crypto-trading"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/05/thailands-sec-files-complaint-against-bitget-over-unlicensed-exchange-operations/"
+          ]
+        ]
+      },
+      {
+        "title": "Ukraine's central bank declines to back crypto legalization bill",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/sufc4hylo41"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns"
+          ]
+        ]
+      },
+      {
+        "title": "Arkansas sues Kalshi over alleged illegal gambling",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-05-arkansas-sues-kalshi-434407"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one"
+          ]
+        ]
+      },
+      {
+        "title": "Bitcoin briefly regains $80,000 after midterms; US spot ETFs see inflows",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/05/bitcoin-nears-80k-ethereum-gains-3-as-us-jobless-claims-fall/"
+          ]
+        ]
+      },
+      {
+        "title": "Texas data center risk weighs on AI-pivoting bitcoin miners; Bernstein cuts targets",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/n5muxmcr5"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746380"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom"
+          ]
+        ]
+      },
+      {
+        "title": "Google backstops Anthropic's $19 billion lease at TeraWulf's Kentucky data center",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/lw6lb_i09e69"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults"
+          ]
+        ]
+      },
+      {
+        "title": "Strategy's STRC preferred stock hits $100 par for the first time since May",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746385"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/nraniil9iqq0"
+          ],
+          [
+            "Neweconomy",
+            "https://www.neweconomy.jp/posts/624107"
+          ]
+        ]
+      },
+      {
+        "title": "Trump Media-linked wallets send about 4,259 BTC to Crypto.com",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/s3d5okpaw"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/389893"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show"
+          ]
+        ]
+      },
+      {
+        "title": "Hut 8 posts $189.5 million net profit on bitcoin gains",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/5_vstcn04"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746511"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs"
+          ]
+        ]
+      },
+      {
+        "title": "American Bitcoin swings to a $126 million Q3 profit",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-05-american-bitcoin-swings-to-profit-434413"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/05/trump-linked-american-bitcoin-swings-to-usd126-million-profit-in-q3-2026"
+          ]
+        ]
+      },
+      {
+        "title": "MUFG Bank, JPMorgan's Kinexys, HSBC and others set up GL1 Org for tokenized finance standards",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746597"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/389822"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/wf06ws1yxqdw"
+          ]
+        ]
+      },
+      {
+        "title": "First tokenized US stock trade under the SEC innovation exemption completed",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746485"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/389873"
+          ]
+        ]
+      },
+      {
+        "title": "Coinbase Prime launches Deribit-powered options and perpetuals for US institutions",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/f0dzfs7o0rc8"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/04/coinbase-brings-deribit-liquidity-to-us-institutions-via-prime/"
+          ]
+        ]
+      },
+      {
+        "title": "Kraken parent Payward and clients buy AAVE tokens",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/60f8wgofame"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/05/kraken-parent-payward-and-its-clients-buy-aave-tokens-in-defi-investment-push"
+          ]
+        ]
+      },
+      {
+        "title": "Amundi adds a tokenized Ethereum share class to its STOXX Europe 600 fund",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/c9d-_w4122"
+          ]
+        ]
+      },
+      {
+        "title": "XRP Ledger fix fixCleanup3_4_0 goes live",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/izsplag8q6"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens"
+          ]
+        ]
+      },
+      {
+        "title": "Zilliqa plans pivot to an Ethereum layer 2 for regulated institutions",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/ha3rfr0hq9b"
+          ]
+        ]
+      },
+      {
+        "title": "Crédit Mutuel Arkéa confirms fraudulent transfers from its own account",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-04-french-bank-confirms-cyberattack-434372"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746528"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/credit-mutuel-arkea-resumes-operations-133m-crypto-theft"
+          ]
+        ]
+      },
+      {
+        "title": "Binance and Polymarket propose Polygon hard fork to recover 70.49 million stolen POL",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/a_suyi5qg7"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/05/polygon-proposes-70-49m-pol-recovery-after-binance-polymarket-hacks/"
+          ]
+        ]
+      },
+      {
+        "title": "Binance and Deribit revoke SignalPlus-linked API keys",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746658"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/fczdooc00r8"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/05/binance-and-deribit-revoke-all-signalplus-api-keys-after-security-alert/"
+          ]
+        ]
+      },
+      {
+        "title": "Binance expands proof of reserves from 10 to 44 tokens",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746610"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/ia7xxoumsd"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/04/binance-replenishes-98-of-assets-affected-by-6-3b-security-incident/"
+          ]
+        ]
+      },
+      {
+        "title": "Mercado Bitcoin begins phased reopening on Nov. 9",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/ywdl2alupx"
+          ]
+        ]
+      },
+      {
+        "title": "India's CERT-In warns of AI-assisted hackers targeting crypto exchanges",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/deh6ud042"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/05/indias-cert-in-warns-of-ai-hackers-targeting-crypto-exchanges/"
+          ]
+        ]
+      }
+    ]
   }
 ]
