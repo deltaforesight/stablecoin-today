@@ -4657,5 +4657,443 @@
         ]
       }
     ]
+  },
+  {
+    "guid": "stablecoin-today-2026-11-06",
+    "title": "Nov 06, 2026: Nigeria stablecoin licensing, Circle freezes $1.1B USDC, Bitcoin falls on AI selloff",
+    "pub": "2026-11-07T08:00:00+09:00",
+    "summary": "Nigeria's central bank introduced licensing for stablecoin issuers and banned algorithmic stablecoins. Circle said it has frozen about $1.1 billion in USDC linked to the Binance hack. Also: Bitcoin fell about 6% as AI stocks slumped, and Greece passed a 10% tax on crypto gains.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-11-06/stablecoin-today_2026-11-06.mp3",
+    "bytes": 3890060,
+    "seconds": 324.086,
+    "notes": [
+      {
+        "title": "Nigeria introduces stablecoin issuer licensing and bans algorithmic stablecoins",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/eo31w6tl2_9"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Circle says it froze about $1.1 billion in USDC linked to the Binance hack",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/29vjjkd6gaz"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/05/circle-says-it-froze-1-1b-in-usdc-linked-to-binance-incident/"
+          ]
+        ]
+      },
+      {
+        "title": "Coincheck to delist six tokens on December 17",
+        "sources": [
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/624616"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/389967/"
+          ]
+        ]
+      },
+      {
+        "title": "bitbank crypto deposits and withdrawals delayed by an outside screening service outage",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746914"
+          ]
+        ]
+      },
+      {
+        "title": "NOTA, parent of the NOT A HOTEL COIN issuer, to list on TSE Growth on December 9",
+        "sources": [
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/624695"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/390078/"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746860"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Greece passes 10% tax on crypto gains and 15% on staking income",
+        "sources": [
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/624601"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: China central bank probes Solana Shanghai ads; Solana Accelerate China cancelled",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/rdaj9qla3dr"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/06/chinas-central-bank-probes-solana-over-shanghai-ad-says-promoting-sol-is-illegal/"
+          ]
+        ]
+      },
+      {
+        "title": "Fed and OCC ask US banks about unusual activity after the Binance hack",
+        "sources": [
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/624472"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/zw1-zxmasxgj"
+          ]
+        ]
+      },
+      {
+        "title": "Judge bars Kalshi sports contracts on two California tribes’ lands",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-06-kalshi-injunction-california-tribal-lands-435813"
+          ]
+        ]
+      },
+      {
+        "title": "Bitcoin falls about 6% to the $75,000 range as AI stocks slump",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/389945/"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746671"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/markets/2026-11-06-crypto-etfs-see-over-half-a-billion-dollars-in-outflows-amid-post-midterm-market-slide-435873"
+          ]
+        ]
+      },
+      {
+        "title": "US adds 165,000 jobs in October, far above estimates",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate"
+          ]
+        ]
+      },
+      {
+        "title": "Paraguay president resigns over Ueno Bank collapse",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/paraguay-president-resigns-after-collapse-ueno-digital-bank"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/michqbsd26"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Zcash activates NU7, leaving about 12,224 ZEC stuck in Sprout",
+        "sources": [
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/624659"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/defi/2026-11-06-zcashs-nu7-goes-live-435807"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable"
+          ]
+        ]
+      },
+      {
+        "title": "Hyperliquid Strategies subsidiary applies for CFTC FCM registration",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/markets/2026-11-05-hyperliquid-strategies-files-become-cftc-registered-fcm-posts-13-3-million-quaterly-revenue-435455"
+          ],
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/624681"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps"
+          ]
+        ]
+      },
+      {
+        "title": "Core Scientific to exit Bitcoin mining by year-end",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746690"
+          ],
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/624724"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-05-irens-mining-revenue-drops-435783"
+          ]
+        ]
+      },
+      {
+        "title": "Anchorage Digital applies for CFTC swap dealer registration",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-05-anchorage-digital-seeks-cftc-swap-dealer-registration-for-crypto-options-business-434437"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/m9_k1mmzq8"
+          ]
+        ]
+      },
+      {
+        "title": "Canary lists staked INJ ETF on Nasdaq",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115"
+          ],
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/624632"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/5u64sfxjox2"
+          ]
+        ]
+      },
+      {
+        "title": "Base deploys Denim upgrade with 200 ms blocks",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/ecosystems/2026-11-05-base-deploys-denim-upgrade-on-mainnet-replacing-flashblocks-with-200ms-block-times-434433"
+          ],
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/624625"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/sb81fr1ep"
+          ]
+        ]
+      },
+      {
+        "title": "World Liberty Financial plans more WLFI buybacks",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/bu-2rxynev"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/06/trump-backed-world-liberty-financial-plans-wlfi-buyback-after-67-ytd-drop/"
+          ]
+        ]
+      },
+      {
+        "title": "SBI and SC Ventures back crypto insurer Soter",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/v0spil7r_xtr"
+          ]
+        ]
+      },
+      {
+        "title": "Hypercall plans Anthropic-linked pre-IPO options",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/markets/2026-11-06-hypercall-anthropic-linked-pre-ipo-options-market-435453"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746918"
+          ]
+        ]
+      },
+      {
+        "title": "Bitcoin developer proposes quantum landmines",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/b5s3yxk67l"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Chainalysis breach exposed password hashes and live tokens for all users",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746798"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/jd4957sd38"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: SEAL says Binance attackers were inside for about eight weeks",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/3l86stoki7"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Binance asks ArbitrumDAO to return about $30.5 million",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/f4w-3sv3c"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/06/binance-seeks-arbitrumdao-approval-to-recover-30-5m-in-frozen-crypto/"
+          ]
+        ]
+      },
+      {
+        "title": "GOPAX halts trading to move assets to cold storage",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/44vc4lky5"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Mercado Bitcoin outflows continued for about four hours after containment",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746669"
+          ]
+        ]
+      },
+      {
+        "title": "FLOKI suspends trading bot after exploit",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=746778"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/qm9caw-t-kux"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Former FBI agent pleads guilty to stealing about $2.47 million in crypto",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/390098/"
+          ]
+        ]
+      },
+      {
+        "title": "Scam emails posing as Binance compensation reach Japan",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/390123/"
+          ]
+        ]
+      },
+      {
+        "title": "Singapore police prevent about $17.4 million in fraud losses",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/s15ot67w4"
+          ]
+        ]
+      }
+    ]
   }
 ]
