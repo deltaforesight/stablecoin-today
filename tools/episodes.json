@@ -5431,5 +5431,108 @@
         ]
       }
     ]
+  },
+  {
+    "guid": "stablecoin-today-2026-11-08",
+    "title": "Nov 08, 2026: Bitcoin ETFs turn negative for 2026, Binance account closures widen in Europe, Binance CFO steps down",
+    "pub": "2026-11-09T08:00:00+09:00",
+    "summary": "No major stablecoin headlines today. U.S. spot bitcoin ETFs posted $1.28 billion in weekly outflows and turned negative for the year, Binance users in more European countries are being told their accounts will close, and Binance's CFO Kaiser Ng is stepping down.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-11-08/stablecoin-today_2026-11-08.mp3",
+    "bytes": 2063564,
+    "seconds": 171.884667,
+    "notes": [
+      {
+        "title": "Binance account closures widen beyond France to Spain, Italy and Poland",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/4a4mcbe1u"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end"
+          ]
+        ]
+      },
+      {
+        "title": "Funds from MEXC held for review at other exchanges; MEXC CEO says withdrawals rose",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/1cy87065t"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/07/mexc-ceo-says-exchange-remains-live-after-us-treasury-ban/"
+          ]
+        ]
+      },
+      {
+        "title": "US State Department urges UN members to enforce North Korea sanctions after Binance hack",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/390365/"
+          ]
+        ]
+      },
+      {
+        "title": "US spot bitcoin ETFs lose $1.28B in a week and turn negative for 2026",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/07/bitcoin-etfs-record-1-28b-in-weekly-outflows-ethereum-loses-365m/"
+          ]
+        ]
+      },
+      {
+        "title": "Binance CFO Kaiser Ng steps down; Justin Yek named successor",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/lhi2qos0w"
+          ]
+        ]
+      },
+      {
+        "title": "Midnight upgrades mainnet with the Ledger 9 hard fork",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/07/midnight-expands-mainnet-capabilities-with-ledger-9-hard-fork/"
+          ]
+        ]
+      },
+      {
+        "title": "Insurers expected to tighten underwriting for crypto firms after Binance hack",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/390259/"
+          ]
+        ]
+      },
+      {
+        "title": "Paris court sentences former Holograph employee over HLG minting",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/xovy6ofwoi"
+          ]
+        ]
+      }
+    ]
   }
 ]
