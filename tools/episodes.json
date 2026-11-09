@@ -5534,5 +5534,403 @@
         ]
       }
     ]
+  },
+  {
+    "guid": "stablecoin-today-2026-11-09",
+    "title": "Nov 09, 2026: New Zealand drafts stablecoin rules, Raycash launches private stablecoin payments, Coinbase wins full OCC trust charter",
+    "pub": "2026-11-10T08:00:00+09:00",
+    "summary": "New Zealand proposed an interim framework for New Zealand dollar stablecoins, Raycash launched confidential stablecoin payments on Ethereum, and South Korea's draft digital asset law would limit won stablecoin issuance to bank-led groups. Elsewhere, Coinbase's national trust charter took effect and bitcoin fell to its lowest level since August.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-11-09/stablecoin-today_2026-11-09.mp3",
+    "bytes": 4805324,
+    "seconds": 400.358,
+    "notes": [
+      {
+        "title": "New Zealand FMA proposes interim framework for NZ dollar stablecoins",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/zix13f0d6zq8"
+          ]
+        ]
+      },
+      {
+        "title": "Zama spin-off Raycash launches confidential stablecoin payments on Ethereum",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/4gep6evk6s-c"
+          ]
+        ]
+      },
+      {
+        "title": "South Korea's draft digital asset law would cap exchange shareholders and limit won stablecoins to bank-led issuers",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/xxnu4w64_5"
+          ]
+        ]
+      },
+      {
+        "title": "Progmat and Digital Asset sign MOU to tokenize Japanese government bonds on Canton",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747082"
+          ],
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/625036"
+          ]
+        ]
+      },
+      {
+        "title": "Japan's FSA warns of phishing emails and urges passkeys",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747060"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/lcnrhc11lax"
+          ]
+        ]
+      },
+      {
+        "title": "Sen. Blumenthal renews records demand to Binance, Tether and two Trump-linked crypto firms",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747033"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/rglmvil-xc"
+          ]
+        ]
+      },
+      {
+        "title": "Trump says he knows nothing about foreign investment in World Liberty Financial",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-09-trump-says-he-knows-nothing-about-uae-linked-investment-in-his-crypto-firm-436079"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747107"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/09/trump-says-i-know-nothing-about-wlfi-as-uae-investment-faces-fresh-scrutiny/"
+          ]
+        ]
+      },
+      {
+        "title": "PBoC governor says China will tighten oversight of RWA tokenization",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/00qn0h-frz"
+          ]
+        ]
+      },
+      {
+        "title": "ECB, European Commission and ESMA seek members for tokenization standards group",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/eu-nominations-tokenization-standards-group"
+          ]
+        ]
+      },
+      {
+        "title": "South Korea's Supreme Court sets rules for seizing crypto in civil enforcement",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/ax987pr-8"
+          ]
+        ]
+      },
+      {
+        "title": "Bitcoin hits lowest since August as liquidations top $1 billion",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/markets/2026-11-09-bitcoin-loses-50-week-moving-average-as-24-hour-crypto-long-liquidations-top-1-billion-436102"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week"
+          ],
+          [
+            "CRYPTO TIMES",
+            "https://crypto-times.jp/news-bitcoin-etf-outflow-august-low-1109/"
+          ]
+        ]
+      },
+      {
+        "title": "Strategy buys 1,036 bitcoin and repurchases STRC shares",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-09-connecting-the-dots-michael-saylor-strategy-bitcoin-436094"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747113"
+          ]
+        ]
+      },
+      {
+        "title": "Nvidia perpetual futures slide on crypto venues after CEO probe",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/defi/2026-11-08-nvidia-perps-slide-jensen-huang-436047"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/09/nvidia-stock-binance-led-44-of-weekend-trading-as-ceo-jensen-huang-spy-probe-hit/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/fdkhyiiuvun"
+          ]
+        ]
+      },
+      {
+        "title": "Coinbase's national trust charter takes effect",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/coinbase-occ-approval-national-trust-bank-charter"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/so5q4npemmy"
+          ]
+        ]
+      },
+      {
+        "title": "NYSE picks Avalanche to settle tokenized stocks",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-09-nyse-settle-tokenized-stocks-avalanche-planned-24-7-market-436208"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race"
+          ]
+        ]
+      },
+      {
+        "title": "Formation notifies SEC of tokenized stock venue on Solana",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/defi/2026-11-09-formation-tokenized-securities-solana-436060"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy"
+          ]
+        ]
+      },
+      {
+        "title": "Vitalik Buterin says ETH should be valued as a store of value",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022"
+          ],
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/625011"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747054"
+          ]
+        ]
+      },
+      {
+        "title": "Two rival proposals aim to keep Glamsterdam from breaking old contracts",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts"
+          ],
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/625031"
+          ]
+        ]
+      },
+      {
+        "title": "Solana developers propose retiring durable nonces",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/19vvijq29"
+          ]
+        ]
+      },
+      {
+        "title": "Zcash developers propose 20-second blocks",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/11/09/zcash-developers-want-20-second-blocks-just-days-after-major-speed-upgrade"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/b757r8c1o"
+          ]
+        ]
+      },
+      {
+        "title": "Tether to invest €28.8 million in Juventus capital increase",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/ihid2-8ym"
+          ]
+        ]
+      },
+      {
+        "title": "Animoca Brands co-founder Yat Siu to become CEO",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/wm4kvhwv4l"
+          ]
+        ]
+      },
+      {
+        "title": "Cosmos moves IBC to LF Decentralized Trust",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/390418/"
+          ]
+        ]
+      },
+      {
+        "title": "Onchain data casts doubt on insider theory in NYT election betting story",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/defi/2026-11-08-onchain-data-casts-doubt-on-insider-trading-theory-in-nyts-suspicious-election-betting-story-436034"
+          ]
+        ]
+      },
+      {
+        "title": "Galxe folds services into its Gravity blockchain",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/skvowva1_ym"
+          ]
+        ]
+      },
+      {
+        "title": "Former Ethereum Foundation executive sues over dismissal",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/h80gj5donb5"
+          ]
+        ]
+      },
+      {
+        "title": "Binance denies user data breach claim",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/09/binance-calls-335-9m-user-record-breach-claim-a-likely-scam/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/l236reidivu"
+          ]
+        ]
+      },
+      {
+        "title": "Web3Auth moves $5.6 million out of exposed Keplr wallets",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/9q8zjspcv_c"
+          ]
+        ]
+      },
+      {
+        "title": "Threshold partially restarts tBTC bridge",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/ehre4fx3u"
+          ]
+        ]
+      },
+      {
+        "title": "Ankr bridge drained of about $300,000",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/09/ankr-bridge-hack-304k-drained-using-forged-cross-chain-receipts/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/c-j9395c3k_c"
+          ]
+        ]
+      },
+      {
+        "title": "LNbits urges users to shut down servers after attack",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/bym7w_uetbz"
+          ]
+        ]
+      }
+    ]
   }
 ]
