@@ -5932,5 +5932,449 @@
         ]
       }
     ]
+  },
+  {
+    "guid": "stablecoin-today-2026-11-10",
+    "title": "Nov 10, 2026: PNC pilots USDC payments for corporate clients, Visa adds Monad for stablecoin settlement, Bottomline sends first USDC payment",
+    "pub": "2026-11-11T08:00:00+09:00",
+    "summary": "PNC Bank began a pilot letting corporate clients receive USDC payments that land as dollar deposits, Visa added Monad to its stablecoin settlement program, and Bottomline completed its first cross-border USDC payment. Elsewhere, hotter-than-expected U.S. inflation pushed bitcoin below 74,000 dollars and miner MARA disclosed 1.1 billion dollars in bitcoin sales.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-11-10/stablecoin-today_2026-11-10.mp3",
+    "bytes": 5103404,
+    "seconds": 425.192667,
+    "notes": [
+      {
+        "title": "PNC Bank pilots USDC payment acceptance for corporate clients, converted into dollar deposits",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-09-coinbase-pnc-bank-expand-partnership-with-usdc-payments-corporate-clients-436466"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747138"
+          ]
+        ]
+      },
+      {
+        "title": "Visa adds Monad to its stablecoin settlement networks",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/ecosystems/2026-11-10-visa-monad-stablecoin-settlement-network-437201"
+          ]
+        ]
+      },
+      {
+        "title": "Bottomline completes its first cross-border USDC payment",
+        "sources": [
+          [
+            "Bottomline",
+            "https://www.bottomline.com/newsroom/press-releases/bottomline-brings-usdc-stablecoin-payments-enterprise-payment-workflows"
+          ]
+        ]
+      },
+      {
+        "title": "Circle moves USYC's underlying fund into Treasury bills of up to six months",
+        "sources": [
+          [
+            "crypto.news",
+            "https://crypto.news/circle-usyc-fund-longer-dated-treasury-bills/"
+          ]
+        ]
+      },
+      {
+        "title": "Digital Garage signs MOU with Circle affiliate; its merchant payment platform supports USDC on Arc",
+        "sources": [
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/625544"
+          ]
+        ]
+      },
+      {
+        "title": "Canada's budget would require banks to issue stablecoins via non-financial subsidiaries",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/eeobfab9t"
+          ]
+        ]
+      },
+      {
+        "title": "Japan's SESC seeks injunction against three unregistered firms that pitched bitcoin ETF exposure",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747289"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/390725"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Coinbase, Kalshi, Payward and others back the CFTC in the stock perpetuals lawsuit",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-10-coinbase-kalshi-payward-back-cftc-perps-436971"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747146"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/coinbase-kalshi-cftc-stock-perpetual-futures-lawsuit"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Senator Warren warns Trump family crypto businesses and tech CEOs to preserve documents",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-09-senate-banking-elizabeth-warren-scrutiny-prediction-markets-trump-crypto-ventures-436898"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747145"
+          ],
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/625409"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Binance halts MEXC-linked transfers after FinCEN order",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/10/binance-blocks-mexc-transfers-after-fincen-flags-money-laundering-concerns"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/zt5t02-6pwh8"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/na9tvd3xanqj"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Former Binance investigator says Iran-linked account probe was ignored (Forbes)",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/fv51jcddyxx1"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/10/ex-binance-investigator-alleges-1-2b-iran-linked-account-probe-was-ignored"
+          ]
+        ]
+      },
+      {
+        "title": "Poland's lower house passes sanctions bill covering crypto freezes",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets"
+          ]
+        ]
+      },
+      {
+        "title": "China's internet regulator publishes blockchain filing rules banning crypto terms in service names",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/57e-9g-38_qn"
+          ]
+        ]
+      },
+      {
+        "title": "U.S. October CPI beats forecasts; bitcoin slips below 74,000 dollars",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/bitcoin-price-eyes-74k-fed-rate-hike-expected-after-waller-speech"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/10/bitcoin-crashes-below-74k-as-u-s-inflation-beats-expectations"
+          ]
+        ]
+      },
+      {
+        "title": "Spot bitcoin ETFs see more outflows; IBIT down 1.66 billion dollars over seven sessions",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/blackrock-ibit-bitcoin-etf-outflows"
+          ]
+        ]
+      },
+      {
+        "title": "MARA sold 13,597 BTC for about 1.1 billion dollars and repaid its bitcoin-backed loans",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747164"
+          ]
+        ]
+      },
+      {
+        "title": "Trump Media swings to a 410 million dollar Q3 profit on crypto gains",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747210"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/b3x-fsm3x"
+          ]
+        ]
+      },
+      {
+        "title": "Morgan Stanley to acquire transfer agent Vinyl Equity for tokenization",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747126"
+          ],
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/625514"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/k8smalh2_3"
+          ]
+        ]
+      },
+      {
+        "title": "Securitize agrees to buy River One; Q3 revenue up 13 percent",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-09-securitize-shares-surge-river-one-436955"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/securitize-river-one-asset-backed-lending"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747139"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Robinhood will not object to tokenization of its stock on OKXICE",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/x5bk0o-nnerg"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Charles Schwab begins trading Solana, Avalanche and Chainlink",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747129"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/6j0aphr9wgsx"
+          ]
+        ]
+      },
+      {
+        "title": "XRP Ledger Foundation publishes study on quantum-resistant account keys",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747250"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/390678"
+          ]
+        ]
+      },
+      {
+        "title": "Acala and Karura open governance votes to shut down in February 2027",
+        "sources": [
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/625592"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/tlsb7c-k-n"
+          ]
+        ]
+      },
+      {
+        "title": "Walt launches a standalone app outside Telegram",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/ecosystems/2026-11-10-walt-standalone-crypto-trading-app-436981"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/10/the-crypto-wallet-that-grew-up-inside-telegram-is-striking-out-on-its-own"
+          ]
+        ]
+      },
+      {
+        "title": "Deribit to delay open interest data by eight hours",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/k-9jbnufr1"
+          ]
+        ]
+      },
+      {
+        "title": "eToro's Q3 profit falls 74 percent",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-10-etoros-q3-profit-plunges-74-as-weaker-crypto-trading-weighs-on-earnings-437192"
+          ]
+        ]
+      },
+      {
+        "title": "BitGo's Q3 revenue falls about 51 percent",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-10-bitgo-revenue-falls-q3-436986"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/bitgo-q3-2026-earnings-crypto-treasury-gains"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/sp0mkc-j4ts3"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Elliptic says North Korean launderers used homemade NEAR memecoins to move Binance hack funds",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/ecosystems/2026-11-09-binance-hack-launderers-mint-homemade-elon-musk-animal-memecoins-move-stolen-funds-elliptic-436440"
+          ],
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/625370"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747137"
+          ]
+        ]
+      },
+      {
+        "title": "Binance warns an iOS flaw could expose wallet keys",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/binance-warns-ios-flaw-could-expose-crypto-wallet-keys"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/jqzfk6nx7"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/eqbs_sn_7"
+          ]
+        ]
+      },
+      {
+        "title": "NEAR AI discloses a breach via an SGLang vulnerability",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/defi/2026-11-10-near-ai-security-breach-437002"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/10/near-ai-confirms-breach-exposed-user-data-and-access-to-18-ai-agents"
+          ]
+        ]
+      },
+      {
+        "title": "Injective mainnet halts block production; Korean exchanges pause INJ transfers",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/g1byqjhfdztf"
+          ]
+        ]
+      },
+      {
+        "title": "Swarm developer hit by malicious npm package",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/h7gyto8weqp"
+          ]
+        ]
+      },
+      {
+        "title": "CertiK urges hard dollar caps on exchange hot wallets",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/5oftc2pnjulf"
+          ]
+        ]
+      }
+    ]
   }
 ]
