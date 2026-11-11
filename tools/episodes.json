@@ -6376,5 +6376,547 @@
         ]
       }
     ]
+  },
+  {
+    "guid": "stablecoin-today-2026-11-11",
+    "title": "Nov 11, 2026: Banks commit $270 million to joint stablecoin issuer, Japanese bank API halt pauses JPYC issuance, USDT supply shrinks $6.6 billion",
+    "pub": "2026-11-12T08:00:00+09:00",
+    "summary": "Goldman Sachs, Citi and other members of a 21-institution consortium are reported to be committing about 270 million dollars to a joint stablecoin issuer. GMO Aozora Net Bank halted its banking API twice, pausing issuance and redemption of the yen stablecoin JPYC, and CryptoQuant said USDT supply has shrunk by 6.6 billion dollars in 60 days. Elsewhere, bitcoin fell to its lowest since August 20 and the CFTC reportedly warned Kalshi of possible legal action.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-11-11/stablecoin-today_2026-11-11.mp3",
+    "bytes": 5633612,
+    "seconds": 469.373333,
+    "notes": [
+      {
+        "title": "Goldman, Citi and other members of a 21-institution group to commit about $270 million to a joint stablecoin issuer, Bloomberg reports",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747326"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture"
+          ]
+        ]
+      },
+      {
+        "title": "GMO Aozora Net Bank halts its banking API twice after unauthorized traffic, pausing JPYC issuance and redemption",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/q_cq___rnu"
+          ],
+          [
+            "ITmedia NEWS",
+            "https://www.itmedia.co.jp/news/article/2611/11/2000003087/"
+          ],
+          [
+            "Security Taisaku Lab",
+            "https://rocket-boys.co.jp/security-measures-lab/gmo-aozora-bank-api-suspended-unauthorized-traffic/"
+          ]
+        ]
+      },
+      {
+        "title": "Japan's FSA publishes minutes of its digital and decentralized finance study group, with a warning on stablecoin redemption risk",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747494"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/390900"
+          ]
+        ]
+      },
+      {
+        "title": "FSB recommends Turkey set up a dedicated regime for stablecoins",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/fsb-turkey-crypto-oversight-stablecoin-regulation"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/duj-r8favf8"
+          ],
+          [
+            "FSB",
+            "https://www.fsb.org/2026/11/fsb-recommends-turkiye-further-strengthens-its-regulatory-framework-for-crypto-assets-and-stablecoins/"
+          ]
+        ]
+      },
+      {
+        "title": "USDT market cap falls $6.6 billion in 60 days, CryptoQuant says",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/10/bitcoin-risks-deeper-crash-as-usdt-market-cap-sheds-6-6b-cryptoquant"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747354"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/390739"
+          ]
+        ]
+      },
+      {
+        "title": "miPlata releases a Visa prepaid card that spends USDC directly",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/p350bal9luea"
+          ]
+        ]
+      },
+      {
+        "title": "Mi&T to offer its JPYC payment app Matane at shops around Osaka Metropolitan University",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/390875"
+          ],
+          [
+            "PR TIMES",
+            "https://prtimes.jp/main/html/rd/p/000000005.000187870.html"
+          ]
+        ]
+      },
+      {
+        "title": "Datachain supports SMBC's technical review of on-chain finance infrastructure",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747362"
+          ],
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/625753"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/390932"
+          ]
+        ]
+      },
+      {
+        "title": "CFTC privately warns Kalshi of possible legal action over product notifications, Politico reports",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747321"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/cftc-warns-kalshi-imminent-charges-over-contracts"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/11/cftc-warns-kalshi-of-possible-charges-over-unreported-contracts"
+          ]
+        ]
+      },
+      {
+        "title": "New York federal judge rules Novig's sports contracts are not swaps and denies an injunction",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-11-new-york-judge-denies-novig-injunction-bid-437828"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/zlun4qif0l"
+          ]
+        ]
+      },
+      {
+        "title": "CFTC no-action relief lets clearinghouses use trust companies for daily settlement",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/crypto-trust-firms-compete-banks-us-derivatives-settlements"
+          ]
+        ]
+      },
+      {
+        "title": "SEC enforcement actions fall 23.7% to 348 in fiscal 2026",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025"
+          ]
+        ]
+      },
+      {
+        "title": "ECB board member urges year-end deal on digital euro law; Pontes settles a 1 billion euro ESM bond",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/ecb-warns-legislative-delays-digital-euro-launch"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/11/ecb-urges-year-end-digital-euro-law-as-pontes-settles-first-1b-tokenized-bond"
+          ]
+        ]
+      },
+      {
+        "title": "Tom Emmer elected House Republican whip",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/2so8-haw6uk"
+          ]
+        ]
+      },
+      {
+        "title": "Miami-Dade County accepts bitcoin for property taxes",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747477"
+          ]
+        ]
+      },
+      {
+        "title": "Bitcoin falls to about $72,700, its lowest since August 20, after hot U.S. CPI",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/390834"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day"
+          ]
+        ]
+      },
+      {
+        "title": "Bitmine reports a $6.3 billion net loss for fiscal 2026",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747460"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/390849"
+          ]
+        ]
+      },
+      {
+        "title": "Zcash falls below $1,000 a day after Grayscale pledges $1 million to its ecosystem",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/zcash-falls-1k-grayscales-1m-ecosystem-commitment"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/markets/2026-11-10-grayscale-pledges-1-million-alongside-zcash-ad-blitz-as-token-and-etf-fall-12-437277"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/390754"
+          ]
+        ]
+      },
+      {
+        "title": "Barclays raises its IBIT stake 48%; Citi discloses a new $119 million FBTC position",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/barclays-blackrock-ibit-boost-key-q3-filings"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/disl8zvvn"
+          ]
+        ]
+      },
+      {
+        "title": "Canaan's third-quarter revenue falls 90% to $14.5 million",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-10-canaans-q3-revenue-plunges-90-to-14-5-million-as-bitcoin-mining-hardware-sales-slump-437252"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/1e6trtiya"
+          ]
+        ]
+      },
+      {
+        "title": "OKXICE to start tokenized securities trading on November 23 with more than 70 assets",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-11-okxice-sets-nov-23-launch-for-tokenized-securities-venue-under-sec-innovation-exemption-437342"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month"
+          ]
+        ]
+      },
+      {
+        "title": "Kraken parent Payward adds more than 200 tokenized UK and EU stocks to xStocks",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-11-kraken-parent-payward-adds-200-tokenized-uk-and-european-equities-to-xstocks-offering-437837"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/kraken-xstocks-200-tokenized-uk-eu-equities"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion"
+          ]
+        ]
+      },
+      {
+        "title": "Deutsche Bank goes live with crypto custody and signs a tokenization MoU with Deutsche Asset Management",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-11-deutsche-bank-goes-live-with-digital-asset-custody-service-signs-asset-management-deal-437851"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747504"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu"
+          ]
+        ]
+      },
+      {
+        "title": "Plume affiliate Kimber Digital Securities registers as a U.S. broker-dealer and joins FINRA",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization"
+          ],
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/625777"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain"
+          ]
+        ]
+      },
+      {
+        "title": "Moody's and Chainlink complete a cross-chain credit ratings pilot",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/ecosystems/2026-11-10-moodys-chainlink-ccip-cross-chain-credit-ratings-pilot-437245"
+          ],
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/625789"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747388"
+          ]
+        ]
+      },
+      {
+        "title": "Polymarket's U.S. exchange volume rises 266% from June to October",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/polymarket-us-trading-volume-jumps-regulatory-battles"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/10/polymarket-revenue-hits-1-8b-as-sports-trading-surges"
+          ]
+        ]
+      },
+      {
+        "title": "Bullish names former NYSE president Stacey Cunningham as president",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/ku834wt1ohiv"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform"
+          ]
+        ]
+      },
+      {
+        "title": "Ripple Prime head Marc Asch to step down at year-end",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/txtgusgbl83j"
+          ]
+        ]
+      },
+      {
+        "title": "Alta raises a $47.5 million Series A for a blockchain for financial institutions",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244"
+          ]
+        ]
+      },
+      {
+        "title": "MegaETH Foundation rebrands as MEGA and commits $30 million to new products",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/4kk4hlht1"
+          ]
+        ]
+      },
+      {
+        "title": "Partner of Nomura's Laser Digital launches a Saudi SME credit vault on BNB Chain",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/markets/2026-11-11-nomuras-laser-digital-helps-launch-saudi-sme-credit-vault-targeting-100-million-on-bnb-chain-437824"
+          ]
+        ]
+      },
+      {
+        "title": "Helius releases Solana Privacy Rings on mainnet",
+        "sources": [
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/625801"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/rndb_5c6quth"
+          ]
+        ]
+      },
+      {
+        "title": "Jupiter announces four new products",
+        "sources": [
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/625765"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/11/jupiter-launches-four-new-products-to-expand-beyond-solana-trading"
+          ]
+        ]
+      },
+      {
+        "title": "Across bridge domain hijacked; affected users to be made whole",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/defi/2026-11-11-crosschain-protocol-across-restores-systems-after-domain-hijack-437843"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/11/across-protocol-domain-hijacked-via-namecheap-social-engineering-attack-users-to-be-made-whole"
+          ]
+        ]
+      },
+      {
+        "title": "Initia loses about $3.27 million in its second attack in three weeks",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/d57_i-ctuan"
+          ]
+        ]
+      },
+      {
+        "title": "Bitcoin Core discloses three previously patched vulnerabilities",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/ecosystems/2026-11-11-bitcoin-core-discloses-three-patched-security-flaws-including-high-severity-mining-bug-437862"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/wlycm54ocxmh"
+          ]
+        ]
+      },
+      {
+        "title": "LNbits releases emergency version 1.7.0 after wallet thefts",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/lnbits-rushes-emergency-patch-after-reported-bitcoin-wallet-thefts"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/rkjpt4txibjb"
+          ]
+        ]
+      },
+      {
+        "title": "Arcus, a DEX on Robinhood Chain, loses about $2.23 million to an accounting bug",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/11/robinhood-chain-dex-arcus-loses-2-23m-to-accounting-bug"
+          ]
+        ]
+      },
+      {
+        "title": "Mercado Bitcoin to resume Pix deposits and withdrawals next week",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/8ahgt5abld3d"
+          ]
+        ]
+      }
+    ]
   }
 ]
