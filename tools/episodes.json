@@ -6918,5 +6918,417 @@
         ]
       }
     ]
+  },
+  {
+    "guid": "stablecoin-today-2026-11-12",
+    "title": "Nov 12, 2026: Stablecoin supply shrinks $14.2 billion in 30 days, Tron and Tether form new crime task force, KPMG signs off on Tether Gold audit",
+    "pub": "2026-11-13T08:00:00+09:00",
+    "summary": "Stablecoin supply has fallen by 14.2 billion dollars in 30 days, the largest decline since June 2022, according to Glassnode. Tron and Tether have formed a new crime task force with Chainalysis, and Tether says KPMG gave a clean audit opinion to the issuer of its gold token. Elsewhere, Nomura is reported to be weighing a sale of Laser Digital, and MSCI will drop Strategy and Metaplanet from its indexes.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-11-12/stablecoin-today_2026-11-12.mp3",
+    "bytes": 5703596,
+    "seconds": 475.217333,
+    "notes": [
+      {
+        "title": "Stablecoin supply falls $14.2 billion in 30 days, the largest drop since June 2022, Glassnode says",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/stablecoin-supply-drops-worst-slump-since-mid-2022"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747545"
+          ]
+        ]
+      },
+      {
+        "title": "Tron and Tether form the Digital Crime Task Force with Chainalysis",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-12-tron-tether-chainalysis-new-alliance-438514"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering"
+          ]
+        ]
+      },
+      {
+        "title": "Tether says KPMG issued an unqualified audit opinion for the issuer of its gold token XAUT",
+        "sources": [
+          [
+            "Tether",
+            "https://tether.io/news/tether-gold-xaut-becomes-tethers-second-stablecoin-to-complete-a-big-four-audit/"
+          ]
+        ]
+      },
+      {
+        "title": "Securitize and Ethena switch on a liquidity facility of up to $100 million for BlackRock BUIDL",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/ecosystems/2026-11-12-securitize-ethena-buidl-liquidity-facility-live-usdc-438442"
+          ]
+        ]
+      },
+      {
+        "title": "Gemini sells its UK and European operations to stablecoin payments firm KAST for under $10 million, CoinDesk reports",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million"
+          ],
+          [
+            "Blockhead",
+            "https://www.blockhead.co/2026/11/12/gemini-sells-uk-and-europe-business-to-kast-for-under-10-million/"
+          ]
+        ]
+      },
+      {
+        "title": "Thailand SEC publishes draft rules capping stablecoin deposits and withdrawals at 5 million baht a day",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange"
+          ]
+        ]
+      },
+      {
+        "title": "SoFiUSD goes live on Polygon",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/ecosystems/2026-11-12-sofiusd-goes-live-on-polygon-as-bank-issued-stablecoin-expands-reach-438542"
+          ]
+        ]
+      },
+      {
+        "title": "BitGo adds USDC minting and redemption for institutional clients",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-12-bitgo-expands-institutional-stablecoin-minting-and-redemption-platform-with-usdc-438525"
+          ]
+        ]
+      },
+      {
+        "title": "UK digital bank Griffin raises $20 million to expand stablecoin reserve services and cross-border payments",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/digital-bank-griffin-100m-valuation-card-stablecoin"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments"
+          ]
+        ]
+      },
+      {
+        "title": "FIFA prediction market partner Predictstreet removes USD1 references and lists USDC, Bloomberg reports",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/12/trumps-usd1-stablecoin-scrubbed-from-uae-linked-fifa-prediction-market"
+          ]
+        ]
+      },
+      {
+        "title": "DCS DeCard extends stablecoin-linked card issuing with Visa to more than 70 markets",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/12/dcs-decard-and-visa-expand-stablecoin-card-reach-to-70-markets"
+          ]
+        ]
+      },
+      {
+        "title": "Nomura weighs sale of crypto subsidiary Laser Digital, Bloomberg reports",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747518"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/390975"
+          ]
+        ]
+      },
+      {
+        "title": "Ceres agrees a capital and business alliance with SBI Holdings",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747683"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/391104"
+          ]
+        ]
+      },
+      {
+        "title": "Minna Bank and Backpack Japan sign a basic agreement on yen transfers and tokenized deposits",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747690"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/391078"
+          ],
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/626146"
+          ]
+        ]
+      },
+      {
+        "title": "Toppan and BitGo test three-party key management for digital assets, targeting a 2028 service",
+        "sources": [
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/626053"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/391049"
+          ]
+        ]
+      },
+      {
+        "title": "SEC files a brief backing the CFTC in the lawsuit over single-stock perpetual futures",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-11-sec-enters-fight-who-regulates-perpetual-derivatives-stocks-in-us-438427"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747511"
+          ],
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/626118"
+          ]
+        ]
+      },
+      {
+        "title": "South Korea to let exchanges suspend deposits and withdrawals on suspected hacks",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747660"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/12/south-korea-lets-crypto-exchanges-freeze-withdrawals-on-suspected-hacks"
+          ]
+        ]
+      },
+      {
+        "title": "Russian central bank says domestic exchanges can start crypto trading from November 22",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747580"
+          ],
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/626099"
+          ]
+        ]
+      },
+      {
+        "title": "London Stock Exchange eases listing rules for professional-only crypto ETNs, CoinDesk reports",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/xriv8fkqq2"
+          ]
+        ]
+      },
+      {
+        "title": "MSCI to remove Strategy and Metaplanet from its indexes after the November 30 close",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/markets/2026-11-11-strategy-metaplanet-lose-msci-index-membership-november-reshuffle-438437"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/390979"
+          ]
+        ]
+      },
+      {
+        "title": "Bitcoin falls as much as 3.5% after Nvidia CEO Jensen Huang resigns; spot ETF outflows reach $1.44 billion over five sessions",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five"
+          ]
+        ]
+      },
+      {
+        "title": "DTCC plans to bring its tokenization service to Solana in the second half of 2027",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-12-dtcc-plans-bring-tokenized-securities-solana-second-half-of-2027-438559"
+          ]
+        ]
+      },
+      {
+        "title": "BNY picks Figment to support staking on its custody platform",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-12-bny-taps-figment-to-support-staking-on-its-digital-asset-custody-platform-438538"
+          ]
+        ]
+      },
+      {
+        "title": "Ethlabs proposes moving Ethereum post-quantum work up to 2027 and withdraws its faster-slot proposal",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/defi/2026-11-12-ethlabs-proposes-ethereum-post-quantum-2027-438494"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027"
+          ]
+        ]
+      },
+      {
+        "title": "Pyth Network adds real-time stock and ETF data from five NYSE Group exchanges",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/web3/2026-11-11-pyth-network-nyse-data-437928"
+          ]
+        ]
+      },
+      {
+        "title": "Polymarket lays off staff and ends contractor agreements, Bloomberg reports",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747543"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/12/polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges-ahead"
+          ]
+        ]
+      },
+      {
+        "title": "Zcash holders to vote November 16 to 30 on removing 50,000 ZEC from the grants treasury",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/2zi6k8564key"
+          ]
+        ]
+      },
+      {
+        "title": "Sygnum launches an ETH-denominated fund targeting 8% to 10% a year",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-12-sygnum-eth-alpha-fund-staking-yields-options-arbitrage-438386"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/391082"
+          ]
+        ]
+      },
+      {
+        "title": "Israel Discount Bank to offer bitcoin and ether trading in its app from November 26",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/12/israel-discount-bank-to-launch-bitcoin-and-ethereum-trading-in-its-app-on-november-26"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/wi3nddezn6dq"
+          ]
+        ]
+      },
+      {
+        "title": "Sui wallet Suiet to shut down",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/suiet-wallet-shut-down-latest-exit-sui-ecosystem"
+          ]
+        ]
+      },
+      {
+        "title": "Chainstack says an AI-driven breach exposed customer names, emails and password hashes",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/ecosystems/2026-11-12-chainstack-security-breach-438509"
+          ]
+        ]
+      },
+      {
+        "title": "Indian exchange Unocoin keeps logins disabled for a fourth day after unauthorized server access",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/12/unocoin-hacked-indias-oldest-crypto-exchange-freezes-logins-as-81000-wallets-show-0"
+          ]
+        ]
+      },
+      {
+        "title": "Ethereum client Lighthouse releases urgent security update v8.3.3",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/vesvave9viey"
+          ]
+        ]
+      }
+    ]
   }
 ]
