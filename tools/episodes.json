@@ -7330,5 +7330,382 @@
         ]
       }
     ]
+  },
+  {
+    "guid": "stablecoin-today-2026-11-13",
+    "title": "Nov 13, 2026: Visa adds Western Union's USDPT for settlement, SBI and Cambodia test JPYSC payments, DOJ moves to seize $1.2B from Binance hack",
+    "pub": "2026-11-14T08:00:00+09:00",
+    "summary": "Visa will accept stablecoins issued by Anchorage Digital Bank to settle obligations on its network, starting with Western Union's USDPT. SBI Holdings agreed with Cambodia's central bank to test cross-border payments using its yen stablecoin JPYSC, and Ramp now backs its business stablecoin account balances with OUSD.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-11-13/stablecoin-today_2026-11-13.mp3",
+    "bytes": 4547276,
+    "seconds": 378.847333,
+    "notes": [
+      {
+        "title": "Visa adds Anchorage-issued stablecoins as settlement assets, starting with Western Union's USDPT",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-12-visa-adds-western-unions-usdpt-stablecoin-to-its-settlement-network-in-anchorage-tie-up-438520"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747782"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/wcwiy7zec"
+          ]
+        ]
+      },
+      {
+        "title": "SBI Holdings and the National Bank of Cambodia agree to test JPYSC cross-border payments",
+        "sources": [
+          [
+            "Jiji Press",
+            "https://sp.m.jiji.com/article/show/3911223"
+          ],
+          [
+            "CantonNews",
+            "https://cantonnews.org/sbi-and-cambodia-s-central-bank-plan-canton-trial-for-tokenized-government-bonds"
+          ]
+        ]
+      },
+      {
+        "title": "Ramp backs its business stablecoin account balances with OUSD",
+        "sources": [
+          [
+            "TokenPost",
+            "https://www.tokenpost.com/news/business/56476"
+          ]
+        ]
+      },
+      {
+        "title": "Asteria reports 299 million yen of JPYC in cash and cash equivalents",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/391313/"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: DOJ gets court approval to seize over $1.2 billion from the Binance hack and seizes FaceStealer infrastructure",
+        "sources": [
+          [
+            "U.S. Department of Justice",
+            "https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747698"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Binance completes hack compensation and publishes proof of reserves for 198 tokens",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747700"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/13/binance-covers-all-6-3b-in-hack-losses-as-doj-moves-to-seize-1-2b-of-stolen-crypto/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/za04ljpwq"
+          ]
+        ]
+      },
+      {
+        "title": "Bitcoin falls below $70,000 for the first time since August",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/13/why-is-ethereum-price-down-today-eth-crashes-below-2000-as-259m-liquidated/"
+          ]
+        ]
+      },
+      {
+        "title": "Trump nominates four bipartisan picks for the SEC and CFTC",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-12-white-house-crypto-picks-sec-cftc-439175"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747723"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: DOJ and CFTC sue Arkansas over its action against Kalshi",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-13-doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi-439669"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/qj08ezoj-pi"
+          ]
+        ]
+      },
+      {
+        "title": "Louisiana sues ten prediction market operators; state judge issues temporary restraining order",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/13/louisiana-sues-kalshi-polymarket-robinhood-coinbase-more-over-illegal-prediction-markets/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/57sr4weq5buf"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: DOJ, U.S. Chamber and a16z-led coalition back challenge to Illinois crypto tax",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-12-andreessen-horowitz-defi-education-fund-push-back-against-illinois-crypto-tax-438573"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court"
+          ]
+        ]
+      },
+      {
+        "title": "NYDFS issues crypto advertising guidance",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-12-nydfs-sets-fresh-advertising-standards-crypto-firms-439014"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/epmdhvdvwf"
+          ]
+        ]
+      },
+      {
+        "title": "UK, Singapore and Thailand central banks complete FX settlement trial",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-13-uk-singapore-and-thailand-central-banks-complete-foreign-exchange-settlement-trial-linking-traditional-and-tokenized-systems-439692"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/47svfqfejx1"
+          ]
+        ]
+      },
+      {
+        "title": "Metaplanet cuts full-year operating profit forecast",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747904"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/391253/"
+          ]
+        ]
+      },
+      {
+        "title": "Gemini Q3 trading volume falls 73%",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/markets/2026-11-12-gemini-trading-volume-drops-q3-revenue-falls-to-41-million-439050"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/ye2lq3tw5"
+          ]
+        ]
+      },
+      {
+        "title": "Robinhood's October crypto volume falls 48%",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/ork7yjoyyvt5"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Kalshi in talks to raise at a $65 billion valuation, Bloomberg reports",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/7vgmkg1dm"
+          ]
+        ]
+      },
+      {
+        "title": "Kalshi ends Donald Trump Jr.'s advisory role, Reuters reports",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/mxm7m8kesk8"
+          ]
+        ]
+      },
+      {
+        "title": "Nakamoto's Kraken loan exceeds its market value; repayment extended",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/7f0wsfpqdi"
+          ]
+        ]
+      },
+      {
+        "title": "BTCS sold ether at a loss to keep its Aave loan healthy",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/pgykg9u35"
+          ]
+        ]
+      },
+      {
+        "title": "Rumble appears to have sold about 70% of its bitcoin",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/5tz8c-wyqj1k"
+          ]
+        ]
+      },
+      {
+        "title": "TRM Labs launches a service to help police freeze and seize stolen crypto",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/defi/2026-11-13-trm-labs-beacon-concierge-439609"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/nd9rwxd5r7v"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Unocoin says BitGo multisig backup mechanism appears exploited",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/ecosystems/2026-11-12-unocoin-login-suspension-continues-as-exchange-flags-outgoing-bitgo-eth-transactions-438654"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/unocoin-withdrawals-halted-bitgo-wallet-transfer-probe"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/13/unocoin-says-bitgo-multisig-backup-was-likely-exploited-despite-account-freeze/"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Trezor confirms tampered parts in three Safe 5 wallets",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747721"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/13/trezor-confirms-three-safe-5-wallets-were-tampered-with-in-new-security-update/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/3e4rhc0_4-l2"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: MANTRA pauses unbonding for seven days after Keplr key breach",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/13/mantra-halts-unbonding-for-7-days-amid-keplr-key-breach-token-falls-7-3/"
+          ]
+        ]
+      },
+      {
+        "title": "U.S. and European police arrest 354 in dark web drug crackdown",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/l3dg1h-fij"
+          ],
+          [
+            "Neweconomy",
+            "https://www.neweconomy.jp/posts/626363"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747699"
+          ]
+        ]
+      }
+    ]
   }
 ]
