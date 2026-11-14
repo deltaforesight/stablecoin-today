@@ -7707,5 +7707,215 @@
         ]
       }
     ]
+  },
+  {
+    "guid": "stablecoin-today-2026-11-14",
+    "title": "Nov 14, 2026: Wealthsimple launches CADD stablecoin, Bitcoin slides to $67K, Kraken parent Payward Q3 results",
+    "pub": "2026-11-15T08:00:00+09:00",
+    "summary": "Canadian investing app Wealthsimple began offering CADD, a Canadian dollar stablecoin, to a first group of clients. Also: Bitcoin fell into the $67,000 range, U.S. lawmakers and the CFTC chair weighed in on prediction markets, and Kraken parent Payward and Hyperliquid reported third-quarter results.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-11-14/stablecoin-today_2026-11-14.mp3",
+    "bytes": 2763692,
+    "seconds": 230.231333,
+    "notes": [
+      {
+        "title": "Wealthsimple begins offering CADD, a Canadian dollar stablecoin, to a first group of clients",
+        "sources": [
+          [
+            "Wealthsimple",
+            "https://newsroom.wealthsimple.com/wealthsimple-and-tetra-partner-to-bring-regulated-stablecoin-cadd-to-retail-investors"
+          ]
+        ]
+      },
+      {
+        "title": "Japan Open Chain plans to switch consensus from PoA to PoSA in The Merge on Nov 27",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/391373/"
+          ]
+        ]
+      },
+      {
+        "title": "CFTC Chair Selig criticizes states prosecuting prediction market executives",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-13-cftcs-selig-accuses-states-trying-lock-up-prediction-market-founders-440199"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/7zaore30_z"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: House Oversight Chair Comer calls for limits or a ban on officials' prediction market trading",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-13-house-oversight-chair-possible-ban-government-officials-prediction-market-bets-insider-trading-concerns-440207"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747924"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/bmolu45pb4k"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: 2011 Bitcoin address named in New York dormant-coin lawsuit moves 75 BTC",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/ct_ewg8uc"
+          ]
+        ]
+      },
+      {
+        "title": "Paraguay's state utility to end special power contracts for Bitcoin miners at end of 2027",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/y8l0w7egv6f"
+          ]
+        ]
+      },
+      {
+        "title": "Bitcoin falls into the $67,000 range; $1.26 billion liquidated in 24 hours",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/14/bitcoin-price-today-btc-slides-to-67k-as-1-26b-crypto-liquidations-hit-longs-fed-hike-bets-rise/"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/14/xrp-price-falls-below-1-to-lowest-since-august-as-analyst-warns-of-0-80-drop/"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: U.S. spot Bitcoin ETFs see $1.07 billion weekly outflows, $2.35 billion over two weeks",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak"
+          ]
+        ]
+      },
+      {
+        "title": "Kraken parent Payward Q3 adjusted EBITDA falls 66% to $60 million; plans U.S. prediction markets",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-13-kraken-parent-payward-posts-66-drop-in-q3-adjusted-ebitda-plans-us-prediction-markets-and-personal-finance-ai-agent-439721"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/yv4b9e6gf0bi"
+          ]
+        ]
+      },
+      {
+        "title": "Hyperliquid passes Bybit, Kraken and OKX in open interest; Q3 protocol revenue $190.9 million",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/markets/2026-11-13-hyperliquid-leapfrogs-bybit-kraken-okx-open-interest-q3-positions-grow-440053"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747947"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/13/hype-token-jumps-as-hyperliquid-reports-190-9m-in-q3-revenue/"
+          ]
+        ]
+      },
+      {
+        "title": "Meta tests points-based prediction market app Takes internally: WSJ",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/markets/2026-11-13-meta-tests-prediction-market-app-using-cred-points-instead-cash-wsj-440215"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=747925"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/y3bfy7nrn"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: MEGA, formerly MegaETH, cuts 20% of staff",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-13-megaeth-mega-layoffs-20-percent-restructuring-440206"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/mjb6-eusgy"
+          ]
+        ]
+      },
+      {
+        "title": "Blockstream and Thales launch institutional custody with signing fully inside HSMs",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/xr8_gjvvuke0"
+          ]
+        ]
+      },
+      {
+        "title": "Coinbase halts Indian rupee withdrawals since Nov 9 due to banking partner outage",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/14/coinbase-inr-withdrawals-halted-in-india-for-nearly-a-week-as-banking-partner-outage-continues/"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Binance generates zero-knowledge proof for latest proof of reserves",
+        "sources": [
+          [
+            "U.Today",
+            "https://u.today/binance-tightens-security-with-zero-knowledge-proof-upgrade"
+          ]
+        ]
+      }
+    ]
   }
 ]
