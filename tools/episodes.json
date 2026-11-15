@@ -7917,5 +7917,116 @@
         ]
       }
     ]
+  },
+  {
+    "guid": "stablecoin-today-2026-11-15",
+    "title": "Nov 15, 2026: stUSDT winds down, Bitcoin hits $62K low, Kava Lend hacked",
+    "pub": "2026-11-16T08:00:00+09:00",
+    "summary": "stUSDT, a real-world asset yield token on Tron, is winding down, with redemptions open until May 14th, 2027. Also: Bitcoin fell to its lowest since July near $62,000, the CFTC sued Louisiana over prediction markets, Kava Lend lost about $3.8 million to an attack, and Korean exchange Coinone disclosed a customer data breach at a support contractor.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-11-15/stablecoin-today_2026-11-15.mp3",
+    "bytes": 2346956,
+    "seconds": 195.482,
+    "notes": [
+      {
+        "title": "stUSDT, a real-world asset yield token on Tron, winds down; redemptions open until May 14, 2027",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/eng4g9tqo"
+          ]
+        ]
+      },
+      {
+        "title": "Tokyo-listed Asian Star introduces a BNB shareholder benefit worth 8 million yen in total",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/391443/"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: CFTC sues Louisiana over a state court order blocking prediction markets; state attorney general criticizes CFTC chair",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/mdw-ox-mxx"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: South Korea's Fair Trade Commission flags competition concerns over Naver Financial's acquisition of Upbit operator Dunamu",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/391501/"
+          ]
+        ]
+      },
+      {
+        "title": "Kazakhstan's central bank plans tokenized government bonds with the finance ministry in Q1 2027",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/qt_zij3p53ka"
+          ]
+        ]
+      },
+      {
+        "title": "Bitcoin falls to $62,080, its lowest since July; Fear and Greed Index at 10",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff"
+          ],
+          [
+            "CRYPTO TIMES",
+            "https://crypto-times.jp/news-bitcoin-weekend-crash-summary/"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto"
+          ]
+        ]
+      },
+      {
+        "title": "Kava Lend drained of about 55.2 million KAVA in an attack; KAVA falls about 40%",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/fetlhbsx8"
+          ]
+        ]
+      },
+      {
+        "title": "Korean exchange Coinone warns customer data may have leaked after a breach at its support contractor",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/l5to73rwd81d"
+          ]
+        ]
+      }
+    ]
   }
 ]
