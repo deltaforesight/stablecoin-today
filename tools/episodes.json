@@ -8028,5 +8028,361 @@
         ]
       }
     ]
+  },
+  {
+    "guid": "stablecoin-today-2026-11-16",
+    "title": "Nov 16, 2026: Zelle picks Solana for ZelleUSD, Luxor miners hijacked, Lighter pauses withdrawals",
+    "pub": "2026-11-17T08:00:00+09:00",
+    "summary": "Zelle plans to issue its ZelleUSD stablecoin on Solana for international payments, and a Brazilian central bank official reportedly said institutions cannot offer stablecoin purchases for settling payments abroad. Also: Luxor clients had mining machines redirected by attackers, Lighter paused withdrawals after a leaked API key, and DBS and JPMorgan launched 24/7 tokenized deposit transfers.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-11-16/stablecoin-today_2026-11-16.mp3",
+    "bytes": 4379660,
+    "seconds": 364.890667,
+    "notes": [
+      {
+        "title": "Zelle plans to issue its ZelleUSD stablecoin on Solana for international payments",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Brazilian central bank FX head reportedly says institutions cannot offer stablecoin purchases for settling payments abroad",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/16/brazil-central-bank-flags-money-laundering-risks-in-stablecoin-transfers/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/rykiaus7knxx"
+          ]
+        ]
+      },
+      {
+        "title": "Coincheck revises terms to allow selling all of a fraud victim's crypto from December 1",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/391589/"
+          ]
+        ]
+      },
+      {
+        "title": "Nomura, NRI and BOOSTRY explore onchain finance; Nomura and BOOSTRY become Canton super validators",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/391608/"
+          ]
+        ]
+      },
+      {
+        "title": "German Bundestag passes bill allowing temporary seizure of assets, including crypto, before a criminal probe",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/fybg7l9j3"
+          ]
+        ]
+      },
+      {
+        "title": "South Korean lawmaker proposes owner verification for transfers to self-custody wallets",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/5ibu2avvl"
+          ]
+        ]
+      },
+      {
+        "title": "Thai SEC proposes a knowledge test for retail ICO investors",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/3tr471kbwcfo"
+          ]
+        ]
+      },
+      {
+        "title": "RUSI working group calls crypto money laundering a material risk for the UK ahead of FATF review",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/nikefhbdtq"
+          ]
+        ]
+      },
+      {
+        "title": "MAS and Bundesbank test euro–Singapore dollar settlement with wholesale CBDCs",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/singapore-german-central-banks-settlement-cbdcs"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/16/mas-bundesbank-test-cross-border-settlement-with-wholesale-cbdcs/"
+          ]
+        ]
+      },
+      {
+        "title": "HKMA and Swift explore linking systems for tokenized-deposit cross-border payments",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/hkma-swift-tokenized-deposits-cross-border-payments"
+          ]
+        ]
+      },
+      {
+        "title": "Czech National Bank trials its first DLT bond issuance",
+        "sources": [
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/626919"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: weekend liquidations near $2 billion; $60,000 put becomes Deribit's largest bitcoin options position",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/btc-price-18-week-low-nvidia-three-things-know-bitcoin-this-week"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000"
+          ]
+        ]
+      },
+      {
+        "title": "Strategy buys 485 BTC and repurchases about $228 million of STRC",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-16-this-dip-could-use-a-little-orange-michael-saylor-strategy-bitcoin-tumbles-440886"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/strategy-buy-485-bitcoin-228-million-strc-buyback"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=748183"
+          ]
+        ]
+      },
+      {
+        "title": "ASTER token swings sharply; Aster CEO suspects malicious activity",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/qgs956-fa"
+          ]
+        ]
+      },
+      {
+        "title": "DBS and JPMorgan's Kinexys launch 24/7 tokenized deposit transfers between the US and Singapore",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/6szrzpdeq"
+          ]
+        ]
+      },
+      {
+        "title": "Solana drops the mainnet beta label and adopts Solana 1.0",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/ecosystems/2026-11-16-solana-drops-mainnet-beta-label-and-adopts-protocol-version-1-0-440885"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years"
+          ]
+        ]
+      },
+      {
+        "title": "Toss reportedly adds a self-custody wallet for ETH, USDT and USDC",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-16-toss-non-custodial-crypto-wallet-440847"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/30o5p51s1x1"
+          ]
+        ]
+      },
+      {
+        "title": "Binance launches crypto-backed Pay Later credit in Argentina and Mexico",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit"
+          ]
+        ]
+      },
+      {
+        "title": "Coinbase and Broadridge propose a standard for shareholder communications to tokenized stock wallets",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=748180"
+          ]
+        ]
+      },
+      {
+        "title": "CoW Swap goes live on Solana in alpha",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/defi/2026-11-16-cow-swap-goes-live-solana-440840"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Vitalik Buterin defends EIP-8037 gas repricing and backs leanPCS",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/ecosystems/2026-11-16-vitalik-buterin-backs-higher-gas-costs-for-creating-accounts-and-deploying-smart-contracts-to-help-ethereum-scale-440870"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/16/vitalik-buterin-defends-ethereum-eip-8037-amid-gas-repricing-concerns/"
+          ]
+        ]
+      },
+      {
+        "title": "Cardano holders reject a $5 million copper purchase proposal",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/16/cardano-holders-vote-down-usd5-million-bid-to-buy-warehouse-copper"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/smkg3spdqe"
+          ]
+        ]
+      },
+      {
+        "title": "Upbit operator Dunamu posts a Q3 net loss",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-16-upbit-parent-dunamu-q3-net-loss-440876"
+          ]
+        ]
+      },
+      {
+        "title": "CZ denies Binance sold crypto; OKX's Star Xu blames Binance for October crashes",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-slide-reopens-an-old-feud-between-crypto-s-most-powerful-founders"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/16/binances-co-ceo-yi-he-reveals-100m-30-day-loss-amid-bitcoins-slide-to-62k/"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/391570/"
+          ]
+        ]
+      },
+      {
+        "title": "Amber Group denies allegations in an anonymous whistleblower letter",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/16/amber-group-rejects-whistleblower-letter-alleging-client-fund-misuse/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/p53xqwedggy"
+          ]
+        ]
+      },
+      {
+        "title": "Luxor says attackers redirected client hashrate via its Commander software; full compensation pledged",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-15-luxor-attack-client-hashrate-440810"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=748076"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker"
+          ]
+        ]
+      },
+      {
+        "title": "Lighter pauses withdrawals after about $10.4 million in USDC is withdrawn via a leaked API key",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/16/lighter-pauses-withdrawals-and-pool-creation-after-15m-security-incident/"
+          ]
+        ]
+      },
+      {
+        "title": "SlowMist warns of an iPhone attack tool sold underground targeting crypto wallets",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=748013"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/391542/"
+          ]
+        ]
+      },
+      {
+        "title": "Thai authorities arrest two over a $92 million crypto investment fraud",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/tc2uv93yo87"
+          ]
+        ]
+      }
+    ]
   }
 ]
