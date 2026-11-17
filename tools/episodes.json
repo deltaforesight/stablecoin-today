@@ -8384,5 +8384,341 @@
         ]
       }
     ]
+  },
+  {
+    "guid": "stablecoin-today-2026-11-17",
+    "title": "Nov 17, 2026: Tether Capital backs Nomad and Stables, Avenia raises $25M for BRLA, CFTC approves Backpack",
+    "pub": "2026-11-18T08:00:00+09:00",
+    "summary": "Tether's investment arm backs payment companies in Brazil and across Asia and the Middle East, Brazilian real stablecoin issuer Avenia raises $25 million, and Solflare lets users cash out USDC at MoneyGram locations. Also: the CFTC approves Backpack's blockchain-based derivatives exchange, the Supreme Court turns away Custodia Bank, and malicious code hits 178 websites via Optimizely.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-11-17/stablecoin-today_2026-11-17.mp3",
+    "bytes": 4273388,
+    "seconds": 356.036667,
+    "notes": [
+      {
+        "title": "Tether Capital invests $15M in Brazil's Nomad and backs USDT payments firm Stables",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-17-tether-nomad-brazil-investment-442097"
+          ],
+          [
+            "Tether",
+            "https://tether.io/news/tether-capital-invests-in-stables-to-expand-usdt-payment-infrastructure-across-asia-and-mena/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/mvm_ai981"
+          ]
+        ]
+      },
+      {
+        "title": "BRLA issuer Avenia raises $25M in Series A extension",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/deals/2026-11-17-avenia-funding-stablecoin-crypto-infrastructure-442119"
+          ]
+        ]
+      },
+      {
+        "title": "Solflare adds MoneyGram USDC cash-out in 170+ countries",
+        "sources": [
+          [
+            "Neweconomy",
+            "https://www.neweconomy.jp/posts/627233"
+          ]
+        ]
+      },
+      {
+        "title": "Iore plans stablecoin lending plan to fund AI data centers",
+        "sources": [
+          [
+            "Neweconomy",
+            "https://www.neweconomy.jp/posts/627370"
+          ]
+        ]
+      },
+      {
+        "title": "Sberbank expects Russian-issued ruble stablecoins to grow in trade in 2027",
+        "sources": [
+          [
+            "Neweconomy",
+            "https://www.neweconomy.jp/posts/627429"
+          ]
+        ]
+      },
+      {
+        "title": "CFTC approves Backpack's blockchain-based exchange and clearinghouse, following tZERO",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/17/cftc-grants-first-blockchain-based-derivatives-licenses-to-tzero-and-backpack/"
+          ],
+          [
+            "Neweconomy",
+            "https://www.neweconomy.jp/posts/627209"
+          ]
+        ]
+      },
+      {
+        "title": "Supreme Court declines Custodia Bank's Fed master account case",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-16-supreme-court-rejects-custodia-banks-bid-for-fed-master-account-441376"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=748280"
+          ]
+        ]
+      },
+      {
+        "title": "Peraire-Bueno brothers acquitted in $25M Ethereum MEV case",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit"
+          ]
+        ]
+      },
+      {
+        "title": "Ex-Robinhood engineer pleads guilty over Hyperliquid trades",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-17-former-robinhood-engineer-pleads-guilty-to-wire-fraud-over-trades-ahead-of-crypto-listing-announcements-442106"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/ex-robinhood-engineer-pleads-guilty-125k-crypto-trading-fraud"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/d9t-pgn3q0w2"
+          ]
+        ]
+      },
+      {
+        "title": "Nine Democratic senators ask CFTC to withdraw prediction market geofencing order",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=748211"
+          ],
+          [
+            "Neweconomy",
+            "https://www.neweconomy.jp/posts/627132"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans"
+          ]
+        ]
+      },
+      {
+        "title": "Four Democratic senators flag AML gaps in SEC tokenized stock exemption",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=748431"
+          ]
+        ]
+      },
+      {
+        "title": "California orders CoinFlip to refund $4.8M to scam victims",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/fs1op94_f"
+          ]
+        ]
+      },
+      {
+        "title": "Bitcoin ETFs see inflows as IBIT outflow streak ends",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends"
+          ]
+        ]
+      },
+      {
+        "title": "Evernorth reports $505M cumulative XRP impairments",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=748384"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60"
+          ]
+        ]
+      },
+      {
+        "title": "Solana Foundation takes majority stake in CoinGecko",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko"
+          ]
+        ]
+      },
+      {
+        "title": "Kalshi plans stock and ETF trading within two months",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=748223"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/16cn2bajhjk"
+          ]
+        ]
+      },
+      {
+        "title": "ICE considers running a Solana validator",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=748212"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/ccas1v9z98"
+          ]
+        ]
+      },
+      {
+        "title": "Revolut plans four blockchain-based private market funds",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/revolut-four-blockchain-funds-private-markets"
+          ]
+        ]
+      },
+      {
+        "title": "Glamsterdam gas changes could break up to 15,000 contracts",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts"
+          ]
+        ]
+      },
+      {
+        "title": "Jupiter to allow borrowing against tokenized Bullish shares",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/s3nxcq68z"
+          ]
+        ]
+      },
+      {
+        "title": "Pump.fun adds Polymarket prediction markets",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/en63pyc894eg"
+          ]
+        ]
+      },
+      {
+        "title": "Optimizely flaw used to plant crypto-stealing code on 178 websites",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/pbv465_e80"
+          ]
+        ]
+      },
+      {
+        "title": "Safe multisig loses about $6.45M",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/bj3v_ov_m"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/16/gnosis-safe-wallet-reportedly-loses-6-45m-as-funds-flow-into-monero/"
+          ]
+        ]
+      },
+      {
+        "title": "Lighter reopens withdrawals, returns about $5M USDC",
+        "sources": [
+          [
+            "Neweconomy",
+            "https://www.neweconomy.jp/posts/627180"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/defi/2026-11-17-lighter-reopens-withdrawals-after-traders-api-key-leak-returns-about-5-million-in-usdc-442113"
+          ]
+        ]
+      },
+      {
+        "title": "Trezor shipping partner Skladon breach exposes 27,000 orders",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-16-trezor-hit-another-shipping-partner-data-leak-affecting-27000-skladon-orders-441524"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/9r5jpba1emga"
+          ]
+        ]
+      }
+    ]
   }
 ]
