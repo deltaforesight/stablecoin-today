@@ -8720,5 +8720,410 @@
         ]
       }
     ]
+  },
+  {
+    "guid": "stablecoin-today-2026-11-18",
+    "title": "Nov 18, 2026: World Bank tests USDC with Citi and Circle, DBS opens direct USDC minting, CFTC halts Kalshi Trump mention markets",
+    "pub": "2026-11-19T08:00:00+09:00",
+    "summary": "The World Bank Group will test paying out development funds in USDC with Citi and Circle, Singapore's DBS lets institutions in Asia mint and redeem USDC directly, and Visa brings stablecoin prefunding for Visa Direct to Asia Pacific. Also: the CFTC halts some Kalshi markets on Trump's words, Coinbase launches a ChatGPT trading plugin, and bitcoin ETFs see renewed outflows.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-11-18/stablecoin-today_2026-11-18.mp3",
+    "bytes": 5040044,
+    "seconds": 419.924667,
+    "notes": [
+      {
+        "title": "World Bank Group to test USDC for development fund disbursements with Citi and Circle",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-17-world-bank-group-citi-circle-fund-disbursements-442924"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/world-bank-circle-citi-explore-stablecoins-payments"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=748503"
+          ]
+        ]
+      },
+      {
+        "title": "DBS lets eligible institutions in Asia mint and redeem USDC directly, with 24/7 settlement",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-18-dbs-circle-usdc-asia-442970"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/18/dbs-circle-partner-to-expand-usdc-access-across-asia/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/bybeelcl2j"
+          ]
+        ]
+      },
+      {
+        "title": "Visa brings stablecoin prefunding for Visa Direct payouts to Asia Pacific, piloting with dtcpay",
+        "sources": [
+          [
+            "Visa",
+            "https://www.visa.com.sg/about-visa/newsroom/press-releases/visa-direct-advances-stablecoin-powered-money-movement-in-asia-pacific.html"
+          ]
+        ]
+      },
+      {
+        "title": "USAT, issued by Anchorage Digital Bank, goes live on Avalanche",
+        "sources": [
+          [
+            "USA₮",
+            "https://usat.io/news/usat-expands-to-avalanche-broadening-access-to-regulated-digital-dollars/"
+          ]
+        ]
+      },
+      {
+        "title": "Cardano stablecoin DJED and reserve token SHEN to wind down on Dec. 31",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/jtv_7ewwbd"
+          ]
+        ]
+      },
+      {
+        "title": "Stablecoin payments startup Codex raises $30M Series A led by Pantera",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/ol83y6tefc8"
+          ]
+        ]
+      },
+      {
+        "title": "Nonagon Capital trials AI agents buying data with a yen stablecoin via x402",
+        "sources": [
+          [
+            "Neweconomy",
+            "https://www.neweconomy.jp/posts/627919"
+          ]
+        ]
+      },
+      {
+        "title": "GMO Coin lists Mantle (MNT), a first in Japan, and BNB",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=748589"
+          ],
+          [
+            "Neweconomy",
+            "https://www.neweconomy.jp/posts/627954"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/391904/"
+          ]
+        ]
+      },
+      {
+        "title": "Soneium opens a K-pop concert IP bond; Japanese residents excluded",
+        "sources": [
+          [
+            "Neweconomy",
+            "https://www.neweconomy.jp/posts/627851"
+          ]
+        ]
+      },
+      {
+        "title": "CFTC halts some Kalshi Trump mention markets, seeks response by Dec. 11",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/391825/"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/18/kalshi-halts-trump-speech-betting-markets-after-cftc-order/"
+          ]
+        ]
+      },
+      {
+        "title": "CFTC nominees questioned on prediction markets at Senate hearing",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-17-trumps-cftc-picks-face-senate-scrutiny-as-prediction-market-turf-war-heats-up-442909"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/18/trumps-cftc-nominees-rowland-and-anonick-split-on-crypto-tone-at-senate-hearing/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/u1y9_bmt5d"
+          ]
+        ]
+      },
+      {
+        "title": "Fed Governor Waller questions accountability in tokenized finance, citing Binance hack",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=748438"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/391789/"
+          ]
+        ]
+      },
+      {
+        "title": "CFTC to hold Dec. 15 roundtable on 24/7 derivatives trading, tokenization and stablecoins",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/17/cftc-to-discuss-tokenization-stablecoins-and-24-7-trading-on-dec-15/"
+          ]
+        ]
+      },
+      {
+        "title": "British hacker Tyler Buchanan sentenced to six years over $11.6M crypto theft",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/18/british-hacker-tyler-buchanan-sentenced-over-11-6m-cryptocurrency-theft/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/owasrgqqg-e"
+          ]
+        ]
+      },
+      {
+        "title": "German judge proposes ending movie2k case if operator hands over about 40,000 BTC",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/18/40000-bitcoin-could-end-germanys-long-running-movie2k-money-laundering-trial/"
+          ]
+        ]
+      },
+      {
+        "title": "Backpack wins NFA approval as FCM, completing U.S. derivatives licenses",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-18-backpack-completes-regulatory-framework-us-entry-442980"
+          ]
+        ]
+      },
+      {
+        "title": "U.S. spot bitcoin ETFs see $240M outflow; BTC dips below $63K, steadies after Nvidia",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/bitcoin-etf-240-million-outflow-bearish-phase"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat"
+          ]
+        ]
+      },
+      {
+        "title": "MARA prices $185M of debt to help buy Ohio power plant",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/r8dc1-o_h"
+          ]
+        ]
+      },
+      {
+        "title": "CoinShares sells all treasury ETH and half its SOL for buybacks",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/kl8xvs1g8"
+          ]
+        ]
+      },
+      {
+        "title": "Bullish beats revenue estimates but posts $576M net loss",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/nxs81k_486"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/18/bullish-beats-revenue-estimates-as-institutional-services-offset-sluggish-spot-crypto-volumes"
+          ]
+        ]
+      },
+      {
+        "title": "Bithumb third-quarter revenue falls nearly 70%, swings to operating loss",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/1xicxjm6t"
+          ]
+        ]
+      },
+      {
+        "title": "Coinbase brings Morpho-based crypto-backed USDC loans to New York, all 50 states",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-17-coinbase-borrow-new-york-morpho-442842"
+          ],
+          [
+            "Neweconomy",
+            "https://www.neweconomy.jp/posts/627928"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/nb8m7bazn"
+          ]
+        ]
+      },
+      {
+        "title": "Coinbase launches ChatGPT plugin for trading crypto, stocks and futures",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=748535"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/17/coinbase-adds-stock-and-crypto-trading-through-chatgpt-integration/"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/391804/"
+          ]
+        ]
+      },
+      {
+        "title": "Anchorage and Kalshi Prime let institutions use custodied BTC and stablecoins as margin",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-17-anchorage-digital-kalshi-prime-hodl-margining-bitcoin-collateral-442568"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=748493"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/zb5hmo_yl7z"
+          ]
+        ]
+      },
+      {
+        "title": "Binance Wallet opens Anthropic IPO token applications, capped at 500M USDC",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=748539"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/18/binance-wallet-opens-500m-anthropic-ipo-token-campaign/"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/391854/"
+          ]
+        ]
+      },
+      {
+        "title": "Monument Bank begins tokenizing retail fixed-term deposits on Midnight",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=748546"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/391849/"
+          ],
+          [
+            "Neweconomy",
+            "https://www.neweconomy.jp/posts/627962"
+          ]
+        ]
+      },
+      {
+        "title": "Polygon plans $50M-$100M acquisitions for payment licenses, weighs U.S. bank license",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/18/polygon-plans-50m-100m-deals-for-payment-licenses-eyes-us-banking-license/"
+          ]
+        ]
+      },
+      {
+        "title": "Bitwise names Texas Stock Exchange for spot Zcash ETF",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/bitwise-zcash-etf-texas-stock-exchange-listing"
+          ]
+        ]
+      },
+      {
+        "title": "Coinbase AI stops $4.7M from going to deepfake Elon Musk scam",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/18/coinbase-ai-blocks-4-7m-deepfake-elon-musk-tesla-giveaway-crypto-scam/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/8gw0xm0qd"
+          ]
+        ]
+      },
+      {
+        "title": "Ledger tampered-device losses reported by buyers in Dubai, about $604K",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/18/ledger-implant-reports-spread-to-dubai-with-604k-in-losses/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/j0i6gpk_pcu3"
+          ]
+        ]
+      }
+    ]
   }
 ]
