@@ -9125,5 +9125,408 @@
         ]
       }
     ]
+  },
+  {
+    "guid": "stablecoin-today-2026-11-19",
+    "title": "Nov 19, 2026: S&P keeps USDT at weak, North Korean hackers used Sky's PSM, senators seek GENIUS Act safe harbor for state issuers",
+    "pub": "2026-11-20T08:00:00+09:00",
+    "summary": "S&P Global kept Tether's USDT at its lowest stability score as riskier assets reached 28% of reserves, an analytics firm says North Korean hackers used Sky's conversion module to swap freezable USDC into DAI and USDS, and six U.S. senators asked Treasury to give state-regulated stablecoin issuers the same transition relief as federal applicants. Also: Binance wins a $6.5 billion freezing order, bitcoin falls below 10 million yen, and Anthropic prices its record IPO.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-11-19/stablecoin-today_2026-11-19.mp3",
+    "bytes": 4759532,
+    "seconds": 396.541333,
+    "notes": [
+      {
+        "title": "S&P keeps Tether's USDT at its lowest stability score as riskier reserves reach 28%",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=748636"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/392011/"
+          ]
+        ]
+      },
+      {
+        "title": "North Korean hackers used Sky's peg stability module, putting about $2.7B of USDC reserves at freeze risk",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/6cot38oxa"
+          ]
+        ]
+      },
+      {
+        "title": "Six U.S. senators ask Treasury for a GENIUS Act safe harbor for state-regulated stablecoin issuers",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-18-senators-treasury-must-ensure-equal-footing-for-stablecoin-issuers-in-genius-act-implementation-443501"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=748628"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers"
+          ]
+        ]
+      },
+      {
+        "title": "Taiwan's FSC publishes bank-led draft rules for stablecoin issuers, comments until Dec. 16",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/49ijwlvuz"
+          ]
+        ]
+      },
+      {
+        "title": "Nihon Chokuhan pilots JPYC payments on its online store",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/392079/"
+          ]
+        ]
+      },
+      {
+        "title": "SBI VC Trade to close BITPOINT on Dec. 23 and move accounts to VCTRADE",
+        "sources": [
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/628135"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/392068/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/0wrnqecqp4d"
+          ]
+        ]
+      },
+      {
+        "title": "Mitsui & Co. to issue its first retail digital bond",
+        "sources": [
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/628265"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/391967/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/wdm48qa_-6"
+          ]
+        ]
+      },
+      {
+        "title": "MAS issues S$100 million of tokenized bills settled in wholesale CBDC",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/web3/2026-11-19-singapores-mas-tokenized-bills-443562"
+          ],
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/628298"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network"
+          ]
+        ]
+      },
+      {
+        "title": "Hong Kong's SFC adds Hyperliquid to its suspicious platforms alert list",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/hyperliquid-hong-kong-regulators-alert-list"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/ss_5cp26f6"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/19/sfc-puts-hyperliquid-on-hong-kongs-suspicious-crypto-platform-list/"
+          ]
+        ]
+      },
+      {
+        "title": "U.S. launches Threat Disruption Center with TRM Labs to cut off scam payments",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/trump-administration-unveils-new-center-choke-off-scam-payments"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-19-us-launches-cybercrime-center-with-trm-labs-to-help-trace-crypto-tied-to-scams-443599"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/zbigd_9nn"
+          ]
+        ]
+      },
+      {
+        "title": "Appeals court rules against Kalshi in Maryland state-law dispute",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds"
+          ]
+        ]
+      },
+      {
+        "title": "South Korea's FSC to unveil draft Digital Asset Basic Act and corporate investment guidelines next week, report says",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/rqemp8glp"
+          ]
+        ]
+      },
+      {
+        "title": "IOSCO warns quantum-resistant upgrades could slow blockchains and raise fees",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/11/19/banks-and-blockchains-lag-on-quantum-defense-as-encryption-risks-loom-watchdog-warns"
+          ]
+        ]
+      },
+      {
+        "title": "Bitcoin falls below 10 million yen as Fed minutes point to more hikes",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/391932/"
+          ],
+          [
+            "CRYPTO TIMES",
+            "https://crypto-times.jp/news-btc-below-10m-yen-1119/"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion"
+          ]
+        ]
+      },
+      {
+        "title": "Anthropic prices record IPO at $83; tokenized shares and pre-listing futures launch",
+        "sources": [
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/628116"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/oo5chnait"
+          ]
+        ]
+      },
+      {
+        "title": "Hyperscale Data, which sold all its bitcoin, warns of going-concern doubt",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/ylugbe2cjg"
+          ]
+        ]
+      },
+      {
+        "title": "Variational raises $110M at a $1.5B valuation led by Bain Capital Crypto",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/deals/2026-11-18-variational-raises-110-million-at-1-5-billion-valuation-to-expand-onchain-derivatives-trading-443445"
+          ],
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/628256"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/variational-series-b-bain-capital-crypto"
+          ]
+        ]
+      },
+      {
+        "title": "Kraken parent Payward to acquire Tribe Capital",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-18-kraken-parent-payward-tribe-capital-443522"
+          ],
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/628251"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe"
+          ]
+        ]
+      },
+      {
+        "title": "Anza sets out Solana's 2027 roadmap to double network compute",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=748800"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/4vb5egn3v7"
+          ]
+        ]
+      },
+      {
+        "title": "StraitsX, OCBC and Standard Chartered complete tokenized deposit interoperability trial",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/web3/2026-11-18-standard-chartered-straitsx-ocbc-tokenized-deposit-poc-442964"
+          ]
+        ]
+      },
+      {
+        "title": "Ant International launches real-time settlement between tokenized deposits and money market funds",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-19-ant-international-protocol-tokenized-assets-443586"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/47gvv11e0"
+          ]
+        ]
+      },
+      {
+        "title": "Babylon co-founder proposes ending bitcoin staking by end-2026",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/x-fkjajudaj"
+          ]
+        ]
+      },
+      {
+        "title": "Polymarket US adds short-duration oil and natural gas markets",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/polymarket-us-takes-rapid-fire-crypto-trading-format-oil-natural-gas"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/r02kjukb_by"
+          ]
+        ]
+      },
+      {
+        "title": "PancakeSwap renames itself Pancake",
+        "sources": [
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/628270"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Binance wins $6.5B worldwide freezing order; hackers took 192 tokens across 11 networks",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491"
+          ],
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/628142"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Ledger confirms tampered devices in Germany and the UAE",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/web3/2026-11-18-ledger-new-hardware-incidents-germany-uae-443530"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=748792"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation"
+          ]
+        ]
+      },
+      {
+        "title": "K3 Capital's sBOLD vault loses about $3.4M, with more than half going to block builders",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/18/k3-capitals-ethereum-vault-drained-of-3-43m-in-reported-exploit/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/v2xgczl_ue"
+          ]
+        ]
+      },
+      {
+        "title": "BTCPay Server issues emergency update for five Nginx flaws",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/btcpay-server-emergency-update-nginx-security-flaws"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/41iyg8txvwo"
+          ]
+        ]
+      }
+    ]
   }
 ]
