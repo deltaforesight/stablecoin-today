@@ -9528,5 +9528,404 @@
         ]
       }
     ]
+  },
+  {
+    "guid": "stablecoin-today-2026-11-20",
+    "title": "Nov 20, 2026: Sky's USDS supply falls 35%, MoonPay applies for a national trust bank, Tether invests in SCRYPT",
+    "pub": "2026-11-21T08:00:00+09:00",
+    "summary": "The supply of Sky's USDS fell about 35% after more than $1.5 billion of USDC left its peg stability module following a report on illicit flows, MoonPay applied to the OCC for a national trust bank to issue and redeem stablecoins, and Tether invested in Swiss stablecoin liquidity provider SCRYPT. Also: the U.S. Senate passes the DEATH BETS Act, bitcoin hits a four-month low as BlackRock's IBIT posts a record outflow, and Anthropic closes its Nasdaq debut at $97.17.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-11-20/stablecoin-today_2026-11-20.mp3",
+    "bytes": 5171372,
+    "seconds": 430.871333,
+    "notes": [
+      {
+        "title": "Follow-up: Sky's USDS supply falls about 35% to $3.2B as more than $1.5B of USDC leaves its peg stability module",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/20/poloniex-moves-1-49b-from-sky-to-aave/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/sjfwpcfh0pv"
+          ]
+        ]
+      },
+      {
+        "title": "MoonPay applies to the OCC for a national trust bank to issue and redeem stablecoins",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-20-moonpay-applies-occ-national-bank-charter-444198"
+          ],
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/628640"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services"
+          ]
+        ]
+      },
+      {
+        "title": "Tether invests in Swiss stablecoin liquidity provider SCRYPT",
+        "sources": [
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/628628"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/dn31g5ym5o"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: HSBC lets Hong Kong customers buy a tokenized money market fund with its RedCoin stablecoin",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/20/hsbc-launches-ethereum-based-fund-with-redcoin-investment-from-hk100/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/3b39d6uevqk"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: bitbank to restrict crypto transfers with MEXC from Nov 24 and Dec 10",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/392314"
+          ],
+          [
+            "CRYPTO TIMES Japan",
+            "https://crypto-times.jp/news-bitbank-mexc-restriction"
+          ]
+        ]
+      },
+      {
+        "title": "Japan revises its anti-money-laundering policy, noting stronger police crypto tracing",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/392265"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: MUFG companies and Progmat propose using Japan's book-entry system for tokenized investment trusts",
+        "sources": [
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/628681"
+          ]
+        ]
+      },
+      {
+        "title": "Daiwa Securities Group completes a test of on-chain trading by AI agents",
+        "sources": [
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/628647"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/392174"
+          ]
+        ]
+      },
+      {
+        "title": "U.S. Senate passes the DEATH BETS Act banning prediction market contracts on war, terrorism, assassination and death",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-20-senate-death-bets-act-444200"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=748980"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: SEC nominee Johnson backs formal rulemaking for the tokenized stock trading exemption",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=748813"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process"
+          ]
+        ]
+      },
+      {
+        "title": "CFTC Chairman Selig says on-chain venues such as Hyperliquid must register or partner with a registered exchange",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-19-cftc-chair-selig-hyperliquid-onchain-venues-the-us-444106"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=748838"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Binance.US says the CFTC deemed its exchange and clearing applications materially complete",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=748888"
+          ],
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/628784"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/20/binance-us-clears-cftc-completeness-test-as-derivatives-review-begins/"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: federal judge sends New York's lawsuit against Kalshi back to state court",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/20/kalshi-asks-ny-judge-for-notice-before-any-emergency-order/"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Russia's central bank plans retail crypto margin trading capped at 300,000 rubles",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/48vz59lo79"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/2ybasg4ek"
+          ]
+        ]
+      },
+      {
+        "title": "Bitcoin falls to a four-month low near $61,300 as BlackRock's IBIT posts a record $541M daily outflow",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow"
+          ],
+          [
+            "CRYPTO TIMES Japan",
+            "https://crypto-times.jp/news-bitcoin-61k-anthropic-ipo-etf-outflow"
+          ],
+          [
+            "CRYPTO TIMES Japan",
+            "https://crypto-times.jp/news-gold-hits-lowest-level-in-over-a-year-btc-also-hits-lowest-level-in-four-months"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Anthropic opens at $111.50 and closes at $97.17 on debut; Binance Wallet to refund about 500M USDC",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=748817"
+          ],
+          [
+            "Atarashii Keizai",
+            "https://www.neweconomy.jp/posts/628745"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/392236"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Trump Media buys back $100M of convertible notes; about $883.5M remains ahead of a Nov 30 put date",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/0z79zoek9pt"
+          ],
+          [
+            "CRYPTO TIMES Japan",
+            "https://crypto-times.jp/news-companies-linked-to-trump-face-repayment-risk-of-about-880-million"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Ethereum's Glamsterdam upgrade set for mid-January 2027 at the earliest, possibly April or May",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/ethereum-glamsterdam-could-slip-to-may-2027"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=748812"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break"
+          ]
+        ]
+      },
+      {
+        "title": "Coinbase plans its own U.S. prediction market contracts in the first half of 2027, Bloomberg reports",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=748811"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/392322"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/20/coinbase-targets-first-half-2027-for-its-own-prediction-market-contracts"
+          ]
+        ]
+      },
+      {
+        "title": "VanEck to end Gemini custody agreements for its bitcoin, ether and Solana ETFs, keeps Coinbase",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/vaneck-gemini-etf-custody-end-keep-coinbase"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/dn-z6ed-z5a6"
+          ]
+        ]
+      },
+      {
+        "title": "Ledger CTO Charles Guillemet to leave at the end of 2026",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/19/ledger-cto-announces-year-end-exit-amid-hardware-security-scrutiny/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/yl2wivaby"
+          ]
+        ]
+      },
+      {
+        "title": "Coinbase launches U.S. spot margin trading with up to 10x leverage",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/y5hxdku0f"
+          ]
+        ]
+      },
+      {
+        "title": "UBS works with Chainlink to automate tokenized structured notes on Ethereum",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/icx4n3wf9"
+          ]
+        ]
+      },
+      {
+        "title": "Amber Group shifts resources to AI and scales back crypto market making",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/3pwna-zksnz"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Binance attackers move about $594M of ether to new wallets in two days",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/20/binance-hacker-moves-another-346m-in-eth-through-bridges-why-it-cant-be-frozen/"
+          ]
+        ]
+      },
+      {
+        "title": "SEC sues eight Colorado-based entities over fake crypto platforms tied to about $37.4M",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/392332"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/ra0_vi12pn8n"
+          ]
+        ]
+      },
+      {
+        "title": "Wrapped Monero token XMR1 falls more than 99% on Hyperliquid after an issuer-linked wallet sells about $13.5M",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/20/wrapped-monero-token-plunges-99-as-issuer-linked-wallet-sells-usd13-5-million"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/20/xmr1-price-crashes-99-8-after-suspicious-token-transfer-hack-or-exit-scam/"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: K3 Capital blames a leftover 1inch router approval for its sBOLD vault drain, offers a 15% bounty",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/19/k3-capital-offers-15-bounty-to-recover-3-43m-lost-in-sbold-exploit/"
+          ]
+        ]
+      }
+    ]
   }
 ]
