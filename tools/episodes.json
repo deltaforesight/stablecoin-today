@@ -9927,5 +9927,211 @@
         ]
       }
     ]
+  },
+  {
+    "guid": "stablecoin-today-2026-11-21",
+    "title": "Nov 21, 2026: Sky says it handled $2B of USDS redemptions, Hong Kong publishes crypto licensing bill, bitcoin hits a two-year low",
+    "pub": "2026-11-22T08:00:00+09:00",
+    "summary": "Sky says it processed more than $2 billion of USDS redemptions in a single day while its peg stability module kept at least $800 million of USDC, and it disputes a report on illicit flows through the protocol. Also: Hong Kong publishes a bill extending licensing to crypto dealers, advisers, managers and custodians, bitcoin falls to its lowest level since September 2024, and bitcoin's Canadian dollar market on Kraken briefly trades at less than half the price elsewhere.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-11-21/stablecoin-today_2026-11-21.mp3",
+    "bytes": 3263660,
+    "seconds": 271.874,
+    "notes": [
+      {
+        "title": "Follow-up: Sky says it processed more than $2B of USDS redemptions on Nov 19 and disputes a report on illicit flows",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/21/sky-protocol-defends-518m-psm-report-as-2b-usds-outflows-test-resilience/"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Hong Kong publishes a bill extending licensing to crypto dealing, advisory, management and custody",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/20/hong-kong-bill-proposes-licensing-rules-for-four-more-crypto-services/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/2-fi94_c5n"
+          ]
+        ]
+      },
+      {
+        "title": "Two House Democrats introduce a bill to reward whistleblowers on prediction market insider trading",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-20-rep-casten-seeks-curb-prediction-market-insider-trading-doj-whistleblower-program-444779"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/6edirbcpvd4"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: ECB invites industry groups to join analysis and experiments under its Appia initiative",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: attorneys general from 44 U.S. states and territories oppose the CFTC's prediction market rulemaking",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/oh-d115fx1"
+          ]
+        ]
+      },
+      {
+        "title": "Bitcoin falls to about $55,700, its lowest since September 2024, as U.S. tech stocks slide",
+        "sources": [
+          [
+            "CRYPTO TIMES Japan",
+            "https://crypto-times.jp/news-bitcoin-below-56000-lowest-since-september-2024"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff"
+          ],
+          [
+            "CRYPTO TIMES Japan",
+            "https://crypto-times.jp/news-bitcoin-below-9m-yen"
+          ]
+        ]
+      },
+      {
+        "title": "Bitcoin's Canadian dollar market on Kraken plunges to less than half the price elsewhere; Kraken denies a breach",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/21/krakens-canadian-bitcoin-market-sees-prolonged-discount-price-drops-to-c24250/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/2yvsez7e1gg"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: ether treasury firm BTCS warns its roughly $54M Aave loan could be liquidated",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/nro2e5c3td"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: independent review finds Sonic's S token supply about 48% above the figure given at launch",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/21/sonic-discloses-gap-in-s-token-supply-after-audit/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/z0nb4ufu-b7"
+          ]
+        ]
+      },
+      {
+        "title": "Fairmint plans a tokenized stock venue on Canton and Ethereum under the SEC's innovation exemption",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/4zx77d3rn_ji"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: HeartSciences shareholders approve merger with Zcash miner Fortitude ahead of a Nasdaq listing",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-20-dcgs-zcash-miner-fortitude-clears-vote-nasdaq-listing-zec-retreats-all-time-high-444784"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Wagyu operator blames a hosting provider breach for the XMR1 collapse and pledges personal refunds",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/392376"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: about $149M of bitcoin tied to the Binance hack mixed through coinjoins, Elliptic says",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/09azsta4vs"
+          ]
+        ]
+      },
+      {
+        "title": "SEC sues an investment firm over an alleged $560M fraud pitched as AI-driven forex trading",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/21/sec-freezes-assets-in-alleged-560m-ai-forex-fraud/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/5op-aj_bjj"
+          ]
+        ]
+      },
+      {
+        "title": "Bitcoin Core discloses and fixes a node-stalling bug found by an AI scanning tool",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug"
+          ]
+        ]
+      }
+    ]
   }
 ]
