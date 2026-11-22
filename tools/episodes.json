@@ -10133,5 +10133,129 @@
         ]
       }
     ]
+  },
+  {
+    "guid": "stablecoin-today-2026-11-22",
+    "title": "Nov 22, 2026: Chainflip loses $12M from its vaults, judge rejects CFTC bid in Kalshi case, bitcoin briefly back above $60,000",
+    "pub": "2026-11-23T08:00:00+09:00",
+    "summary": "No major stablecoin headlines today. Cross-chain trading protocol Chainflip lost about $12 million from its vaults and offered the attacker a bounty to return the funds. Also: a federal judge rejected the CFTC's second emergency request in New York's case against Kalshi, and bitcoin briefly climbed back above $60,000 while U.S. spot bitcoin ETFs posted about $1.25 billion in weekly outflows.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-11-22/stablecoin-today_2026-11-22.mp3",
+    "bytes": 3880556,
+    "seconds": 323.302667,
+    "notes": [
+      {
+        "title": "Tokyo tax bureau finds about 3.9 billion yen in undeclared income among 91 crypto users, NHK reports",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/392521"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: federal judge rejects the CFTC's second emergency request in New York's case against Kalshi; state court hearing set for Monday",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/o94e9c0kffx"
+          ]
+        ]
+      },
+      {
+        "title": "CFTC staff dropped an inquiry into suspected insider trading in the TRUMP memecoin, the New York Times reports",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/392442"
+          ]
+        ]
+      },
+      {
+        "title": "Philippines' Coins.ph stops transfers with self-custody wallets and applies the travel rule to all external transfers",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/21/philippines-coins-ph-blocks-self-custody-wallets-in-travel-rule-shift/"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/1dfrqdpk7xxg"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: bitcoin briefly climbs back above $60,000 as U.S. spot bitcoin ETFs post about $1.25B in weekly outflows",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/21/bitcoin-reclaims-60k-after-plunging-to-55k-as-liquidations-top-1b/"
+          ],
+          [
+            "CRYPTO TIMES Japan",
+            "https://crypto-times.jp/news-bitcoin-spot-etf-weekly-outflow-november"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/21/bitcoin-etfs-lose-1-25b-as-ether-funds-add-to-weekly-crypto-outflows/"
+          ]
+        ]
+      },
+      {
+        "title": "Canton Network outlines Universal Burn, requiring all production traffic to burn Canton Coin, with a first phase tentatively in Q1 2027",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/22/canton-network-standardizes-mainnet-fees-with-universal-burn-proposal/"
+          ]
+        ]
+      },
+      {
+        "title": "Chainflip loses about $12M from its vaults and offers the attacker a 10% bounty to return the rest",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/21/chainflip-disables-swaps-after-reported-4-86m-ethereum-vault-exploit/"
+          ]
+        ]
+      },
+      {
+        "title": "Cyber investigates a suspected bridge exploit after about 5.2M CYBER is minted; Upbit and Bithumb suspend transfers",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/22/cyber-investigates-5-21m-cyber-mint-on-solana-warns-bridge-users/"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Confiant says malicious ads targeted iPhone wallet recovery phrases in more than 47 countries, including Japan",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/392534"
+          ]
+        ]
+      }
+    ]
   }
 ]
