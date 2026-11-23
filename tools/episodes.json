@@ -10257,5 +10257,208 @@
         ]
       }
     ]
+  },
+  {
+    "guid": "stablecoin-today-2026-11-23",
+    "title": "Nov 23, 2026: Korean exchanges flag Sky's USDS, OCBC and StraitsX start stablecoin payments pilot, Visa lets AI agents earn OUSD",
+    "pub": "2026-11-24T08:00:00+09:00",
+    "summary": "South Korea's Upbit and Bithumb put Sky's USDS stablecoin and SKY token on caution lists, with Upbit halting deposits. Singapore's OCBC and StraitsX began a cross-border business stablecoin payments pilot, and Visa launched an experimental wallet that lets AI agents earn the OUSD stablecoin. Also: bitcoin briefly topped $64,000 as Nvidia reinstated Jensen Huang, and OKXICE began trading 113 tokenized U.S. securities.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-11-23/stablecoin-today_2026-11-23.mp3",
+    "bytes": 3689612,
+    "seconds": 307.381333,
+    "notes": [
+      {
+        "title": "Follow-up: Upbit and Bithumb flag Sky's SKY and USDS stablecoin as caution assets; Upbit halts deposits",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/23/sky-usds-hit-with-caution-flags-after-518m-illicit-flow-report-north-korea-ties/"
+          ]
+        ]
+      },
+      {
+        "title": "OCBC and StraitsX launch a cross-border business stablecoin payments pilot, with NTT Docomo's Singapore unit as first customer",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-23-ocbc-straitsx-pilot-stablecoin-payments-444880"
+          ]
+        ]
+      },
+      {
+        "title": "Visa launches an experimental AI agent wallet that lets agents earn the OUSD stablecoin from paid tasks",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-23-visa-launches-experimental-ai-agent-wallet-for-eligible-us-users-to-earn-ousd-from-paid-tasks-444903"
+          ]
+        ]
+      },
+      {
+        "title": "South Korea plans to widen account freezes and tighten monitoring of transfers to overseas exchanges and personal wallets",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/23/south-korea-to-tighten-aml-checks-on-crypto-transfers/"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/policy/2026/11/23/south-korea-to-expand-cryptocurrency-account-freezes-and-curb-illicit-transfers-abroad"
+          ]
+        ]
+      },
+      {
+        "title": "ECB to accept securities issued on EU DLT pilot platforms as collateral from June 2027",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/ecb-expands-eurosystem-collateral-tokenized-securities"
+          ]
+        ]
+      },
+      {
+        "title": "Bitcoin briefly tops $64,000, jumping about 4.5% within five minutes of Nvidia reinstating Jensen Huang as CEO",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/btc-price-stock-futures-rebound-three-things-know-bitcoin-this-week"
+          ],
+          [
+            "CRYPTO TIMES",
+            "https://crypto-times.jp/news-nvidia-reinstates-jensen-huang-ceo-bitcoin/"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/nvidia-reinstates-jensen-huang-ceo-intelligence-probe"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: U.S. spot bitcoin ETFs post $1.79 billion weekly outflow, the third-largest on record",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion"
+          ]
+        ]
+      },
+      {
+        "title": "Strategy buys 457 BTC and spends $211.8 million on STRC preferred buybacks",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=749116"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/strategy-buy-457-bitcoin-btc-treasury-losses"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-23-the-dots-arent-done-michael-saylor-bitcoin-444907"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: OKXICE launches 24/7 trading of tokenized U.S. securities with 113 assets; 67 companies object",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-23-okxice-launches-tokenized-securities-venue-444898"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/okxice-launch-113-tokenized-assets-objections"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/23/fidelity-investments-strive-etoro-join-okx-ice-tokenized-securities-venue"
+          ]
+        ]
+      },
+      {
+        "title": "American Bitcoin secures a $150 million bitcoin-backed revolving credit line from FalconX",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=749115"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/trumps-american-bitcoin-rises-150m-credit-falconx"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/23/trump-family-linked-american-bitcoin-abtc-obtains-150m-revolving-credit-line/"
+          ]
+        ]
+      },
+      {
+        "title": "Cross River Bank and LendingUSA launch bitcoin-backed consumer loans of $10,000 to $250,000",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/deals/2026-11-23-lendingusa-cross-river-bitcoin-backed-loans-444842"
+          ]
+        ]
+      },
+      {
+        "title": "BlackRock launches a Hong Kong dollar digital liquidity fund with stablecoin subscriptions and redemptions",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/0qz94vrxswzr"
+          ]
+        ]
+      },
+      {
+        "title": "Pump.fun to retire external wallet sign-in on the web; private key import request draws criticism",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/ecosystems/2026-11-23-pump-fun-draws-criticism-over-private-key-imports-as-it-retires-external-wallet-sign-in-on-web-444926"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: second TRUMP memecoin holder dinner held; half of qualifying wallets got tokens from exchanges barring U.S. users",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/23/trump-meme-coin-holders-offered-super-bowl-lxi-package-after-subdued-gala-dinner/"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828"
+          ]
+        ]
+      },
+      {
+        "title": "Fusionist's ACE bridge exploited for about $2 million, then drained of about $3.7 million by traders",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838"
+          ]
+        ]
+      },
+      {
+        "title": "WazirX and ZebPay user data exposed through a breach at vendor MoEngage",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/23/wazirx-and-zebpay-users-data-breached-through-third-party-vendor-moengage/"
+          ]
+        ]
+      }
+    ]
   }
 ]
