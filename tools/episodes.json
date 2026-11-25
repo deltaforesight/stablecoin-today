@@ -10460,5 +10460,259 @@
         ]
       }
     ]
+  },
+  {
+    "guid": "stablecoin-today-2026-11-24",
+    "title": "Nov 24, 2026: South Korea drafts bank-led won stablecoin rules, DOJ moves to seize $1.17B in USDC from Binance hack, Sky's stUSDS withdrawals freeze",
+    "pub": "2026-11-25T08:00:00+09:00",
+    "summary": "South Korea's financial regulator published its draft crypto law, limiting won stablecoin issuers to bank-majority groups. U.S. prosecutors filed to seize about $1.17 billion in USDC tied to the Binance hack, with Circle agreeing to reissue the tokens, and withdrawals from Sky's stUSDS lending pool remain stuck as its cofounder apologizes for his borrowing. Also: bitcoin fell back below $60,000 as November spot ETF outflows hit a record.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-11-24/stablecoin-today_2026-11-24.mp3",
+    "bytes": 4039244,
+    "seconds": 336.528,
+    "notes": [
+      {
+        "title": "South Korea publishes draft crypto law limiting won stablecoin issuers to bank-majority groups, capping exchange stakes at 20% and lifting the ICO ban",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-24-south-korea-new-crypto-bill-445494"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/south-korea-draft-bill-crypto-innovation-user-protection"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/policy/2026/11/24/south-korea-regulator-backs-bank-controlled-stablecoins-after-months-of-dispute"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: DOJ files to forfeit about $1.17 billion in USDC tied to the Binance hack; Circle agrees to reissue the tokens",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-23-doj-1-17-billion-usdc-binance-hack-circle-replacement-tokens-445398"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=749134"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Sky's stUSDS pool freezes withdrawals; cofounder apologizes and weighs selling SKY to repay about 77 million USDS",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/defi/2026-11-23-sky-cofounder-weighs-sky-sale-repay-77-million-stusds-pool-runs-dry-445373"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/sky-community-proposes-50m-buybacks-stusds-liquidity-crisis"
+          ]
+        ]
+      },
+      {
+        "title": "Moscow Exchange to add 22% VAT on USDT trades when crypto trading opens December 1",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/russia-usdt-buyer-face-22-tax-december-launch"
+          ]
+        ]
+      },
+      {
+        "title": "Datachain and the Optimism Foundation sign MOU on privacy technology for Japanese financial institutions",
+        "sources": [
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/629218"
+          ]
+        ]
+      },
+      {
+        "title": "CFTC staff let derivatives exchanges and clearinghouses count BTC, ETH and payment stablecoins toward operating reserves",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=749215"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: New York court declines to halt Kalshi as it pauses operations in Utah",
+        "sources": [
+          [
+            "CRYPTO TIMES",
+            "https://crypto-times.jp/news-kalshi-avoids-new-york-restraining-order/"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-23-kalshi-pauses-operations-utah-dodging-ban-new-york-445456"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute"
+          ]
+        ]
+      },
+      {
+        "title": "European Commission proposes 22nd Russia sanctions package targeting crypto platforms",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/24/eu-targets-russian-crypto-platforms-in-22nd-sanctions-package/"
+          ]
+        ]
+      },
+      {
+        "title": "Swiss National Bank, UBS and SIX study a shared ledger for tokenized settlement",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/swiss-central-bank-ubs-six-explore-ledger-tokenized-settlement"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Bitcoin falls back below $60,000 as November spot ETF outflows hit a record $4.71 billion",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/markets/2026-11-24-bitcoin-etfs-another-570-million-net-outflows-november-total-nears-5-billion-btc-dips-below-60k-445548"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/bitcoin-dips-60k-gold-worst-60-day-loss-1980s"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: BTCS sells more than half its ether to repay $43.8 million in Aave debt",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=749335"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn"
+          ]
+        ]
+      },
+      {
+        "title": "Ethereum Foundation doubles protocol security team, calling AI a more urgent risk than quantum",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/ecosystems/2026-11-24-ethereum-foundation-doubles-protocol-security-team-calls-ai-a-more-urgent-risk-than-quantum-445497"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=749155"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul"
+          ]
+        ]
+      },
+      {
+        "title": "JPMorgan, HSBC and StoneX complete first digital gold ownership trades in London",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/business/2026/11/24/jpmorgan-hsbc-and-stonex-complete-first-digital-gold-trades-in-london"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/iy_sweovtx"
+          ]
+        ]
+      },
+      {
+        "title": "Robinhood launches its first token tracking an actively managed ETF outside the U.S.",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=749154"
+          ]
+        ]
+      },
+      {
+        "title": "Grayscale lists 2x leveraged Zcash ETF, which falls more than 13% on day one",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-23-grayscale-launches-2x-zcash-etf-three-months-spot-fund-debut-445407"
+          ],
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/629179"
+          ]
+        ]
+      },
+      {
+        "title": "Binance hires Mandiant, SlowMist and Verichains for independent security reviews",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=749162"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/23/binance-turns-to-outside-experts-for-security-reviews-after-october-breach/"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Chainflip says stolen validator key shares enabled its $12.6 million vault theft",
+        "sources": [
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/24/chainflip-says-validator-network-flaw-enabled-12-6m-vault-theft/"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Coldcard maker Coinkite says 236 users reported losses from its seed generation flaw",
+        "sources": [
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/w3hlkp6kn6"
+          ]
+        ]
+      },
+      {
+        "title": "Wallet linked to trader Ansem sells about $2 million in memecoins; he suspects a breach",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/24/a-wallet-linked-to-popular-crypto-trader-ansem-sold-usd2-million-in-memecoins-as-his-namesake-token-cratered"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/24/ansem-wallet-dumps-70m-ansem-tokens-as-price-crashes-60-hack-or-not/"
+          ]
+        ]
+      }
+    ]
   }
 ]
