@@ -11176,5 +11176,375 @@
         ]
       }
     ]
+  },
+  {
+    "guid": "stablecoin-today-2026-11-26",
+    "title": "Nov 26, 2026: MetaMask's stablecoin card in Japan, EBA on DeFi stablecoin yield, Sky emergency vote",
+    "pub": "2026-11-27T08:00:00+09:00",
+    "summary": "MetaMask launched a card in Japan that spends its mUSD stablecoin at Mastercard merchants. Europe's banking regulator said the MiCA ban on stablecoin interest can be sidestepped through DeFi lending, and Sky called an emergency vote to ease a liquidity crunch in its stUSDS pool.",
+    "audio_url": "https://github.com/deltaforesight/stablecoin-today/releases/download/ep-2026-11-26/stablecoin-today_2026-11-26.mp3",
+    "bytes": 4098860,
+    "seconds": 341.478667,
+    "notes": [
+      {
+        "title": "MetaMask launches its stablecoin payment card in Japan, spending mUSD at Mastercard merchants",
+        "sources": [
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/630206"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=749600"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/392991/"
+          ]
+        ]
+      },
+      {
+        "title": "EBA says the MiCA stablecoin interest ban can be sidestepped via DeFi lending, renews call for rules",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/eq0e-utla5g5"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/26/eu-regulator-seeks-mica-review-over-stablecoin-risks-in-defi/"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Sky calls emergency vote to move 25M USDS for debt repayment amid stUSDS liquidity crunch",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/sky-emergency-vote-25m-transfer-stusds-liquidity-stress"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/ozgd3q6akqt"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/26/sky-price-gains-20-as-sky-protocol-proposes-25m-usds-debt-transfer/"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: bitFlyer to halt transfers with MEXC from December 7 after US Treasury order",
+        "sources": [
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/630241"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/ppdwrfowr"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/392928/"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Japan FSA study group weighs who should be regulated in DeFi",
+        "sources": [
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=749639"
+          ]
+        ]
+      },
+      {
+        "title": "OKJ launches Gram (formerly TON) staking at up to 11.88% estimated APR",
+        "sources": [
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/630168"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: US Strategic Bitcoin Reserve bill becomes eligible for a House floor vote",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=749566"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Senate Democrats urge SEC to withdraw crypto offering rules and tokenized stock exemption",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=749587"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/senate-democrats-urge-sec-to-scrap-crypto-tokenized-stock-exemptions"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: UK FCA to press ahead with DeFi authorization rules, FT reports",
+        "sources": [
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/vfcllmzu-zg1"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/26/uks-fca-plans-stricter-defi-rules-cites-6-3b-binance-hack/"
+          ]
+        ]
+      },
+      {
+        "title": "ASEAN+3 sets up working group on cross-border digital payments and digital asset rules",
+        "sources": [
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/393091/"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/26/asean-3-forms-working-group-to-link-payments-and-align-digital-asset-rules/"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: New York court orders NovaTech founders to pay about $1.37B",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-25-novatech-founders-ordered-pay-1-3-million-crypto-ponzi-scheme-haitian-investors-446643"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/25/novatech-founders-face-1-36b-liability-in-new-york-crypto-fraud-case/"
+          ]
+        ]
+      },
+      {
+        "title": "US Justice Department touts largest-ever scam crackdown with 800+ defendants",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-25-justice-department-takes-aim-billions-crypto-fraud-proceeds-largest-ever-crackdown-446711"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/26/us-agencies-escalate-scam-enforcement-across-crypto-and-global-networks/"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: US spot bitcoin ETFs post 7th straight day of outflows; November total reaches $5.39B",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving"
+          ]
+        ]
+      },
+      {
+        "title": "Follow-up: Switzerland's first spot bitcoin ETF BBIT begins trading on SIX",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/markets/2026-11-26-swiss-bitcoin-etf-bbit-begins-trading-europes-only-446724"
+          ],
+          [
+            "CoinPost",
+            "https://coinpost.jp/?p=749648"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf"
+          ]
+        ]
+      },
+      {
+        "title": "Franklin Templeton's crypto index ETF to add HYPE from December 1",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686"
+          ],
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/630152"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/mzfv_he3lyp"
+          ]
+        ]
+      },
+      {
+        "title": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735"
+          ],
+          [
+            "あたらしい経済",
+            "https://www.neweconomy.jp/posts/630324"
+          ],
+          [
+            "NADA NEWS",
+            "https://www.nadanews.com/392954/"
+          ]
+        ]
+      },
+      {
+        "title": "Aave Labs opens Aave App savings app to the public with $63M+ in balances",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/defi/2026-11-25-aave-labs-publicly-launches-savings-app-as-balances-top-63-million-446674"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/279cw2_qzr"
+          ]
+        ]
+      },
+      {
+        "title": "LayerZero adds Kakao Pay, Samsung Card and ZAN as validators for Zero",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/26/layerzero-brings-kakao-pay-samsung-card-and-zan-to-validator-network/"
+          ]
+        ]
+      },
+      {
+        "title": "Hong Kong market maker Auros is winding down, CoinDesk reports",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/x6lxb4f6p"
+          ],
+          [
+            "Crypto Times",
+            "https://www.cryptotimes.io/2026/11/26/hk-based-crypto-market-maker-auros-plans-wind-down/"
+          ]
+        ]
+      },
+      {
+        "title": "Nvidia agrees to $290M settlement over crypto mining disclosures",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/nvidia-agrees-290m-settlement-crypto-mining-revenue-disclosures"
+          ],
+          [
+            "CRYPTO TIMES",
+            "https://crypto-times.jp/news-nvidia-crypto-mining-settlement/"
+          ]
+        ]
+      },
+      {
+        "title": "Zcash developers urge users to move about 400,000 ZEC out of the Sapling pool",
+        "sources": [
+          [
+            "The Block",
+            "https://www.theblock.co/news/ecosystems/2026-11-26-the-time-to-prepare-for-a-cryptographic-breakthrough-is-before-it-happens-zcash-team-urges-faster-deprecation-of-legacy-shielded-pool-447000"
+          ],
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/zcash-users-migrate-zec-supply-sapling-pool-retirement"
+          ]
+        ]
+      },
+      {
+        "title": "Braiins reports hashrate hijacking attacks affecting over 1,000 bitcoin mining sites",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites"
+          ],
+          [
+            "The Block",
+            "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723"
+          ]
+        ]
+      },
+      {
+        "title": "Standard Chartered's Zodia Custody discloses data breach exposing client contact details",
+        "sources": [
+          [
+            "CoinDesk",
+            "https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information"
+          ],
+          [
+            "Cointelegraph",
+            "https://cointelegraph.com/news/standard-chartered-zodia-suffers-data-breach"
+          ],
+          [
+            "bitbank",
+            "https://bitbank.cc/knowledge/breaking/article/3evkugg8kaf"
+          ]
+        ]
+      }
+    ]
   }
 ]
